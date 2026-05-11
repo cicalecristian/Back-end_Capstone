@@ -26,6 +26,7 @@ public class SongArtist {
     @Setter(AccessLevel.NONE)
     private UUID id;
 
+    @Enumerated(EnumType.STRING)
     @Column(nullable = false)
     private RoleArtist role;
 
