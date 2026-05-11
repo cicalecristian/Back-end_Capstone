@@ -26,7 +26,7 @@ public class Favorite {
     @JoinColumn(name = "user_id", nullable = false)
     private User user;
 
-//    @ManyToOne
-//    @JoinColumn(name = "song_id", nullable = false)
-//    private Song song;
+    @ManyToOne
+    @JoinColumn(name = "song_id", nullable = false)
+    private Song song;
 }

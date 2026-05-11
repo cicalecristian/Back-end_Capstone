@@ -23,13 +23,13 @@ public class Review {
     private UUID id;
 
     @Column(nullable = false)
-    private int review;
+    private int rating;
 
     @ManyToOne
     @JoinColumn(name = "user_id", nullable = false)
     private User user;
 
-//    @ManyToOne
-//    @JoinColumn(name = "song_id", nullable = false)
-//    private Song song;
+    @ManyToOne
+    @JoinColumn(name = "song_id", nullable = false)
+    private Song song;
 }
