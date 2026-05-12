@@ -28,7 +28,7 @@ public class EmailSender {
             HttpResponse<JsonNode> response = Unirest.post(
                             "https://api.mailgun.net/v3/" + domainName + "/messages")
                     .basicAuth("api", apiKey)
-                    .field("from", "Just Music <cicalecristian@gmail.com>")
+                    .field("from", "Just Music <postmaster@sandboxee337a21601640258066ee74a8c75fc2.mailgun.org>")
                     .field("to", recipient.getEmail())
                     .field("subject", "Benvenuto sulla piattaforma Just Music!")
                     .field("text",
