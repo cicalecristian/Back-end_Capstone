@@ -9,7 +9,7 @@ import java.util.UUID;
 public record ReservationDTO(
         @Min(value = 1, message = "Bisogna prenotare almeno un posto")
         @Max(value = 4, message = "Il massimo di posti prenotabili è 4")
-        int seat,
+        int tickets,
 
         @NotNull(message = "Event id obbligatorio")
         UUID eventId

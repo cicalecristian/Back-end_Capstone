@@ -1,7 +1,10 @@
 package cristiancicale.capstone.entities;
 
 import jakarta.persistence.*;
-import lombok.*;
+import lombok.AccessLevel;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
 
 import java.util.UUID;
 
@@ -10,7 +13,6 @@ import java.util.UUID;
 @Getter
 @Setter
 @NoArgsConstructor
-@AllArgsConstructor
 public class Reservation {
 
     @Id
@@ -28,4 +30,10 @@ public class Reservation {
 
     @Column(nullable = false)
     private int tickets;
+
+    public Reservation(User user, Event event, int tickets) {
+        this.user = user;
+        this.event = event;
+        this.tickets = tickets;
+    }
 }
