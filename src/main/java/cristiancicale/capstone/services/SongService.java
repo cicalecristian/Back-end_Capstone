@@ -81,7 +81,7 @@ public class SongService {
     }
 
     public void findByIdAndDelete(UUID id) {
-        Song found = this.findById(id);
+        Song found = findById(id);
         songRepository.delete(found);
     }
 }

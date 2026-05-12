@@ -126,7 +126,7 @@ public class UserService {
             throw new BadRequestException("File troppo grande (max 2MB)");
         }
 
-        User found = this.findById(utenteId);
+        User found = findById(utenteId);
 
         try {
             Map result = cloudinaryUploader.uploader()

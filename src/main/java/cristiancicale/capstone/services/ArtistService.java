@@ -44,7 +44,7 @@ public class ArtistService {
 
     public Artist findByIdAndUpdate(UUID id, ArtistDTO body) {
 
-        Artist found = this.findById(id);
+        Artist found = findById(id);
 
         found.setArtistName(body.artistName());
         found.setNationality(body.nationality());
@@ -56,7 +56,7 @@ public class ArtistService {
     }
 
     public void findByIdAndDelete(UUID id) {
-        Artist found = this.findById(id);
+        Artist found = findById(id);
         artistRepository.delete(found);
     }
 }
