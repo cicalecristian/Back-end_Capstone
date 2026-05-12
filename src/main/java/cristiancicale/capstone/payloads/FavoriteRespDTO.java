@@ -2,5 +2,11 @@ package cristiancicale.capstone.payloads;
 
 import java.util.UUID;
 
-public record FavoriteRespDTO(UUID favoriteId) {
+public record FavoriteRespDTO(
+        UUID id,
+
+        UUID userId,
+
+        UUID songId
+) {
 }

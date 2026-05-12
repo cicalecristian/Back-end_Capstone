@@ -1,11 +1,9 @@
 package cristiancicale.capstone.payloads;
 
-import jakarta.validation.constraints.Future;
-import jakarta.validation.constraints.Min;
-import jakarta.validation.constraints.NotBlank;
-import jakarta.validation.constraints.Size;
+import jakarta.validation.constraints.*;
 
 import java.time.LocalDate;
+import java.util.UUID;
 
 public record EventDTO(
 
@@ -21,10 +19,15 @@ public record EventDTO(
         @Size(min = 2, max = 50, message = "Il paese deve essere tra 2 e 50 caratteri")
         String country,
 
+        @NotBlank(message = "La data è obbligatoria")
         @Future(message = "La data deve essere futura")
         LocalDate date,
 
+        @NotBlank(message = "I posti sono obbligatori")
         @Min(value = 100, message = "I posti devono essere almeno 100")
-        int seat
+        int seat,
+
+        @NotNull(message = "Artist id obbligatorio")
+        UUID artistId
 ) {
 }
