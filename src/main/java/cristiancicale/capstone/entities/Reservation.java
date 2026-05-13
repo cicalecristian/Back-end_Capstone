@@ -6,6 +6,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+import java.time.LocalDateTime;
 import java.util.UUID;
 
 @Entity
@@ -38,9 +39,13 @@ public class Reservation {
     @Column(nullable = false)
     private int tickets;
 
+    @Column(nullable = false)
+    private LocalDateTime createdAt;
+
     public Reservation(User user, Event event, int tickets) {
         this.user = user;
         this.event = event;
         this.tickets = tickets;
+        this.createdAt = LocalDateTime.now();
     }
 }

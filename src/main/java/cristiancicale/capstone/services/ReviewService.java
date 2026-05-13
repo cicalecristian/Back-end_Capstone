@@ -3,6 +3,7 @@ package cristiancicale.capstone.services;
 import cristiancicale.capstone.entities.Review;
 import cristiancicale.capstone.entities.Song;
 import cristiancicale.capstone.entities.User;
+import cristiancicale.capstone.exceptions.AccessDeniedException;
 import cristiancicale.capstone.exceptions.BadRequestException;
 import cristiancicale.capstone.exceptions.NotFoundException;
 import cristiancicale.capstone.payloads.ReviewDTO;
@@ -69,8 +70,17 @@ public class ReviewService {
         return reviewRepository.save(found);
     }
 
-    public void findByIdAndDelete(UUID id) {
+    public void findByIdAndDelete(UUID id, User currentUser) {
+
         Review found = findById(id);
+
+        boolean isOwner = found.getUser().getId().equals(currentUser.getId());
+
+        boolean isAdmin = currentUser.getRole().name().equals("ROLE_ADMIN");
+
+        if (!isOwner && !isAdmin) {
+            throw new AccessDeniedException("Non puoi eliminare questa recensione");
+        }
         reviewRepository.delete(found);
     }
 

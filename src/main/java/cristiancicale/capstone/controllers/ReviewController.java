@@ -1,0 +1,59 @@
+package cristiancicale.capstone.controllers;
+
+import cristiancicale.capstone.entities.Review;
+import cristiancicale.capstone.entities.User;
+import cristiancicale.capstone.payloads.ReviewDTO;
+import cristiancicale.capstone.services.ReviewService;
+import org.springframework.data.domain.Page;
+import org.springframework.http.HttpStatus;
+import org.springframework.security.core.annotation.AuthenticationPrincipal;
+import org.springframework.validation.annotation.Validated;
+import org.springframework.web.bind.annotation.*;
+
+import java.util.List;
+import java.util.UUID;
+
+@RestController
+@RequestMapping("/reviews")
+public class ReviewController {
+
+    public final ReviewService reviewService;
+
+    public ReviewController(ReviewService reviewService) {
+        this.reviewService = reviewService;
+    }
+
+    @PostMapping
+    @ResponseStatus(HttpStatus.CREATED)
+    public Review save(@RequestBody @Validated ReviewDTO body, @AuthenticationPrincipal User currentUser) {
+        return reviewService.save(body, currentUser);
+    }
+
+    @GetMapping
+    public Page<Review> getReview(@RequestParam(defaultValue = "0") int page,
+                                  @RequestParam(defaultValue = "10") int size,
+                                  @RequestParam(defaultValue = "rating") String sortBy) {
+        return this.reviewService.findAll(page, size, sortBy);
+    }
+
+    @GetMapping("/song/{songId}")
+    public List<Review> findBySong(@PathVariable UUID songId) {
+        return reviewService.findBySong(songId);
+    }
+
+    @PutMapping("/{songId}")
+    public Review updateReview(@PathVariable UUID songId, @RequestBody @Validated ReviewDTO body, @AuthenticationPrincipal User currentUser) {
+        return reviewService.updateReview(songId, body, currentUser);
+    }
+
+    @GetMapping("/average/{songId}")
+    public double getAverageRating(@PathVariable UUID songId) {
+        return reviewService.getAverageRating(songId);
+    }
+
+    @DeleteMapping("/{id}")
+    @ResponseStatus(HttpStatus.NO_CONTENT)
+    public void findByIdAndDelete(@PathVariable UUID id, @AuthenticationPrincipal User currentUser) {
+        reviewService.findByIdAndDelete(id, currentUser);
+    }
+}

@@ -1,5 +1,6 @@
 package cristiancicale.capstone.payloads;
 
+import java.time.LocalDateTime;
 import java.util.UUID;
 
 public record ReservationRespDTO(
@@ -9,6 +10,8 @@ public record ReservationRespDTO(
 
         UUID userId,
 
-        UUID eventId
+        UUID eventId,
+
+        LocalDateTime createdAt
 ) {
 }
