@@ -41,19 +41,18 @@ public class FavoriteService {
         return favoriteRepository.save(favorite);
     }
 
-    public Page<Favorite> findAll(int page, int size, String sortBy) {
+    public Page<Favorite> findUserFavorite(User user, int page, int size) {
         if (size > 10 || size < 0) size = 10;
         if (page < 10) page = 0;
-        Pageable pageable = PageRequest.of(page, size, Sort.by(sortBy));
-        return this.favoriteRepository.findAll(pageable);
+        Pageable pageable = PageRequest.of(page, size, Sort.by("createdAt").descending());
+        return this.favoriteRepository.findByUserId(user.getId(), pageable);
     }
 
     public Favorite findById(UUID id) {
         return favoriteRepository.findById(id).orElseThrow(() -> new NotFoundException(id));
     }
 
-    public void findByIdAndDelete(UUID id) {
-        Favorite found = findById(id);
-        favoriteRepository.delete(found);
+    public void findByIdAndDelete(UUID songId, User user) {
+        favoriteRepository.deleteByUserIdAndSongId(user.getId(), songId);
     }
 }

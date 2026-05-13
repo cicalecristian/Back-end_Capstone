@@ -5,8 +5,6 @@ import java.util.UUID;
 public record FavoriteRespDTO(
         UUID id,
 
-        UUID userId,
-
         UUID songId
 ) {
 }

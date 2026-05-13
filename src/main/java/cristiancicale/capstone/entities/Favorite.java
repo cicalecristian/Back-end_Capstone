@@ -6,6 +6,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+import java.time.LocalDateTime;
 import java.util.UUID;
 
 @Entity
@@ -24,6 +25,9 @@ public class Favorite {
     @Setter(AccessLevel.NONE)
     private UUID id;
 
+    @Column(nullable = false)
+    private LocalDateTime createdAt;
+
     @ManyToOne
     @JoinColumn(name = "user_id", nullable = false)
     private User user;
@@ -35,5 +39,6 @@ public class Favorite {
     public Favorite(User user, Song song) {
         this.user = user;
         this.song = song;
+        this.createdAt = LocalDateTime.now();
     }
 }
