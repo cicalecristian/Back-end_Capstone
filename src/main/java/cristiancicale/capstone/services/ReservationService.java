@@ -15,6 +15,7 @@ import org.springframework.data.domain.Pageable;
 import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Service;
 
+import java.util.List;
 import java.util.UUID;
 
 @Service
@@ -48,11 +49,19 @@ public class ReservationService {
         return reservationRepository.save(reservation);
     }
 
-    public Page<Reservation> findAll(int page, int size) {
+    public Page<Reservation> findAll(User currentUser, int page, int size) {
+
         if (size > 10 || size < 0) size = 10;
         if (page < 10) page = 0;
         Pageable pageable = PageRequest.of(page, size, Sort.by("createdAt").descending());
-        return this.reservationRepository.findAll(pageable);
+
+        boolean isAdmin = currentUser.getRole().name().equals("ROLE_ADMIN");
+
+        if (isAdmin) {
+            return reservationRepository.findAll(pageable);
+        }
+
+        return reservationRepository.findByUserId(currentUser.getId(), pageable);
     }
 
     public Reservation findById(UUID id, User currentUser) {
@@ -68,6 +77,13 @@ public class ReservationService {
         }
 
         return found;
+    }
+
+    public List<Reservation> findByEvent(UUID eventId) {
+
+        eventService.findById(eventId);
+
+        return reservationRepository.findByEventId(eventId);
     }
 
     public void findByIdAndDelete(UUID id, User currentUser) {

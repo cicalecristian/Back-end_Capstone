@@ -22,6 +22,7 @@ public class SongController {
     }
 
     @PostMapping
+    @PreAuthorize("hasRole('ADMIN')")
     @ResponseStatus(HttpStatus.CREATED)
     public Song save(@RequestBody @Validated SongDTO body) {
         return songService.save(body);

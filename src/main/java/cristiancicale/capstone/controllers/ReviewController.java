@@ -30,20 +30,20 @@ public class ReviewController {
     }
 
     @GetMapping
-    public Page<Review> getReview(@RequestParam(defaultValue = "0") int page,
-                                  @RequestParam(defaultValue = "10") int size,
-                                  @RequestParam(defaultValue = "rating") String sortBy) {
+    public Page<Review> getReviews(@RequestParam(defaultValue = "0") int page,
+                                   @RequestParam(defaultValue = "10") int size,
+                                   @RequestParam(defaultValue = "rating") String sortBy) {
         return this.reviewService.findAll(page, size, sortBy);
     }
 
     @GetMapping("/song/{songId}")
-    public List<Review> findBySong(@PathVariable UUID songId) {
+    public List<Review> getBySong(@PathVariable UUID songId) {
         return reviewService.findBySong(songId);
     }
 
     @PutMapping("/{songId}")
-    public Review updateReview(@PathVariable UUID songId, @RequestBody @Validated ReviewDTO body, @AuthenticationPrincipal User currentUser) {
-        return reviewService.updateReview(songId, body, currentUser);
+    public Review getByIdAndUpdate(@PathVariable UUID songId, @RequestBody @Validated ReviewDTO body, @AuthenticationPrincipal User currentUser) {
+        return reviewService.findByIdAndUpdate(songId, body, currentUser);
     }
 
     @GetMapping("/average/{songId}")

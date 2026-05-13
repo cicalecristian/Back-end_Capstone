@@ -60,7 +60,7 @@ public class ReviewService {
         return reviewRepository.findBySongId(songId);
     }
 
-    public Review updateReview(UUID songId, ReviewDTO body, User user) {
+    public Review findByIdAndUpdate(UUID songId, ReviewDTO body, User user) {
 
         Review found = reviewRepository.findByUserIdAndSongId(user.getId(), songId)
                 .orElseThrow(() -> new NotFoundException("Recensione non trovata"));

@@ -10,8 +10,6 @@ import java.util.UUID;
 public interface ReviewRepository extends JpaRepository<Review, UUID> {
     List<Review> findBySongId(UUID songId);
 
-    List<Review> findByUserId(UUID userId);
-
     boolean existsByUserIdAndSongId(UUID userId, UUID songId);
 
     Optional<Review> findByUserIdAndSongId(UUID userId, UUID songId);
