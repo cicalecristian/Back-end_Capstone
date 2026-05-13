@@ -5,7 +5,7 @@ import java.util.UUID;
 public record ReservationRespDTO(
         UUID id,
 
-        int seat,
+        int tickets,
 
         UUID userId,
 

@@ -32,6 +32,10 @@ public class ReservationService {
 
         Event event = eventService.findById(body.eventId());
 
+        if (reservationRepository.existsByUserIdAndEventId(user.getId(), event.getId())) {
+            throw new BadRequestException("Hai già prenotato questo evento");
+        }
+
         if (body.tickets() > event.getSeat()) {
             throw new BadRequestException("Posti insufficienti");
         }

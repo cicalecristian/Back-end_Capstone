@@ -9,7 +9,14 @@ import lombok.Setter;
 import java.util.UUID;
 
 @Entity
-@Table(name = "reservations")
+@Table(
+        name = "reservations",
+        uniqueConstraints = {
+                @UniqueConstraint(
+                        columnNames = {"user_id", "event_id"}
+                )
+        }
+)
 @Getter
 @Setter
 @NoArgsConstructor
