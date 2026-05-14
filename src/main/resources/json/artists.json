@@ -1,0 +1,2642 @@
+[
+  {
+    "artistName": "The Weeknd",
+    "nationality": "Canada",
+    "dateOfBirth": "1990-02-16",
+    "genre": "RNB",
+    "avatar": "https://avatar.com/the-weeknd.jpg",
+    "songs": [
+      {
+        "title": "Blinding Lights",
+        "cover": "https://cover.com/blinding-lights.jpg",
+        "duration": 200,
+        "genre": "RNB",
+        "releaseDate": "2019-11-29"
+      },
+      {
+        "title": "Starboy",
+        "cover": "https://cover.com/starboy.jpg",
+        "duration": 230,
+        "genre": "RNB",
+        "releaseDate": "2016-09-22"
+      },
+      {
+        "title": "Save Your Tears",
+        "cover": "https://cover.com/save-your-tears.jpg",
+        "duration": 215,
+        "genre": "RNB",
+        "releaseDate": "2020-03-20"
+      },
+      {
+        "title": "Die For You",
+        "cover": "https://cover.com/die-for-you.jpg",
+        "duration": 260,
+        "genre": "RNB",
+        "releaseDate": "2016-11-25"
+      },
+      {
+        "title": "Can't Feel My Face",
+        "cover": "https://cover.com/cant-feel-my-face.jpg",
+        "duration": 213,
+        "genre": "RNB",
+        "releaseDate": "2015-06-08"
+      }
+    ]
+  },
+  {
+    "artistName": "Drake",
+    "nationality": "Canada",
+    "dateOfBirth": "1986-10-24",
+    "genre": "RAP",
+    "avatar": "https://avatar.com/drake.jpg",
+    "songs": [
+      {
+        "title": "God's Plan",
+        "cover": "https://cover.com/gods-plan.jpg",
+        "duration": 198,
+        "genre": "RAP",
+        "releaseDate": "2018-01-19"
+      },
+      {
+        "title": "One Dance",
+        "cover": "https://cover.com/one-dance.jpg",
+        "duration": 173,
+        "genre": "RAP",
+        "releaseDate": "2016-04-05"
+      },
+      {
+        "title": "Hotline Bling",
+        "cover": "https://cover.com/hotline-bling.jpg",
+        "duration": 267,
+        "genre": "RAP",
+        "releaseDate": "2015-07-31"
+      },
+      {
+        "title": "Nonstop",
+        "cover": "https://cover.com/nonstop.jpg",
+        "duration": 238,
+        "genre": "RAP",
+        "releaseDate": "2018-06-29"
+      },
+      {
+        "title": "In My Feelings",
+        "cover": "https://cover.com/in-my-feelings.jpg",
+        "duration": 217,
+        "genre": "RAP",
+        "releaseDate": "2018-07-10"
+      }
+    ]
+  },
+  {
+    "artistName": "Travis Scott",
+    "nationality": "USA",
+    "dateOfBirth": "1991-04-30",
+    "genre": "TRAP",
+    "avatar": "https://avatar.com/travis-scott.jpg",
+    "songs": [
+      {
+        "title": "SICKO MODE",
+        "cover": "https://cover.com/sicko-mode.jpg",
+        "duration": 312,
+        "genre": "TRAP",
+        "releaseDate": "2018-08-03"
+      },
+      {
+        "title": "FE!N",
+        "cover": "https://cover.com/fein.jpg",
+        "duration": 191,
+        "genre": "TRAP",
+        "releaseDate": "2023-07-28"
+      },
+      {
+        "title": "Goosebumps",
+        "cover": "https://cover.com/goosebumps.jpg",
+        "duration": 244,
+        "genre": "TRAP",
+        "releaseDate": "2016-09-02"
+      },
+      {
+        "title": "Antidote",
+        "cover": "https://cover.com/antidote.jpg",
+        "duration": 262,
+        "genre": "TRAP",
+        "releaseDate": "2015-07-29"
+      },
+      {
+        "title": "HIGHEST IN THE ROOM",
+        "cover": "https://cover.com/highest-in-the-room.jpg",
+        "duration": 175,
+        "genre": "TRAP",
+        "releaseDate": "2019-10-04"
+      }
+    ]
+  },
+  {
+    "artistName": "Taylor Swift",
+    "nationality": "USA",
+    "dateOfBirth": "1989-12-13",
+    "genre": "POP",
+    "avatar": "https://avatar.com/taylor-swift.jpg",
+    "songs": [
+      {
+        "title": "Blank Space",
+        "cover": "https://cover.com/blank-space.jpg",
+        "duration": 231,
+        "genre": "POP",
+        "releaseDate": "2014-11-10"
+      },
+      {
+        "title": "Shake It Off",
+        "cover": "https://cover.com/shake-it-off.jpg",
+        "duration": 219,
+        "genre": "POP",
+        "releaseDate": "2014-08-18"
+      },
+      {
+        "title": "Love Story",
+        "cover": "https://cover.com/love-story.jpg",
+        "duration": 235,
+        "genre": "POP",
+        "releaseDate": "2008-09-12"
+      },
+      {
+        "title": "Style",
+        "cover": "https://cover.com/style.jpg",
+        "duration": 231,
+        "genre": "POP",
+        "releaseDate": "2015-02-09"
+      },
+      {
+        "title": "Anti-Hero",
+        "cover": "https://cover.com/anti-hero.jpg",
+        "duration": 200,
+        "genre": "POP",
+        "releaseDate": "2022-10-21"
+      }
+    ]
+  },
+  {
+    "artistName": "Eminem",
+    "nationality": "USA",
+    "dateOfBirth": "1972-10-17",
+    "genre": "RAP",
+    "avatar": "https://avatar.com/eminem.jpg",
+    "songs": [
+      {
+        "title": "Lose Yourself",
+        "cover": "https://cover.com/lose-yourself.jpg",
+        "duration": 326,
+        "genre": "RAP",
+        "releaseDate": "2002-10-28"
+      },
+      {
+        "title": "Without Me",
+        "cover": "https://cover.com/without-me.jpg",
+        "duration": 290,
+        "genre": "RAP",
+        "releaseDate": "2002-05-14"
+      },
+      {
+        "title": "Stan",
+        "cover": "https://cover.com/stan.jpg",
+        "duration": 404,
+        "genre": "RAP",
+        "releaseDate": "2000-11-21"
+      },
+      {
+        "title": "The Real Slim Shady",
+        "cover": "https://cover.com/the-real-slim-shady.jpg",
+        "duration": 284,
+        "genre": "RAP",
+        "releaseDate": "2000-04-18"
+      },
+      {
+        "title": "Not Afraid",
+        "cover": "https://cover.com/not-afraid.jpg",
+        "duration": 248,
+        "genre": "RAP",
+        "releaseDate": "2010-04-29"
+      }
+    ]
+  },
+  {
+    "artistName": "Queen",
+    "nationality": "UK",
+    "dateOfBirth": "1970-01-01",
+    "genre": "ROCK",
+    "avatar": "https://avatar.com/queen.jpg",
+    "songs": [
+      {
+        "title": "Bohemian Rhapsody",
+        "cover": "https://cover.com/bohemian-rhapsody.jpg",
+        "duration": 354,
+        "genre": "ROCK",
+        "releaseDate": "1975-10-31"
+      },
+      {
+        "title": "Don't Stop Me Now",
+        "cover": "https://cover.com/dont-stop-me-now.jpg",
+        "duration": 209,
+        "genre": "ROCK",
+        "releaseDate": "1979-01-26"
+      },
+      {
+        "title": "We Will Rock You",
+        "cover": "https://cover.com/we-will-rock-you.jpg",
+        "duration": 122,
+        "genre": "ROCK",
+        "releaseDate": "1977-10-07"
+      },
+      {
+        "title": "Somebody to Love",
+        "cover": "https://cover.com/somebody-to-love.jpg",
+        "duration": 296,
+        "genre": "ROCK",
+        "releaseDate": "1976-11-12"
+      },
+      {
+        "title": "Another One Bites the Dust",
+        "cover": "https://cover.com/another-one-bites-the-dust.jpg",
+        "duration": 215,
+        "genre": "ROCK",
+        "releaseDate": "1980-08-22"
+      }
+    ]
+  },
+  {
+    "artistName": "Coldplay",
+    "nationality": "UK",
+    "dateOfBirth": "1997-01-01",
+    "genre": "ROCK",
+    "avatar": "https://avatar.com/coldplay.jpg",
+    "songs": [
+      {
+        "title": "Yellow",
+        "cover": "https://cover.com/yellow.jpg",
+        "duration": 269,
+        "genre": "ROCK",
+        "releaseDate": "2000-06-26"
+      },
+      {
+        "title": "Fix You",
+        "cover": "https://cover.com/fix-you.jpg",
+        "duration": 295,
+        "genre": "ROCK",
+        "releaseDate": "2005-09-05"
+      },
+      {
+        "title": "Paradise",
+        "cover": "https://cover.com/paradise.jpg",
+        "duration": 278,
+        "genre": "ROCK",
+        "releaseDate": "2011-09-12"
+      },
+      {
+        "title": "Viva La Vida",
+        "cover": "https://cover.com/viva-la-vida.jpg",
+        "duration": 242,
+        "genre": "ROCK",
+        "releaseDate": "2008-05-25"
+      },
+      {
+        "title": "The Scientist",
+        "cover": "https://cover.com/the-scientist.jpg",
+        "duration": 309,
+        "genre": "ROCK",
+        "releaseDate": "2002-11-04"
+      }
+    ]
+  },
+  {
+    "artistName": "Bruno Mars",
+    "nationality": "USA",
+    "dateOfBirth": "1985-10-08",
+    "genre": "POP",
+    "avatar": "https://avatar.com/bruno-mars.jpg",
+    "songs": [
+      {
+        "title": "Uptown Funk",
+        "cover": "https://cover.com/uptown-funk.jpg",
+        "duration": 269,
+        "genre": "POP",
+        "releaseDate": "2014-11-10"
+      },
+      {
+        "title": "24K Magic",
+        "cover": "https://cover.com/24k-magic.jpg",
+        "duration": 226,
+        "genre": "POP",
+        "releaseDate": "2016-10-07"
+      },
+      {
+        "title": "Grenade",
+        "cover": "https://cover.com/grenade.jpg",
+        "duration": 223,
+        "genre": "POP",
+        "releaseDate": "2010-09-28"
+      },
+      {
+        "title": "Locked Out of Heaven",
+        "cover": "https://cover.com/locked-out-of-heaven.jpg",
+        "duration": 233,
+        "genre": "POP",
+        "releaseDate": "2012-10-01"
+      },
+      {
+        "title": "Just the Way You Are",
+        "cover": "https://cover.com/just-the-way-you-are.jpg",
+        "duration": 220,
+        "genre": "POP",
+        "releaseDate": "2010-07-20"
+      }
+    ]
+  },
+  {
+    "artistName": "Snoop Dogg",
+    "nationality": "USA",
+    "dateOfBirth": "1971-10-20",
+    "genre": "RAP",
+    "avatar": "https://avatar.com/snoop-dogg.jpg",
+    "songs": [
+      {
+        "title": "Drop It Like It's Hot",
+        "cover": "https://cover.com/drop-it-like-its-hot.jpg",
+        "duration": 266,
+        "genre": "RAP",
+        "releaseDate": "2004-09-12"
+      },
+      {
+        "title": "Gin and Juice",
+        "cover": "https://cover.com/gin-and-juice.jpg",
+        "duration": 211,
+        "genre": "RAP",
+        "releaseDate": "1994-01-18"
+      },
+      {
+        "title": "Who Am I",
+        "cover": "https://cover.com/who-am-i.jpg",
+        "duration": 246,
+        "genre": "RAP",
+        "releaseDate": "1993-10-30"
+      },
+      {
+        "title": "Beautiful",
+        "cover": "https://cover.com/beautiful.jpg",
+        "duration": 299,
+        "genre": "RAP",
+        "releaseDate": "2002-12-21"
+      },
+      {
+        "title": "Young, Wild & Free",
+        "cover": "https://cover.com/young-wild-free.jpg",
+        "duration": 207,
+        "genre": "RAP",
+        "releaseDate": "2011-10-11"
+      }
+    ]
+  },
+  {
+    "artistName": "50 Cent",
+    "nationality": "USA",
+    "dateOfBirth": "1975-07-06",
+    "genre": "RAP",
+    "avatar": "https://avatar.com/50-cent.jpg",
+    "songs": [
+      {
+        "title": "In Da Club",
+        "cover": "https://cover.com/in-da-club.jpg",
+        "duration": 193,
+        "genre": "RAP",
+        "releaseDate": "2003-01-07"
+      },
+      {
+        "title": "Candy Shop",
+        "cover": "https://cover.com/candy-shop.jpg",
+        "duration": 209,
+        "genre": "RAP",
+        "releaseDate": "2005-01-11"
+      },
+      {
+        "title": "Many Men",
+        "cover": "https://cover.com/many-men.jpg",
+        "duration": 256,
+        "genre": "RAP",
+        "releaseDate": "2003-02-06"
+      },
+      {
+        "title": "P.I.M.P.",
+        "cover": "https://cover.com/pimp.jpg",
+        "duration": 249,
+        "genre": "RAP",
+        "releaseDate": "2003-08-12"
+      },
+      {
+        "title": "21 Questions",
+        "cover": "https://cover.com/21-questions.jpg",
+        "duration": 224,
+        "genre": "RAP",
+        "releaseDate": "2003-03-04"
+      }
+    ]
+  },
+  {
+    "artistName": "Adele",
+    "nationality": "UK",
+    "dateOfBirth": "1988-05-05",
+    "genre": "POP",
+    "avatar": "https://avatar.com/adele.jpg",
+    "songs": [
+      {
+        "title": "Hello",
+        "cover": "https://cover.com/hello.jpg",
+        "duration": 295,
+        "genre": "POP",
+        "releaseDate": "2015-10-23"
+      },
+      {
+        "title": "Rolling in the Deep",
+        "cover": "https://cover.com/rolling-in-the-deep.jpg",
+        "duration": 228,
+        "genre": "POP",
+        "releaseDate": "2010-11-29"
+      },
+      {
+        "title": "Someone Like You",
+        "cover": "https://cover.com/someone-like-you.jpg",
+        "duration": 285,
+        "genre": "POP",
+        "releaseDate": "2011-01-24"
+      },
+      {
+        "title": "Easy On Me",
+        "cover": "https://cover.com/easy-on-me.jpg",
+        "duration": 224,
+        "genre": "POP",
+        "releaseDate": "2021-10-15"
+      },
+      {
+        "title": "Set Fire to the Rain",
+        "cover": "https://cover.com/set-fire-to-the-rain.jpg",
+        "duration": 242,
+        "genre": "POP",
+        "releaseDate": "2011-07-04"
+      }
+    ]
+  },
+  {
+    "artistName": "Imagine Dragons",
+    "nationality": "USA",
+    "dateOfBirth": "2008-01-01",
+    "genre": "ROCK",
+    "avatar": "https://avatar.com/imagine-dragons.jpg",
+    "songs": [
+      {
+        "title": "Believer",
+        "cover": "https://cover.com/believer.jpg",
+        "duration": 204,
+        "genre": "ROCK",
+        "releaseDate": "2017-02-01"
+      },
+      {
+        "title": "Radioactive",
+        "cover": "https://cover.com/radioactive.jpg",
+        "duration": 186,
+        "genre": "ROCK",
+        "releaseDate": "2012-02-14"
+      },
+      {
+        "title": "Demons",
+        "cover": "https://cover.com/demons.jpg",
+        "duration": 177,
+        "genre": "ROCK",
+        "releaseDate": "2013-01-28"
+      },
+      {
+        "title": "Thunder",
+        "cover": "https://cover.com/thunder.jpg",
+        "duration": 187,
+        "genre": "ROCK",
+        "releaseDate": "2017-04-27"
+      },
+      {
+        "title": "Whatever It Takes",
+        "cover": "https://cover.com/whatever-it-takes.jpg",
+        "duration": 201,
+        "genre": "ROCK",
+        "releaseDate": "2017-05-08"
+      }
+    ]
+  },
+  {
+    "artistName": "Post Malone",
+    "nationality": "USA",
+    "dateOfBirth": "1995-07-04",
+    "genre": "RAP",
+    "avatar": "https://avatar.com/post-malone.jpg",
+    "songs": [
+      {
+        "title": "Circles",
+        "cover": "https://cover.com/circles.jpg",
+        "duration": 215,
+        "genre": "RAP",
+        "releaseDate": "2019-08-30"
+      },
+      {
+        "title": "Rockstar",
+        "cover": "https://cover.com/rockstar.jpg",
+        "duration": 218,
+        "genre": "RAP",
+        "releaseDate": "2017-09-15"
+      },
+      {
+        "title": "Sunflower",
+        "cover": "https://cover.com/sunflower.jpg",
+        "duration": 158,
+        "genre": "RAP",
+        "releaseDate": "2018-10-18"
+      },
+      {
+        "title": "Congratulations",
+        "cover": "https://cover.com/congratulations.jpg",
+        "duration": 220,
+        "genre": "RAP",
+        "releaseDate": "2016-11-04"
+      },
+      {
+        "title": "White Iverson",
+        "cover": "https://cover.com/white-iverson.jpg",
+        "duration": 256,
+        "genre": "RAP",
+        "releaseDate": "2015-02-04"
+      }
+    ]
+  },
+  {
+    "artistName": "Billie Eilish",
+    "nationality": "USA",
+    "dateOfBirth": "2001-12-18",
+    "genre": "POP",
+    "avatar": "https://avatar.com/billie-eilish.jpg",
+    "songs": [
+      {
+        "title": "bad guy",
+        "cover": "https://cover.com/bad-guy.jpg",
+        "duration": 194,
+        "genre": "POP",
+        "releaseDate": "2019-03-29"
+      },
+      {
+        "title": "Happier Than Ever",
+        "cover": "https://cover.com/happier-than-ever.jpg",
+        "duration": 298,
+        "genre": "POP",
+        "releaseDate": "2021-07-30"
+      },
+      {
+        "title": "everything i wanted",
+        "cover": "https://cover.com/everything-i-wanted.jpg",
+        "duration": 245,
+        "genre": "POP",
+        "releaseDate": "2019-11-13"
+      },
+      {
+        "title": "bury a friend",
+        "cover": "https://cover.com/bury-a-friend.jpg",
+        "duration": 193,
+        "genre": "POP",
+        "releaseDate": "2019-01-30"
+      },
+      {
+        "title": "Ocean Eyes",
+        "cover": "https://cover.com/ocean-eyes.jpg",
+        "duration": 200,
+        "genre": "POP",
+        "releaseDate": "2016-05-18"
+      }
+    ]
+  },
+  {
+    "artistName": "Lil Wayne",
+    "nationality": "USA",
+    "dateOfBirth": "1982-09-27",
+    "genre": "RAP",
+    "avatar": "https://avatar.com/lil-wayne.jpg",
+    "songs": [
+      {
+        "title": "Lollipop",
+        "cover": "https://cover.com/lollipop.jpg",
+        "duration": 299,
+        "genre": "RAP",
+        "releaseDate": "2008-03-13"
+      },
+      {
+        "title": "A Milli",
+        "cover": "https://cover.com/a-milli.jpg",
+        "duration": 221,
+        "genre": "RAP",
+        "releaseDate": "2008-04-23"
+      },
+      {
+        "title": "6 Foot 7 Foot",
+        "cover": "https://cover.com/6-foot-7-foot.jpg",
+        "duration": 249,
+        "genre": "RAP",
+        "releaseDate": "2010-12-15"
+      },
+      {
+        "title": "How to Love",
+        "cover": "https://cover.com/how-to-love.jpg",
+        "duration": 240,
+        "genre": "RAP",
+        "releaseDate": "2011-05-24"
+      },
+      {
+        "title": "Mirror",
+        "cover": "https://cover.com/mirror.jpg",
+        "duration": 228,
+        "genre": "RAP",
+        "releaseDate": "2011-11-01"
+      }
+    ]
+  },
+  {
+    "artistName": "Sfera Ebbasta",
+    "nationality": "Italy",
+    "dateOfBirth": "1992-12-07",
+    "genre": "TRAP",
+    "avatar": "https://avatar.com/sfera-ebbasta.jpg",
+    "songs": [
+      {
+        "title": "Cupido",
+        "cover": "https://cover.com/cupido.jpg",
+        "duration": 214,
+        "genre": "TRAP",
+        "releaseDate": "2018-11-20"
+      },
+      {
+        "title": "Tran Tran",
+        "cover": "https://cover.com/tran-tran.jpg",
+        "duration": 203,
+        "genre": "TRAP",
+        "releaseDate": "2016-09-09"
+      },
+      {
+        "title": "Ricchi x Sempre",
+        "cover": "https://cover.com/ricchi-x-sempre.jpg",
+        "duration": 221,
+        "genre": "TRAP",
+        "releaseDate": "2017-11-10"
+      },
+      {
+        "title": "BRNBQ",
+        "cover": "https://cover.com/brnbq.jpg",
+        "duration": 188,
+        "genre": "TRAP",
+        "releaseDate": "2018-01-19"
+      },
+      {
+        "title": "Baby",
+        "cover": "https://cover.com/baby.jpg",
+        "duration": 217,
+        "genre": "TRAP",
+        "releaseDate": "2018-11-30"
+      }
+    ]
+  },
+  {
+    "artistName": "Marracash",
+    "nationality": "Italy",
+    "dateOfBirth": "1979-05-22",
+    "genre": "RAP",
+    "avatar": "https://avatar.com/marracash.jpg",
+    "songs": [
+      {
+        "title": "Crudelia",
+        "cover": "https://cover.com/crudelia.jpg",
+        "duration": 228,
+        "genre": "RAP",
+        "releaseDate": "2019-10-31"
+      },
+      {
+        "title": "Nulla Accade",
+        "cover": "https://cover.com/nulla-accade.jpg",
+        "duration": 233,
+        "genre": "RAP",
+        "releaseDate": "2019-10-31"
+      },
+      {
+        "title": "Bravi a Cadere",
+        "cover": "https://cover.com/bravi-a-cadere.jpg",
+        "duration": 214,
+        "genre": "RAP",
+        "releaseDate": "2019-10-31"
+      },
+      {
+        "title": "Crazy Love",
+        "cover": "https://cover.com/crazy-love.jpg",
+        "duration": 233,
+        "genre": "RAP",
+        "releaseDate": "2021-06-11"
+      },
+      {
+        "title": "Dubbi",
+        "cover": "https://cover.com/dubbi.jpg",
+        "duration": 201,
+        "genre": "RAP",
+        "releaseDate": "2019-10-31"
+      }
+    ]
+  },
+  {
+    "artistName": "Salmo",
+    "nationality": "Italy",
+    "dateOfBirth": "1984-06-29",
+    "genre": "RAP",
+    "avatar": "https://avatar.com/salmo.jpg",
+    "songs": [
+      {
+        "title": "90MIN",
+        "cover": "https://cover.com/90min.jpg",
+        "duration": 201,
+        "genre": "RAP",
+        "releaseDate": "2021-10-01"
+      },
+      {
+        "title": "Il Cielo nella Stanza",
+        "cover": "https://cover.com/il-cielo-nella-stanza.jpg",
+        "duration": 215,
+        "genre": "RAP",
+        "releaseDate": "2018-11-09"
+      },
+      {
+        "title": "YHWH",
+        "cover": "https://cover.com/yhwh.jpg",
+        "duration": 226,
+        "genre": "RAP",
+        "releaseDate": "2018-11-09"
+      },
+      {
+        "title": "Perdonami",
+        "cover": "https://cover.com/perdonami.jpg",
+        "duration": 227,
+        "genre": "RAP",
+        "releaseDate": "2018-02-23"
+      },
+      {
+        "title": "Estate Dimmerda",
+        "cover": "https://cover.com/estate-dimmerda.jpg",
+        "duration": 227,
+        "genre": "RAP",
+        "releaseDate": "2011-06-21"
+      }
+    ]
+  },
+  {
+    "artistName": "Mahmood",
+    "nationality": "Italy",
+    "dateOfBirth": "1992-09-12",
+    "genre": "POP",
+    "avatar": "https://avatar.com/mahmood.jpg",
+    "songs": [
+      {
+        "title": "Soldi",
+        "cover": "https://cover.com/soldi.jpg",
+        "duration": 196,
+        "genre": "POP",
+        "releaseDate": "2019-02-06"
+      },
+      {
+        "title": "Brividi",
+        "cover": "https://cover.com/brividi.jpg",
+        "duration": 203,
+        "genre": "POP",
+        "releaseDate": "2022-02-02"
+      },
+      {
+        "title": "Rapide",
+        "cover": "https://cover.com/rapide.jpg",
+        "duration": 190,
+        "genre": "POP",
+        "releaseDate": "2020-01-16"
+      },
+      {
+        "title": "Barrio",
+        "cover": "https://cover.com/barrio.jpg",
+        "duration": 173,
+        "genre": "POP",
+        "releaseDate": "2019-08-30"
+      },
+      {
+        "title": "Kobra",
+        "cover": "https://cover.com/kobra.jpg",
+        "duration": 169,
+        "genre": "POP",
+        "releaseDate": "2021-09-03"
+      }
+    ]
+  },
+  {
+    "artistName": "Geolier",
+    "nationality": "Italy",
+    "dateOfBirth": "2000-03-23",
+    "genre": "RAP",
+    "avatar": "https://avatar.com/geolier.jpg",
+    "songs": [
+      {
+        "title": "I p' me, tu p' te",
+        "cover": "https://cover.com/i-p-me-tu-p-te.jpg",
+        "duration": 184,
+        "genre": "RAP",
+        "releaseDate": "2024-02-07"
+      },
+      {
+        "title": "Chiagne",
+        "cover": "https://cover.com/chiagne.jpg",
+        "duration": 201,
+        "genre": "RAP",
+        "releaseDate": "2023-11-10"
+      },
+      {
+        "title": "Money",
+        "cover": "https://cover.com/money.jpg",
+        "duration": 173,
+        "genre": "RAP",
+        "releaseDate": "2019-06-21"
+      },
+      {
+        "title": "Moncler",
+        "cover": "https://cover.com/moncler.jpg",
+        "duration": 184,
+        "genre": "RAP",
+        "releaseDate": "2019-01-25"
+      },
+      {
+        "title": "X Caso",
+        "cover": "https://cover.com/x-caso.jpg",
+        "duration": 188,
+        "genre": "RAP",
+        "releaseDate": "2022-06-10"
+      }
+    ]
+  },
+  {
+    "artistName": "Playboi Carti",
+    "nationality": "USA",
+    "dateOfBirth": "1996-09-13",
+    "genre": "TRAP",
+    "avatar": "https://avatar.com/playboi-carti.jpg",
+    "songs": [
+      {
+        "title": "Magnolia",
+        "cover": "https://cover.com/magnolia.jpg",
+        "duration": 181,
+        "genre": "TRAP",
+        "releaseDate": "2017-04-14"
+      },
+      {
+        "title": "Sky",
+        "cover": "https://cover.com/sky.jpg",
+        "duration": 193,
+        "genre": "TRAP",
+        "releaseDate": "2020-12-25"
+      },
+      {
+        "title": "Shoota",
+        "cover": "https://cover.com/shoota.jpg",
+        "duration": 153,
+        "genre": "TRAP",
+        "releaseDate": "2018-05-11"
+      },
+      {
+        "title": "wokeuplikethis*",
+        "cover": "https://cover.com/wokeuplikethis.jpg",
+        "duration": 176,
+        "genre": "TRAP",
+        "releaseDate": "2017-04-14"
+      },
+      {
+        "title": "R.I.P.",
+        "cover": "https://cover.com/rip.jpg",
+        "duration": 192,
+        "genre": "TRAP",
+        "releaseDate": "2018-05-11"
+      }
+    ]
+  },
+  {
+    "artistName": "Future",
+    "nationality": "USA",
+    "dateOfBirth": "1983-11-20",
+    "genre": "TRAP",
+    "avatar": "https://avatar.com/future.jpg",
+    "songs": [
+      {
+        "title": "Mask Off",
+        "cover": "https://cover.com/mask-off.jpg",
+        "duration": 204,
+        "genre": "TRAP",
+        "releaseDate": "2017-02-17"
+      },
+      {
+        "title": "Life Is Good",
+        "cover": "https://cover.com/life-is-good.jpg",
+        "duration": 237,
+        "genre": "TRAP",
+        "releaseDate": "2020-01-10"
+      },
+      {
+        "title": "March Madness",
+        "cover": "https://cover.com/march-madness.jpg",
+        "duration": 244,
+        "genre": "TRAP",
+        "releaseDate": "2015-03-21"
+      },
+      {
+        "title": "Low Life",
+        "cover": "https://cover.com/low-life.jpg",
+        "duration": 313,
+        "genre": "TRAP",
+        "releaseDate": "2016-02-05"
+      },
+      {
+        "title": "WAIT FOR U",
+        "cover": "https://cover.com/wait-for-u.jpg",
+        "duration": 189,
+        "genre": "TRAP",
+        "releaseDate": "2022-04-29"
+      }
+    ]
+  },
+  {
+    "artistName": "21 Savage",
+    "nationality": "UK",
+    "dateOfBirth": "1992-10-22",
+    "genre": "RAP",
+    "avatar": "https://avatar.com/21-savage.jpg",
+    "songs": [
+      {
+        "title": "Bank Account",
+        "cover": "https://cover.com/bank-account.jpg",
+        "duration": 220,
+        "genre": "RAP",
+        "releaseDate": "2017-07-07"
+      },
+      {
+        "title": "a lot",
+        "cover": "https://cover.com/a-lot.jpg",
+        "duration": 288,
+        "genre": "RAP",
+        "releaseDate": "2018-12-21"
+      },
+      {
+        "title": "Runnin",
+        "cover": "https://cover.com/runnin.jpg",
+        "duration": 195,
+        "genre": "RAP",
+        "releaseDate": "2020-10-02"
+      },
+      {
+        "title": "redrum",
+        "cover": "https://cover.com/redrum.jpg",
+        "duration": 270,
+        "genre": "RAP",
+        "releaseDate": "2024-01-12"
+      },
+      {
+        "title": "Jimmy Cooks",
+        "cover": "https://cover.com/jimmy-cooks.jpg",
+        "duration": 218,
+        "genre": "RAP",
+        "releaseDate": "2022-06-17"
+      }
+    ]
+  },
+  {
+    "artistName": "Doja Cat",
+    "nationality": "USA",
+    "dateOfBirth": "1995-10-21",
+    "genre": "RNB",
+    "avatar": "https://avatar.com/doja-cat.jpg",
+    "songs": [
+      {
+        "title": "Paint The Town Red",
+        "cover": "https://cover.com/paint-the-town-red.jpg",
+        "duration": 231,
+        "genre": "RNB",
+        "releaseDate": "2023-08-04"
+      },
+      {
+        "title": "Say So",
+        "cover": "https://cover.com/say-so.jpg",
+        "duration": 237,
+        "genre": "RNB",
+        "releaseDate": "2019-11-07"
+      },
+      {
+        "title": "Woman",
+        "cover": "https://cover.com/woman.jpg",
+        "duration": 172,
+        "genre": "RNB",
+        "releaseDate": "2021-06-25"
+      },
+      {
+        "title": "Kiss Me More",
+        "cover": "https://cover.com/kiss-me-more.jpg",
+        "duration": 208,
+        "genre": "RNB",
+        "releaseDate": "2021-04-09"
+      },
+      {
+        "title": "Need to Know",
+        "cover": "https://cover.com/need-to-know.jpg",
+        "duration": 210,
+        "genre": "RNB",
+        "releaseDate": "2021-06-11"
+      }
+    ]
+  },
+  {
+    "artistName": "Frank Ocean",
+    "nationality": "USA",
+    "dateOfBirth": "1987-10-28",
+    "genre": "RNB",
+    "avatar": "https://avatar.com/frank-ocean.jpg",
+    "songs": [
+      {
+        "title": "Thinkin Bout You",
+        "cover": "https://cover.com/thinkin-bout-you.jpg",
+        "duration": 200,
+        "genre": "RNB",
+        "releaseDate": "2012-04-17"
+      },
+      {
+        "title": "Nikes",
+        "cover": "https://cover.com/nikes.jpg",
+        "duration": 314,
+        "genre": "RNB",
+        "releaseDate": "2016-08-20"
+      },
+      {
+        "title": "Pink + White",
+        "cover": "https://cover.com/pink--white.jpg",
+        "duration": 184,
+        "genre": "RNB",
+        "releaseDate": "2016-08-20"
+      },
+      {
+        "title": "Lost",
+        "cover": "https://cover.com/lost.jpg",
+        "duration": 234,
+        "genre": "RNB",
+        "releaseDate": "2012-07-10"
+      },
+      {
+        "title": "Ivy",
+        "cover": "https://cover.com/ivy.jpg",
+        "duration": 249,
+        "genre": "RNB",
+        "releaseDate": "2016-08-20"
+      }
+    ]
+  },
+  {
+    "artistName": "Nas",
+    "nationality": "USA",
+    "dateOfBirth": "1973-09-14",
+    "genre": "RAP",
+    "avatar": "https://avatar.com/nas.jpg",
+    "songs": [
+      {
+        "title": "N.Y. State of Mind",
+        "cover": "https://cover.com/ny-state-of-mind.jpg",
+        "duration": 294,
+        "genre": "RAP",
+        "releaseDate": "1994-04-19"
+      },
+      {
+        "title": "If I Ruled the World",
+        "cover": "https://cover.com/if-i-ruled-the-world.jpg",
+        "duration": 282,
+        "genre": "RAP",
+        "releaseDate": "1996-06-04"
+      },
+      {
+        "title": "The World Is Yours",
+        "cover": "https://cover.com/the-world-is-yours.jpg",
+        "duration": 290,
+        "genre": "RAP",
+        "releaseDate": "1994-04-19"
+      },
+      {
+        "title": "Made You Look",
+        "cover": "https://cover.com/made-you-look.jpg",
+        "duration": 203,
+        "genre": "RAP",
+        "releaseDate": "2002-09-10"
+      },
+      {
+        "title": "One Mic",
+        "cover": "https://cover.com/one-mic.jpg",
+        "duration": 268,
+        "genre": "RAP",
+        "releaseDate": "2001-12-18"
+      }
+    ]
+  },
+  {
+    "artistName": "J. Cole",
+    "nationality": "USA",
+    "dateOfBirth": "1985-01-28",
+    "genre": "HIP_HOP",
+    "avatar": "https://avatar.com/j-cole.jpg",
+    "songs": [
+      {
+        "title": "No Role Modelz",
+        "cover": "https://cover.com/no-role-modelz.jpg",
+        "duration": 292,
+        "genre": "HIP_HOP",
+        "releaseDate": "2014-12-09"
+      },
+      {
+        "title": "Middle Child",
+        "cover": "https://cover.com/middle-child.jpg",
+        "duration": 213,
+        "genre": "HIP_HOP",
+        "releaseDate": "2019-01-23"
+      },
+      {
+        "title": "Wet Dreamz",
+        "cover": "https://cover.com/wet-dreamz.jpg",
+        "duration": 239,
+        "genre": "HIP_HOP",
+        "releaseDate": "2014-12-09"
+      },
+      {
+        "title": "Love Yourz",
+        "cover": "https://cover.com/love-yourz.jpg",
+        "duration": 211,
+        "genre": "HIP_HOP",
+        "releaseDate": "2014-12-09"
+      },
+      {
+        "title": "Power Trip",
+        "cover": "https://cover.com/power-trip.jpg",
+        "duration": 241,
+        "genre": "HIP_HOP",
+        "releaseDate": "2013-02-14"
+      }
+    ]
+  },
+  {
+    "artistName": "Lil Baby",
+    "nationality": "USA",
+    "dateOfBirth": "1994-12-03",
+    "genre": "TRAP",
+    "avatar": "https://avatar.com/lil-baby.jpg",
+    "songs": [
+      {
+        "title": "Drip Too Hard",
+        "cover": "https://cover.com/drip-too-hard.jpg",
+        "duration": 145,
+        "genre": "TRAP",
+        "releaseDate": "2018-09-12"
+      },
+      {
+        "title": "Yes Indeed",
+        "cover": "https://cover.com/yes-indeed.jpg",
+        "duration": 142,
+        "genre": "TRAP",
+        "releaseDate": "2018-05-15"
+      },
+      {
+        "title": "Freestyle",
+        "cover": "https://cover.com/freestyle.jpg",
+        "duration": 162,
+        "genre": "TRAP",
+        "releaseDate": "2017-12-01"
+      },
+      {
+        "title": "Woah",
+        "cover": "https://cover.com/woah.jpg",
+        "duration": 183,
+        "genre": "TRAP",
+        "releaseDate": "2019-11-08"
+      },
+      {
+        "title": "The Bigger Picture",
+        "cover": "https://cover.com/the-bigger-picture.jpg",
+        "duration": 252,
+        "genre": "TRAP",
+        "releaseDate": "2020-06-12"
+      }
+    ]
+  },
+  {
+    "artistName": "Roddy Ricch",
+    "nationality": "USA",
+    "dateOfBirth": "1998-10-22",
+    "genre": "RAP",
+    "avatar": "https://avatar.com/roddy-ricch.jpg",
+    "songs": [
+      {
+        "title": "The Box",
+        "cover": "https://cover.com/the-box.jpg",
+        "duration": 196,
+        "genre": "RAP",
+        "releaseDate": "2019-12-06"
+      },
+      {
+        "title": "High Fashion",
+        "cover": "https://cover.com/high-fashion.jpg",
+        "duration": 220,
+        "genre": "RAP",
+        "releaseDate": "2019-12-06"
+      },
+      {
+        "title": "Ballin'",
+        "cover": "https://cover.com/ballin.jpg",
+        "duration": 180,
+        "genre": "RAP",
+        "releaseDate": "2019-06-14"
+      },
+      {
+        "title": "Late At Night",
+        "cover": "https://cover.com/late-at-night.jpg",
+        "duration": 173,
+        "genre": "RAP",
+        "releaseDate": "2021-06-04"
+      },
+      {
+        "title": "Start Wit Me",
+        "cover": "https://cover.com/start-wit-me.jpg",
+        "duration": 157,
+        "genre": "RAP",
+        "releaseDate": "2019-11-01"
+      }
+    ]
+  },
+  {
+    "artistName": "Polo G",
+    "nationality": "USA",
+    "dateOfBirth": "1999-01-06",
+    "genre": "RAP",
+    "avatar": "https://avatar.com/polo-g.jpg",
+    "songs": [
+      {
+        "title": "Rapstar",
+        "cover": "https://cover.com/rapstar.jpg",
+        "duration": 165,
+        "genre": "RAP",
+        "releaseDate": "2021-04-09"
+      },
+      {
+        "title": "Pop Out",
+        "cover": "https://cover.com/pop-out.jpg",
+        "duration": 166,
+        "genre": "RAP",
+        "releaseDate": "2019-02-01"
+      },
+      {
+        "title": "Martin & Gina",
+        "cover": "https://cover.com/martin-&-gina.jpg",
+        "duration": 132,
+        "genre": "RAP",
+        "releaseDate": "2019-06-07"
+      },
+      {
+        "title": "Flex",
+        "cover": "https://cover.com/flex.jpg",
+        "duration": 179,
+        "genre": "RAP",
+        "releaseDate": "2020-05-15"
+      },
+      {
+        "title": "Through Da Storm",
+        "cover": "https://cover.com/through-da-storm.jpg",
+        "duration": 160,
+        "genre": "RAP",
+        "releaseDate": "2018-06-08"
+      }
+    ]
+  },
+  {
+    "artistName": "BTS",
+    "nationality": "South Korea",
+    "dateOfBirth": "2013-06-13",
+    "genre": "POP",
+    "avatar": "https://avatar.com/bts.jpg",
+    "songs": [
+      {
+        "title": "Dynamite",
+        "cover": "https://cover.com/dynamite.jpg",
+        "duration": 199,
+        "genre": "POP",
+        "releaseDate": "2020-08-21"
+      },
+      {
+        "title": "Butter",
+        "cover": "https://cover.com/butter.jpg",
+        "duration": 164,
+        "genre": "POP",
+        "releaseDate": "2021-05-21"
+      },
+      {
+        "title": "Boy With Luv",
+        "cover": "https://cover.com/boy-with-luv.jpg",
+        "duration": 229,
+        "genre": "POP",
+        "releaseDate": "2019-04-12"
+      },
+      {
+        "title": "Fake Love",
+        "cover": "https://cover.com/fake-love.jpg",
+        "duration": 242,
+        "genre": "POP",
+        "releaseDate": "2018-05-18"
+      },
+      {
+        "title": "Spring Day",
+        "cover": "https://cover.com/spring-day.jpg",
+        "duration": 274,
+        "genre": "POP",
+        "releaseDate": "2017-02-13"
+      }
+    ]
+  },
+  {
+    "artistName": "BLACKPINK",
+    "nationality": "South Korea",
+    "dateOfBirth": "2016-08-08",
+    "genre": "POP",
+    "avatar": "https://avatar.com/blackpink.jpg",
+    "songs": [
+      {
+        "title": "DDU-DU DDU-DU",
+        "cover": "https://cover.com/ddu-du-ddu-du.jpg",
+        "duration": 211,
+        "genre": "POP",
+        "releaseDate": "2018-06-15"
+      },
+      {
+        "title": "Pink Venom",
+        "cover": "https://cover.com/pink-venom.jpg",
+        "duration": 187,
+        "genre": "POP",
+        "releaseDate": "2022-08-19"
+      },
+      {
+        "title": "How You Like That",
+        "cover": "https://cover.com/how-you-like-that.jpg",
+        "duration": 181,
+        "genre": "POP",
+        "releaseDate": "2020-06-26"
+      },
+      {
+        "title": "Kill This Love",
+        "cover": "https://cover.com/kill-this-love.jpg",
+        "duration": 189,
+        "genre": "POP",
+        "releaseDate": "2019-04-05"
+      },
+      {
+        "title": "Shut Down",
+        "cover": "https://cover.com/shut-down.jpg",
+        "duration": 175,
+        "genre": "POP",
+        "releaseDate": "2022-09-16"
+      }
+    ]
+  },
+  {
+    "artistName": "Jungkook",
+    "nationality": "South Korea",
+    "dateOfBirth": "1997-09-01",
+    "genre": "POP",
+    "avatar": "https://avatar.com/jungkook.jpg",
+    "songs": [
+      {
+        "title": "Seven",
+        "cover": "https://cover.com/seven.jpg",
+        "duration": 184,
+        "genre": "POP",
+        "releaseDate": "2023-07-14"
+      },
+      {
+        "title": "Standing Next to You",
+        "cover": "https://cover.com/standing-next-to-you.jpg",
+        "duration": 206,
+        "genre": "POP",
+        "releaseDate": "2023-11-03"
+      },
+      {
+        "title": "3D",
+        "cover": "https://cover.com/3d.jpg",
+        "duration": 201,
+        "genre": "POP",
+        "releaseDate": "2023-09-29"
+      },
+      {
+        "title": "Euphoria",
+        "cover": "https://cover.com/euphoria.jpg",
+        "duration": 228,
+        "genre": "POP",
+        "releaseDate": "2018-04-05"
+      },
+      {
+        "title": "Still With You",
+        "cover": "https://cover.com/still-with-you.jpg",
+        "duration": 237,
+        "genre": "POP",
+        "releaseDate": "2020-06-05"
+      }
+    ]
+  },
+  {
+    "artistName": "Stray Kids",
+    "nationality": "South Korea",
+    "dateOfBirth": "2017-01-01",
+    "genre": "POP",
+    "avatar": "https://avatar.com/stray-kids.jpg",
+    "songs": [
+      {
+        "title": "God's Menu",
+        "cover": "https://cover.com/gods-menu.jpg",
+        "duration": 167,
+        "genre": "POP",
+        "releaseDate": "2020-06-17"
+      },
+      {
+        "title": "MANIAC",
+        "cover": "https://cover.com/maniac.jpg",
+        "duration": 182,
+        "genre": "POP",
+        "releaseDate": "2022-03-18"
+      },
+      {
+        "title": "S-Class",
+        "cover": "https://cover.com/s-class.jpg",
+        "duration": 195,
+        "genre": "POP",
+        "releaseDate": "2023-06-02"
+      },
+      {
+        "title": "Back Door",
+        "cover": "https://cover.com/back-door.jpg",
+        "duration": 189,
+        "genre": "POP",
+        "releaseDate": "2020-09-14"
+      },
+      {
+        "title": "CASE 143",
+        "cover": "https://cover.com/case-143.jpg",
+        "duration": 194,
+        "genre": "POP",
+        "releaseDate": "2022-10-07"
+      }
+    ]
+  },
+  {
+    "artistName": "NewJeans",
+    "nationality": "South Korea",
+    "dateOfBirth": "2022-01-01",
+    "genre": "POP",
+    "avatar": "https://avatar.com/newjeans.jpg",
+    "songs": [
+      {
+        "title": "OMG",
+        "cover": "https://cover.com/omg.jpg",
+        "duration": 212,
+        "genre": "POP",
+        "releaseDate": "2023-01-02"
+      },
+      {
+        "title": "Ditto",
+        "cover": "https://cover.com/ditto.jpg",
+        "duration": 185,
+        "genre": "POP",
+        "releaseDate": "2022-12-19"
+      },
+      {
+        "title": "Super Shy",
+        "cover": "https://cover.com/super-shy.jpg",
+        "duration": 154,
+        "genre": "POP",
+        "releaseDate": "2023-07-07"
+      },
+      {
+        "title": "Attention",
+        "cover": "https://cover.com/attention.jpg",
+        "duration": 180,
+        "genre": "POP",
+        "releaseDate": "2022-07-22"
+      },
+      {
+        "title": "Hype Boy",
+        "cover": "https://cover.com/hype-boy.jpg",
+        "duration": 179,
+        "genre": "POP",
+        "releaseDate": "2022-07-23"
+      }
+    ]
+  },
+  {
+    "artistName": "Calvin Harris",
+    "nationality": "UK",
+    "dateOfBirth": "1984-01-17",
+    "genre": "ELECTRONIC",
+    "avatar": "https://avatar.com/calvin-harris.jpg",
+    "songs": [
+      {
+        "title": "Summer",
+        "cover": "https://cover.com/summer.jpg",
+        "duration": 222,
+        "genre": "ELECTRONIC",
+        "releaseDate": "2014-03-14"
+      },
+      {
+        "title": "Feel So Close",
+        "cover": "https://cover.com/feel-so-close.jpg",
+        "duration": 206,
+        "genre": "ELECTRONIC",
+        "releaseDate": "2011-08-19"
+      },
+      {
+        "title": "One Kiss",
+        "cover": "https://cover.com/one-kiss.jpg",
+        "duration": 214,
+        "genre": "ELECTRONIC",
+        "releaseDate": "2018-04-06"
+      },
+      {
+        "title": "This Is What You Came For",
+        "cover": "https://cover.com/this-is-what-you-came-for.jpg",
+        "duration": 222,
+        "genre": "ELECTRONIC",
+        "releaseDate": "2016-04-29"
+      },
+      {
+        "title": "How Deep Is Your Love",
+        "cover": "https://cover.com/how-deep-is-your-love.jpg",
+        "duration": 212,
+        "genre": "ELECTRONIC",
+        "releaseDate": "2015-07-17"
+      }
+    ]
+  },
+  {
+    "artistName": "Avicii",
+    "nationality": "Sweden",
+    "dateOfBirth": "1989-09-08",
+    "genre": "ELECTRONIC",
+    "avatar": "https://avatar.com/avicii.jpg",
+    "songs": [
+      {
+        "title": "Wake Me Up",
+        "cover": "https://cover.com/wake-me-up.jpg",
+        "duration": 247,
+        "genre": "ELECTRONIC",
+        "releaseDate": "2013-06-17"
+      },
+      {
+        "title": "Levels",
+        "cover": "https://cover.com/levels.jpg",
+        "duration": 199,
+        "genre": "ELECTRONIC",
+        "releaseDate": "2011-10-28"
+      },
+      {
+        "title": "The Nights",
+        "cover": "https://cover.com/the-nights.jpg",
+        "duration": 176,
+        "genre": "ELECTRONIC",
+        "releaseDate": "2014-12-01"
+      },
+      {
+        "title": "Waiting For Love",
+        "cover": "https://cover.com/waiting-for-love.jpg",
+        "duration": 230,
+        "genre": "ELECTRONIC",
+        "releaseDate": "2015-05-22"
+      },
+      {
+        "title": "Hey Brother",
+        "cover": "https://cover.com/hey-brother.jpg",
+        "duration": 254,
+        "genre": "ELECTRONIC",
+        "releaseDate": "2013-11-01"
+      }
+    ]
+  },
+  {
+    "artistName": "David Guetta",
+    "nationality": "France",
+    "dateOfBirth": "1967-11-07",
+    "genre": "ELECTRONIC",
+    "avatar": "https://avatar.com/david-guetta.jpg",
+    "songs": [
+      {
+        "title": "Titanium",
+        "cover": "https://cover.com/titanium.jpg",
+        "duration": 245,
+        "genre": "ELECTRONIC",
+        "releaseDate": "2011-12-09"
+      },
+      {
+        "title": "I'm Good",
+        "cover": "https://cover.com/im-good.jpg",
+        "duration": 175,
+        "genre": "ELECTRONIC",
+        "releaseDate": "2022-08-26"
+      },
+      {
+        "title": "Without You",
+        "cover": "https://cover.com/without-you.jpg",
+        "duration": 208,
+        "genre": "ELECTRONIC",
+        "releaseDate": "2011-09-27"
+      },
+      {
+        "title": "Memories",
+        "cover": "https://cover.com/memories.jpg",
+        "duration": 210,
+        "genre": "ELECTRONIC",
+        "releaseDate": "2009-08-21"
+      },
+      {
+        "title": "Play Hard",
+        "cover": "https://cover.com/play-hard.jpg",
+        "duration": 221,
+        "genre": "ELECTRONIC",
+        "releaseDate": "2013-03-15"
+      }
+    ]
+  },
+  {
+    "artistName": "Martin Garrix",
+    "nationality": "Netherlands",
+    "dateOfBirth": "1996-05-14",
+    "genre": "ELECTRONIC",
+    "avatar": "https://avatar.com/martin-garrix.jpg",
+    "songs": [
+      {
+        "title": "Animals",
+        "cover": "https://cover.com/animals.jpg",
+        "duration": 303,
+        "genre": "ELECTRONIC",
+        "releaseDate": "2013-06-17"
+      },
+      {
+        "title": "Scared to Be Lonely",
+        "cover": "https://cover.com/scared-to-be-lonely.jpg",
+        "duration": 221,
+        "genre": "ELECTRONIC",
+        "releaseDate": "2017-01-27"
+      },
+      {
+        "title": "In the Name of Love",
+        "cover": "https://cover.com/in-the-name-of-love.jpg",
+        "duration": 195,
+        "genre": "ELECTRONIC",
+        "releaseDate": "2016-07-29"
+      },
+      {
+        "title": "High on Life",
+        "cover": "https://cover.com/high-on-life.jpg",
+        "duration": 230,
+        "genre": "ELECTRONIC",
+        "releaseDate": "2018-07-30"
+      },
+      {
+        "title": "Ocean",
+        "cover": "https://cover.com/ocean.jpg",
+        "duration": 216,
+        "genre": "ELECTRONIC",
+        "releaseDate": "2018-06-15"
+      }
+    ]
+  },
+  {
+    "artistName": "Marshmello",
+    "nationality": "USA",
+    "dateOfBirth": "1992-05-19",
+    "genre": "ELECTRONIC",
+    "avatar": "https://avatar.com/marshmello.jpg",
+    "songs": [
+      {
+        "title": "Alone",
+        "cover": "https://cover.com/alone.jpg",
+        "duration": 273,
+        "genre": "ELECTRONIC",
+        "releaseDate": "2016-05-13"
+      },
+      {
+        "title": "Happier",
+        "cover": "https://cover.com/happier.jpg",
+        "duration": 214,
+        "genre": "ELECTRONIC",
+        "releaseDate": "2018-08-17"
+      },
+      {
+        "title": "Silence",
+        "cover": "https://cover.com/silence.jpg",
+        "duration": 180,
+        "genre": "ELECTRONIC",
+        "releaseDate": "2017-08-11"
+      },
+      {
+        "title": "Friends",
+        "cover": "https://cover.com/friends.jpg",
+        "duration": 202,
+        "genre": "ELECTRONIC",
+        "releaseDate": "2018-02-09"
+      },
+      {
+        "title": "Wolves",
+        "cover": "https://cover.com/wolves.jpg",
+        "duration": 198,
+        "genre": "ELECTRONIC",
+        "releaseDate": "2017-10-25"
+      }
+    ]
+  },
+  {
+    "artistName": "Shakira",
+    "nationality": "Colombia",
+    "dateOfBirth": "1977-02-02",
+    "genre": "POP",
+    "avatar": "https://avatar.com/shakira.jpg",
+    "songs": [
+      {
+        "title": "Hips Don't Lie",
+        "cover": "https://cover.com/hips-dont-lie.jpg",
+        "duration": 218,
+        "genre": "POP",
+        "releaseDate": "2006-02-28"
+      },
+      {
+        "title": "Waka Waka",
+        "cover": "https://cover.com/waka-waka.jpg",
+        "duration": 202,
+        "genre": "POP",
+        "releaseDate": "2010-05-07"
+      },
+      {
+        "title": "Whenever Wherever",
+        "cover": "https://cover.com/whenever-wherever.jpg",
+        "duration": 196,
+        "genre": "POP",
+        "releaseDate": "2001-08-27"
+      },
+      {
+        "title": "La Tortura",
+        "cover": "https://cover.com/la-tortura.jpg",
+        "duration": 212,
+        "genre": "POP",
+        "releaseDate": "2005-04-12"
+      },
+      {
+        "title": "She Wolf",
+        "cover": "https://cover.com/she-wolf.jpg",
+        "duration": 188,
+        "genre": "POP",
+        "releaseDate": "2009-07-10"
+      }
+    ]
+  },
+  {
+    "artistName": "Karol G",
+    "nationality": "Colombia",
+    "dateOfBirth": "1991-02-14",
+    "genre": "REGGAETON",
+    "avatar": "https://avatar.com/karol-g.jpg",
+    "songs": [
+      {
+        "title": "TQG",
+        "cover": "https://cover.com/tqg.jpg",
+        "duration": 197,
+        "genre": "REGGAETON",
+        "releaseDate": "2023-02-24"
+      },
+      {
+        "title": "Provenza",
+        "cover": "https://cover.com/provenza.jpg",
+        "duration": 210,
+        "genre": "REGGAETON",
+        "releaseDate": "2022-04-21"
+      },
+      {
+        "title": "Bichota",
+        "cover": "https://cover.com/bichota.jpg",
+        "duration": 178,
+        "genre": "REGGAETON",
+        "releaseDate": "2020-10-23"
+      },
+      {
+        "title": "Mi Ex Tenía Razón",
+        "cover": "https://cover.com/mi-ex-tenía-razón.jpg",
+        "duration": 154,
+        "genre": "REGGAETON",
+        "releaseDate": "2023-08-11"
+      },
+      {
+        "title": "200 Copas",
+        "cover": "https://cover.com/200-copas.jpg",
+        "duration": 196,
+        "genre": "REGGAETON",
+        "releaseDate": "2021-07-09"
+      }
+    ]
+  },
+  {
+    "artistName": "J Balvin",
+    "nationality": "Colombia",
+    "dateOfBirth": "1985-05-07",
+    "genre": "REGGAETON",
+    "avatar": "https://avatar.com/j-balvin.jpg",
+    "songs": [
+      {
+        "title": "Mi Gente",
+        "cover": "https://cover.com/mi-gente.jpg",
+        "duration": 186,
+        "genre": "REGGAETON",
+        "releaseDate": "2017-06-30"
+      },
+      {
+        "title": "Ay Vamos",
+        "cover": "https://cover.com/ay-vamos.jpg",
+        "duration": 227,
+        "genre": "REGGAETON",
+        "releaseDate": "2014-07-22"
+      },
+      {
+        "title": "Safari",
+        "cover": "https://cover.com/safari.jpg",
+        "duration": 205,
+        "genre": "REGGAETON",
+        "releaseDate": "2016-01-15"
+      },
+      {
+        "title": "Ginza",
+        "cover": "https://cover.com/ginza.jpg",
+        "duration": 170,
+        "genre": "REGGAETON",
+        "releaseDate": "2015-07-17"
+      },
+      {
+        "title": "Qué Más Pues?",
+        "cover": "https://cover.com/qué-más-pues.jpg",
+        "duration": 217,
+        "genre": "REGGAETON",
+        "releaseDate": "2021-05-28"
+      }
+    ]
+  },
+  {
+    "artistName": "Ozuna",
+    "nationality": "Puerto Rico",
+    "dateOfBirth": "1992-03-13",
+    "genre": "REGGAETON",
+    "avatar": "https://avatar.com/ozuna.jpg",
+    "songs": [
+      {
+        "title": "Se Preparó",
+        "cover": "https://cover.com/se-preparó.jpg",
+        "duration": 204,
+        "genre": "REGGAETON",
+        "releaseDate": "2017-08-25"
+      },
+      {
+        "title": "Caramelo",
+        "cover": "https://cover.com/caramelo.jpg",
+        "duration": 210,
+        "genre": "REGGAETON",
+        "releaseDate": "2020-06-11"
+      },
+      {
+        "title": "Baila Baila Baila",
+        "cover": "https://cover.com/baila-baila-baila.jpg",
+        "duration": 158,
+        "genre": "REGGAETON",
+        "releaseDate": "2019-01-05"
+      },
+      {
+        "title": "China",
+        "cover": "https://cover.com/china.jpg",
+        "duration": 301,
+        "genre": "REGGAETON",
+        "releaseDate": "2019-07-19"
+      },
+      {
+        "title": "Taki Taki",
+        "cover": "https://cover.com/taki-taki.jpg",
+        "duration": 212,
+        "genre": "REGGAETON",
+        "releaseDate": "2018-09-28"
+      }
+    ]
+  },
+  {
+    "artistName": "Maluma",
+    "nationality": "Colombia",
+    "dateOfBirth": "1994-01-28",
+    "genre": "REGGAETON",
+    "avatar": "https://avatar.com/maluma.jpg",
+    "songs": [
+      {
+        "title": "Hawái",
+        "cover": "https://cover.com/hawái.jpg",
+        "duration": 200,
+        "genre": "REGGAETON",
+        "releaseDate": "2020-07-29"
+      },
+      {
+        "title": "Felices los 4",
+        "cover": "https://cover.com/felices-los-4.jpg",
+        "duration": 229,
+        "genre": "REGGAETON",
+        "releaseDate": "2017-04-21"
+      },
+      {
+        "title": "Sobrio",
+        "cover": "https://cover.com/sobrio.jpg",
+        "duration": 180,
+        "genre": "REGGAETON",
+        "releaseDate": "2021-07-08"
+      },
+      {
+        "title": "Corazón",
+        "cover": "https://cover.com/corazón.jpg",
+        "duration": 179,
+        "genre": "REGGAETON",
+        "releaseDate": "2017-11-03"
+      },
+      {
+        "title": "Borró Cassette",
+        "cover": "https://cover.com/borró-cassette.jpg",
+        "duration": 236,
+        "genre": "REGGAETON",
+        "releaseDate": "2015-08-28"
+      }
+    ]
+  },
+  {
+    "artistName": "Radiohead",
+    "nationality": "UK",
+    "dateOfBirth": "1985-01-01",
+    "genre": "ROCK",
+    "avatar": "https://avatar.com/radiohead.jpg",
+    "songs": [
+      {
+        "title": "Creep",
+        "cover": "https://cover.com/creep.jpg",
+        "duration": 238,
+        "genre": "ROCK",
+        "releaseDate": "1992-09-21"
+      },
+      {
+        "title": "Karma Police",
+        "cover": "https://cover.com/karma-police.jpg",
+        "duration": 264,
+        "genre": "ROCK",
+        "releaseDate": "1997-08-25"
+      },
+      {
+        "title": "No Surprises",
+        "cover": "https://cover.com/no-surprises.jpg",
+        "duration": 229,
+        "genre": "ROCK",
+        "releaseDate": "1998-01-12"
+      },
+      {
+        "title": "Paranoid Android",
+        "cover": "https://cover.com/paranoid-android.jpg",
+        "duration": 386,
+        "genre": "ROCK",
+        "releaseDate": "1997-05-26"
+      },
+      {
+        "title": "High and Dry",
+        "cover": "https://cover.com/high-and-dry.jpg",
+        "duration": 257,
+        "genre": "ROCK",
+        "releaseDate": "1995-02-27"
+      }
+    ]
+  },
+  {
+    "artistName": "Nirvana",
+    "nationality": "USA",
+    "dateOfBirth": "1987-01-01",
+    "genre": "ROCK",
+    "avatar": "https://avatar.com/nirvana.jpg",
+    "songs": [
+      {
+        "title": "Smells Like Teen Spirit",
+        "cover": "https://cover.com/smells-like-teen-spirit.jpg",
+        "duration": 301,
+        "genre": "ROCK",
+        "releaseDate": "1991-09-10"
+      },
+      {
+        "title": "Come As You Are",
+        "cover": "https://cover.com/come-as-you-are.jpg",
+        "duration": 219,
+        "genre": "ROCK",
+        "releaseDate": "1992-03-02"
+      },
+      {
+        "title": "Lithium",
+        "cover": "https://cover.com/lithium.jpg",
+        "duration": 257,
+        "genre": "ROCK",
+        "releaseDate": "1992-07-13"
+      },
+      {
+        "title": "Heart-Shaped Box",
+        "cover": "https://cover.com/heart-shaped-box.jpg",
+        "duration": 281,
+        "genre": "ROCK",
+        "releaseDate": "1993-08-30"
+      },
+      {
+        "title": "In Bloom",
+        "cover": "https://cover.com/in-bloom.jpg",
+        "duration": 255,
+        "genre": "ROCK",
+        "releaseDate": "1992-11-30"
+      }
+    ]
+  },
+  {
+    "artistName": "Green Day",
+    "nationality": "USA",
+    "dateOfBirth": "1987-01-01",
+    "genre": "ROCK",
+    "avatar": "https://avatar.com/green-day.jpg",
+    "songs": [
+      {
+        "title": "Basket Case",
+        "cover": "https://cover.com/basket-case.jpg",
+        "duration": 181,
+        "genre": "ROCK",
+        "releaseDate": "1994-08-01"
+      },
+      {
+        "title": "American Idiot",
+        "cover": "https://cover.com/american-idiot.jpg",
+        "duration": 174,
+        "genre": "ROCK",
+        "releaseDate": "2004-08-31"
+      },
+      {
+        "title": "Boulevard of Broken Dreams",
+        "cover": "https://cover.com/boulevard-of-broken-dreams.jpg",
+        "duration": 260,
+        "genre": "ROCK",
+        "releaseDate": "2004-11-29"
+      },
+      {
+        "title": "Wake Me Up When September Ends",
+        "cover": "https://cover.com/wake-me-up-when-september-ends.jpg",
+        "duration": 285,
+        "genre": "ROCK",
+        "releaseDate": "2005-06-13"
+      },
+      {
+        "title": "Holiday",
+        "cover": "https://cover.com/holiday.jpg",
+        "duration": 232,
+        "genre": "ROCK",
+        "releaseDate": "2005-03-14"
+      }
+    ]
+  },
+  {
+    "artistName": "Oasis",
+    "nationality": "UK",
+    "dateOfBirth": "1991-01-01",
+    "genre": "ROCK",
+    "avatar": "https://avatar.com/oasis.jpg",
+    "songs": [
+      {
+        "title": "Wonderwall",
+        "cover": "https://cover.com/wonderwall.jpg",
+        "duration": 258,
+        "genre": "ROCK",
+        "releaseDate": "1995-10-02"
+      },
+      {
+        "title": "Don't Look Back in Anger",
+        "cover": "https://cover.com/dont-look-back-in-anger.jpg",
+        "duration": 288,
+        "genre": "ROCK",
+        "releaseDate": "1996-02-19"
+      },
+      {
+        "title": "Champagne Supernova",
+        "cover": "https://cover.com/champagne-supernova.jpg",
+        "duration": 448,
+        "genre": "ROCK",
+        "releaseDate": "1996-05-13"
+      },
+      {
+        "title": "Live Forever",
+        "cover": "https://cover.com/live-forever.jpg",
+        "duration": 276,
+        "genre": "ROCK",
+        "releaseDate": "1994-08-08"
+      },
+      {
+        "title": "Stop Crying Your Heart Out",
+        "cover": "https://cover.com/stop-crying-your-heart-out.jpg",
+        "duration": 329,
+        "genre": "ROCK",
+        "releaseDate": "2002-06-17"
+      }
+    ]
+  },
+  {
+    "artistName": "Foo Fighters",
+    "nationality": "USA",
+    "dateOfBirth": "1994-01-01",
+    "genre": "ROCK",
+    "avatar": "https://avatar.com/foo-fighters.jpg",
+    "songs": [
+      {
+        "title": "Everlong",
+        "cover": "https://cover.com/everlong.jpg",
+        "duration": 250,
+        "genre": "ROCK",
+        "releaseDate": "1997-08-18"
+      },
+      {
+        "title": "The Pretender",
+        "cover": "https://cover.com/the-pretender.jpg",
+        "duration": 269,
+        "genre": "ROCK",
+        "releaseDate": "2007-08-21"
+      },
+      {
+        "title": "Best of You",
+        "cover": "https://cover.com/best-of-you.jpg",
+        "duration": 257,
+        "genre": "ROCK",
+        "releaseDate": "2005-05-30"
+      },
+      {
+        "title": "Learn to Fly",
+        "cover": "https://cover.com/learn-to-fly.jpg",
+        "duration": 238,
+        "genre": "ROCK",
+        "releaseDate": "1999-10-18"
+      },
+      {
+        "title": "All My Life",
+        "cover": "https://cover.com/all-my-life.jpg",
+        "duration": 263,
+        "genre": "ROCK",
+        "releaseDate": "2002-09-02"
+      }
+    ]
+  },
+  {
+    "artistName": "Daft Punk",
+    "nationality": "France",
+    "dateOfBirth": "1993-01-01",
+    "genre": "ELECTRONIC",
+    "avatar": "https://avatar.com/daft-punk.jpg",
+    "songs": [
+      {
+        "title": "One More Time",
+        "cover": "https://cover.com/one-more-time.jpg",
+        "duration": 337,
+        "genre": "ELECTRONIC",
+        "releaseDate": "2016-05-08"
+      },
+      {
+        "title": "Get Lucky",
+        "cover": "https://cover.com/get-lucky.jpg",
+        "duration": 365,
+        "genre": "ELECTRONIC",
+        "releaseDate": "2024-08-10"
+      },
+      {
+        "title": "Around the World",
+        "cover": "https://cover.com/around-the-world.jpg",
+        "duration": 354,
+        "genre": "ELECTRONIC",
+        "releaseDate": "1992-04-28"
+      },
+      {
+        "title": "Harder Better Faster Stronger",
+        "cover": "https://cover.com/harder-better-faster-stronger.jpg",
+        "duration": 385,
+        "genre": "ELECTRONIC",
+        "releaseDate": "2006-08-08"
+      },
+      {
+        "title": "Instant Crush",
+        "cover": "https://cover.com/instant-crush.jpg",
+        "duration": 387,
+        "genre": "ELECTRONIC",
+        "releaseDate": "2014-09-25"
+      }
+    ]
+  },
+  {
+    "artistName": "Beethoven",
+    "nationality": "Germany",
+    "dateOfBirth": "1770-12-17",
+    "genre": "CLASSICAL",
+    "avatar": "https://avatar.com/beethoven.jpg",
+    "songs": [
+      {
+        "title": "Für Elise",
+        "cover": "https://cover.com/für-elise.jpg",
+        "duration": 283,
+        "genre": "CLASSICAL",
+        "releaseDate": "2013-08-26"
+      },
+      {
+        "title": "Moonlight Sonata",
+        "cover": "https://cover.com/moonlight-sonata.jpg",
+        "duration": 413,
+        "genre": "CLASSICAL",
+        "releaseDate": "2012-05-16"
+      },
+      {
+        "title": "Symphony No. 5",
+        "cover": "https://cover.com/symphony-no-5.jpg",
+        "duration": 205,
+        "genre": "CLASSICAL",
+        "releaseDate": "2024-11-07"
+      },
+      {
+        "title": "Symphony No. 9",
+        "cover": "https://cover.com/symphony-no-9.jpg",
+        "duration": 259,
+        "genre": "CLASSICAL",
+        "releaseDate": "2022-02-23"
+      },
+      {
+        "title": "Ode to Joy",
+        "cover": "https://cover.com/ode-to-joy.jpg",
+        "duration": 354,
+        "genre": "CLASSICAL",
+        "releaseDate": "2019-09-15"
+      }
+    ]
+  },
+  {
+    "artistName": "Arctic Monkeys",
+    "nationality": "UK",
+    "dateOfBirth": "2002-01-01",
+    "genre": "INDIE",
+    "avatar": "https://avatar.com/arctic-monkeys.jpg",
+    "songs": [
+      {
+        "title": "505",
+        "cover": "https://cover.com/505.jpg",
+        "duration": 362,
+        "genre": "INDIE",
+        "releaseDate": "2021-10-17"
+      },
+      {
+        "title": "Do I Wanna Know?",
+        "cover": "https://cover.com/do-i-wanna-know.jpg",
+        "duration": 295,
+        "genre": "INDIE",
+        "releaseDate": "1996-08-18"
+      },
+      {
+        "title": "R U Mine?",
+        "cover": "https://cover.com/r-u-mine.jpg",
+        "duration": 210,
+        "genre": "INDIE",
+        "releaseDate": "1995-01-20"
+      },
+      {
+        "title": "Fluorescent Adolescent",
+        "cover": "https://cover.com/fluorescent-adolescent.jpg",
+        "duration": 186,
+        "genre": "INDIE",
+        "releaseDate": "2003-09-04"
+      },
+      {
+        "title": "Why'd You Only Call Me When You're High?",
+        "cover": "https://cover.com/why'd-you-only-call-me-when-you're-high.jpg",
+        "duration": 258,
+        "genre": "INDIE",
+        "releaseDate": "2007-08-14"
+      }
+    ]
+  },
+  {
+    "artistName": "Ariana Grande",
+    "nationality": "USA",
+    "dateOfBirth": "1993-06-26",
+    "genre": "POP",
+    "avatar": "https://avatar.com/ariana-grande.jpg",
+    "songs": [
+      {
+        "title": "7 rings",
+        "cover": "https://cover.com/7-rings.jpg",
+        "duration": 390,
+        "genre": "POP",
+        "releaseDate": "2003-03-21"
+      },
+      {
+        "title": "thank u, next",
+        "cover": "https://cover.com/thank-u,-next.jpg",
+        "duration": 348,
+        "genre": "POP",
+        "releaseDate": "1993-11-02"
+      },
+      {
+        "title": "positions",
+        "cover": "https://cover.com/positions.jpg",
+        "duration": 206,
+        "genre": "POP",
+        "releaseDate": "1999-07-09"
+      },
+      {
+        "title": "Into You",
+        "cover": "https://cover.com/into-you.jpg",
+        "duration": 349,
+        "genre": "POP",
+        "releaseDate": "2015-08-01"
+      },
+      {
+        "title": "Side To Side",
+        "cover": "https://cover.com/side-to-side.jpg",
+        "duration": 246,
+        "genre": "POP",
+        "releaseDate": "2016-03-03"
+      }
+    ]
+  },
+  {
+    "artistName": "SZA",
+    "nationality": "USA",
+    "dateOfBirth": "1989-11-08",
+    "genre": "RNB",
+    "avatar": "https://avatar.com/sza.jpg",
+    "songs": [
+      {
+        "title": "Kill Bill",
+        "cover": "https://cover.com/kill-bill.jpg",
+        "duration": 358,
+        "genre": "RNB",
+        "releaseDate": "2008-12-22"
+      },
+      {
+        "title": "Snooze",
+        "cover": "https://cover.com/snooze.jpg",
+        "duration": 354,
+        "genre": "RNB",
+        "releaseDate": "2008-01-12"
+      },
+      {
+        "title": "Good Days",
+        "cover": "https://cover.com/good-days.jpg",
+        "duration": 313,
+        "genre": "RNB",
+        "releaseDate": "2011-08-12"
+      },
+      {
+        "title": "Saturn",
+        "cover": "https://cover.com/saturn.jpg",
+        "duration": 363,
+        "genre": "RNB",
+        "releaseDate": "2006-06-10"
+      },
+      {
+        "title": "Love Galore",
+        "cover": "https://cover.com/love-galore.jpg",
+        "duration": 328,
+        "genre": "RNB",
+        "releaseDate": "2005-12-20"
+      }
+    ]
+  },
+  {
+    "artistName": "Metallica",
+    "nationality": "USA",
+    "dateOfBirth": "1981-01-01",
+    "genre": "ROCK",
+    "avatar": "https://avatar.com/metallica.jpg",
+    "songs": [
+      {
+        "title": "Enter Sandman",
+        "cover": "https://cover.com/enter-sandman.jpg",
+        "duration": 342,
+        "genre": "ROCK",
+        "releaseDate": "2004-12-14"
+      },
+      {
+        "title": "One",
+        "cover": "https://cover.com/one.jpg",
+        "duration": 295,
+        "genre": "ROCK",
+        "releaseDate": "2010-11-20"
+      },
+      {
+        "title": "Nothing Else Matters",
+        "cover": "https://cover.com/nothing-else-matters.jpg",
+        "duration": 230,
+        "genre": "ROCK",
+        "releaseDate": "2002-04-11"
+      },
+      {
+        "title": "Master of Puppets",
+        "cover": "https://cover.com/master-of-puppets.jpg",
+        "duration": 271,
+        "genre": "ROCK",
+        "releaseDate": "2005-08-16"
+      },
+      {
+        "title": "Fade to Black",
+        "cover": "https://cover.com/fade-to-black.jpg",
+        "duration": 338,
+        "genre": "ROCK",
+        "releaseDate": "1995-04-28"
+      }
+    ]
+  },
+  {
+    "artistName": "Kendrick Lamar",
+    "nationality": "USA",
+    "dateOfBirth": "1987-06-17",
+    "genre": "HIP_HOP",
+    "avatar": "https://avatar.com/kendrick-lamar.jpg",
+    "songs": [
+      {
+        "title": "HUMBLE.",
+        "cover": "https://cover.com/humble.jpg",
+        "duration": 209,
+        "genre": "HIP_HOP",
+        "releaseDate": "2017-04-04"
+      },
+      {
+        "title": "DNA.",
+        "cover": "https://cover.com/dna.jpg",
+        "duration": 367,
+        "genre": "HIP_HOP",
+        "releaseDate": "2017-05-06"
+      },
+      {
+        "title": "Money Trees",
+        "cover": "https://cover.com/money-trees.jpg",
+        "duration": 258,
+        "genre": "HIP_HOP",
+        "releaseDate": "2016-08-01"
+      },
+      {
+        "title": "Alright",
+        "cover": "https://cover.com/alright.jpg",
+        "duration": 162,
+        "genre": "HIP_HOP",
+        "releaseDate": "2009-03-28"
+      },
+      {
+        "title": "N95",
+        "cover": "https://cover.com/n95.jpg",
+        "duration": 169,
+        "genre": "HIP_HOP",
+        "releaseDate": "2017-05-06"
+      }
+    ]
+  },
+  {
+    "artistName": "Bad Bunny",
+    "nationality": "Puerto Rico",
+    "dateOfBirth": "1994-03-10",
+    "genre": "REGGAETON",
+    "avatar": "https://avatar.com/bad-bunny.jpg",
+    "songs": [
+      {
+        "title": "Tití Me Preguntó",
+        "cover": "https://cover.com/tití-me-preguntó.jpg",
+        "duration": 391,
+        "genre": "REGGAETON",
+        "releaseDate": "1994-05-03"
+      },
+      {
+        "title": "Dakiti",
+        "cover": "https://cover.com/dakiti.jpg",
+        "duration": 305,
+        "genre": "REGGAETON",
+        "releaseDate": "1994-11-19"
+      },
+      {
+        "title": "Yonaguni",
+        "cover": "https://cover.com/yonaguni.jpg",
+        "duration": 419,
+        "genre": "REGGAETON",
+        "releaseDate": "1993-04-09"
+      },
+      {
+        "title": "Moscow Mule",
+        "cover": "https://cover.com/moscow-mule.jpg",
+        "duration": 366,
+        "genre": "REGGAETON",
+        "releaseDate": "2010-12-07"
+      },
+      {
+        "title": "Me Porto Bonito",
+        "cover": "https://cover.com/me-porto-bonito.jpg",
+        "duration": 276,
+        "genre": "REGGAETON",
+        "releaseDate": "1998-07-12"
+      }
+    ]
+  },
+  {
+    "artistName": "Miles Davis",
+    "nationality": "USA",
+    "dateOfBirth": "1926-05-26",
+    "genre": "JAZZ",
+    "avatar": "https://avatar.com/miles-davis.jpg",
+    "songs": [
+      {
+        "title": "So What",
+        "cover": "https://cover.com/so-what.jpg",
+        "duration": 303,
+        "genre": "JAZZ",
+        "releaseDate": "1998-09-18"
+      },
+      {
+        "title": "Freddie Freeloader",
+        "cover": "https://cover.com/freddie-freeloader.jpg",
+        "duration": 304,
+        "genre": "JAZZ",
+        "releaseDate": "2008-07-19"
+      },
+      {
+        "title": "Blue in Green",
+        "cover": "https://cover.com/blue-in-green.jpg",
+        "duration": 208,
+        "genre": "JAZZ",
+        "releaseDate": "2005-02-22"
+      },
+      {
+        "title": "All Blues",
+        "cover": "https://cover.com/all-blues.jpg",
+        "duration": 316,
+        "genre": "JAZZ",
+        "releaseDate": "2017-11-01"
+      },
+      {
+        "title": "Flamenco Sketches",
+        "cover": "https://cover.com/flamenco-sketches.jpg",
+        "duration": 392,
+        "genre": "JAZZ",
+        "releaseDate": "2013-01-26"
+      }
+    ]
+  },
+  {
+    "artistName": "Lana Del Rey",
+    "nationality": "USA",
+    "dateOfBirth": "1985-06-21",
+    "genre": "INDIE",
+    "avatar": "https://avatar.com/lana-del-rey.jpg",
+    "songs": [
+      {
+        "title": "Summertime Sadness",
+        "cover": "https://cover.com/summertime-sadness.jpg",
+        "duration": 160,
+        "genre": "INDIE",
+        "releaseDate": "1990-11-16"
+      },
+      {
+        "title": "Video Games",
+        "cover": "https://cover.com/video-games.jpg",
+        "duration": 165,
+        "genre": "INDIE",
+        "releaseDate": "2019-12-13"
+      },
+      {
+        "title": "Born to Die",
+        "cover": "https://cover.com/born-to-die.jpg",
+        "duration": 170,
+        "genre": "INDIE",
+        "releaseDate": "2001-03-03"
+      },
+      {
+        "title": "West Coast",
+        "cover": "https://cover.com/west-coast.jpg",
+        "duration": 185,
+        "genre": "INDIE",
+        "releaseDate": "2005-04-28"
+      },
+      {
+        "title": "Young and Beautiful",
+        "cover": "https://cover.com/young-and-beautiful.jpg",
+        "duration": 197,
+        "genre": "INDIE",
+        "releaseDate": "1996-11-27"
+      }
+    ]
+  }
+]

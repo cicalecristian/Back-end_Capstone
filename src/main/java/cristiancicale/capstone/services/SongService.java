@@ -32,7 +32,7 @@ public class SongService {
 
     public Song save(SongDTO body) {
 
-        Song song = new Song(body.title(), body.cover(), body.duration(), body.releaseDate());
+        Song song = new Song(body.title(), body.cover(), body.duration(), body.genre(), body.releaseDate());
 
         return songRepository.save(song);
     }

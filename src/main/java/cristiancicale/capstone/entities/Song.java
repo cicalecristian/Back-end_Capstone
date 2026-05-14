@@ -49,10 +49,11 @@ public class Song {
     @OneToMany(mappedBy = "song")
     private Set<Review> reviews = new HashSet<>();
 
-    public Song(String title, String cover, int duration, LocalDate releaseDate) {
+    public Song(String title, String cover, int duration, Genre genre, LocalDate releaseDate) {
         this.title = title;
         this.cover = cover;
         this.duration = duration;
+        this.genre = genre;
         this.releaseDate = releaseDate;
     }
 }
