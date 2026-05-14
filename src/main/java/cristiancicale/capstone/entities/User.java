@@ -53,12 +53,15 @@ public class User implements UserDetails {
     private String avatar;
 
     @OneToMany(mappedBy = "user")
+    @JsonIgnore
     private Set<Favorite> favorites = new HashSet<>();
 
     @OneToMany(mappedBy = "user")
+    @JsonIgnore
     private Set<Reservation> reservations = new HashSet<>();
 
     @OneToMany(mappedBy = "user")
+    @JsonIgnore
     private Set<Review> reviews = new HashSet<>();
 
     public User(String username, String email, String password, String name, String surname, LocalDate dateOfBirth) {

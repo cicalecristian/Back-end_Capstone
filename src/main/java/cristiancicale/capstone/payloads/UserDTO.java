@@ -31,7 +31,7 @@ public record UserDTO(
         String surname,
 
         @Past(message = "Data di nascita non valida")
-        @NotBlank(message = "Data di nascita obbligatoria")
+        @NotNull(message = "Data di nascita obbligatoria")
         LocalDate dateOfBirth,
 
         String avatar

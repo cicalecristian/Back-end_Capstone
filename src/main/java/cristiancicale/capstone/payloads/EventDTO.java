@@ -19,7 +19,7 @@ public record EventDTO(
         @Size(min = 2, max = 50, message = "Il paese deve essere tra 2 e 50 caratteri")
         String country,
 
-        @NotBlank(message = "La data è obbligatoria")
+        @NotNull(message = "La data è obbligatoria")
         @Future(message = "La data deve essere futura")
         LocalDate date,
 
