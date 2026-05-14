@@ -4,77 +4,63 @@
     "nationality": "Canada",
     "dateOfBirth": "1990-02-16",
     "genre": "RNB",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20The%20Weeknd",
+    "avatar": "https://cdn-images.dzcdn.net/images/artist/581693b4724a7fcfa754455101e13a44/1000x1000-000000-80-0-0.jpg",
     "songs": [
       {
         "title": "Blinding Lights",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Blinding%20Lights%20-%20The%20Weeknd",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/1000x1000bb.jpg",
         "duration": 200,
         "genre": "RNB",
         "releaseDate": "2019-11-29"
       },
       {
         "title": "Starboy",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Starboy%20-%20The%20Weeknd",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b5/92/bb/b592bb72-52e3-e756-9b26-9f56d08f47ab/16UMGIM67864.rgb.jpg/1000x1000bb.jpg",
         "duration": 230,
         "genre": "RNB",
         "releaseDate": "2016-09-22"
       },
       {
         "title": "Save Your Tears",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Save%20Your%20Tears%20-%20The%20Weeknd",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/83/3a/f7/833af71b-2e0c-3303-24f5-8f5c546c073b/20UMGIM21167.rgb.jpg/1000x1000bb.jpg",
         "duration": 215,
         "genre": "RNB",
         "releaseDate": "2020-03-20"
       },
       {
         "title": "Die For You",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Die%20For%20You%20-%20The%20Weeknd",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/61/f8/e261f8c1-73db-9a7a-c89e-1068f19970e0/16UMGIM67863.rgb.jpg/1000x1000bb.jpg",
         "duration": 260,
         "genre": "RNB",
         "releaseDate": "2016-11-25"
       },
       {
         "title": "Can't Feel My Face",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Can%27t%20Feel%20My%20Face%20-%20The%20Weeknd",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/30/05/1e/30051e57-a63a-3acc-4b30-42568293f5f7/15UMGIM36514.rgb.jpg/1000x1000bb.jpg",
         "duration": 213,
         "genre": "RNB",
         "releaseDate": "2015-06-08"
       },
       {
         "title": "The Hills",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=The%20Hills%20-%20The%20Weeknd",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/30/05/1e/30051e57-a63a-3acc-4b30-42568293f5f7/15UMGIM36514.rgb.jpg/1000x1000bb.jpg",
         "duration": 287,
         "genre": "RNB",
         "releaseDate": "2015-11-20"
       },
       {
         "title": "Often",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Often%20-%20The%20Weeknd",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/03/2d/c1/032dc13a-dce4-672a-b501-d16d3b31be07/23UMGIM20988.rgb.jpg/1000x1000bb.jpg",
         "duration": 175,
         "genre": "RNB",
         "releaseDate": "2012-02-09"
       },
       {
         "title": "Earned It",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Earned%20It%20-%20The%20Weeknd",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fd/7a/13/fd7a1394-5ce1-6da6-93ad-977533762a1f/15UMGIM00463.rgb.jpg/1000x1000bb.jpg",
         "duration": 268,
         "genre": "RNB",
         "releaseDate": "2000-07-02"
-      },
-      {
-        "title": "Heartless",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Heartless%20-%20The%20Weeknd",
-        "duration": 249,
-        "genre": "RNB",
-        "releaseDate": "2002-03-13"
-      },
-      {
-        "title": "Call Out My Name",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Call%20Out%20My%20Name%20-%20The%20Weeknd",
-        "duration": 224,
-        "genre": "RNB",
-        "releaseDate": "2005-03-22"
       }
     ]
   },
@@ -83,77 +69,63 @@
     "nationality": "Canada",
     "dateOfBirth": "1986-10-24",
     "genre": "RAP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Drake",
+    "avatar": "https://cdn-images.dzcdn.net/images/artist/5d2fa7f140a6bdc2c864c3465a61fc71/1000x1000-000000-80-0-0.jpg",
     "songs": [
       {
         "title": "God's Plan",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=God%27s%20Plan%20-%20Drake",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/6d/8f/bb6d8f67-6d04-10b5-dd62-eb5809ac54fc/00602567879152.rgb.jpg/1000x1000bb.jpg",
         "duration": 198,
         "genre": "RAP",
         "releaseDate": "2018-01-19"
       },
       {
         "title": "One Dance",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=One%20Dance%20-%20Drake",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/0d/8b/f20d8bff-a927-ae98-6784-20a1f51cb23e/16UMGIM27642.rgb.jpg/1000x1000bb.jpg",
         "duration": 173,
         "genre": "RAP",
         "releaseDate": "2016-04-05"
       },
       {
         "title": "Hotline Bling",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Hotline%20Bling%20-%20Drake",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/0d/8b/f20d8bff-a927-ae98-6784-20a1f51cb23e/16UMGIM27642.rgb.jpg/1000x1000bb.jpg",
         "duration": 267,
         "genre": "RAP",
         "releaseDate": "2015-07-31"
       },
       {
         "title": "Nonstop",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Nonstop%20-%20Drake",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/6d/8f/bb6d8f67-6d04-10b5-dd62-eb5809ac54fc/00602567879152.rgb.jpg/1000x1000bb.jpg",
         "duration": 238,
         "genre": "RAP",
         "releaseDate": "2018-06-29"
       },
       {
         "title": "In My Feelings",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=In%20My%20Feelings%20-%20Drake",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/6d/8f/bb6d8f67-6d04-10b5-dd62-eb5809ac54fc/00602567879152.rgb.jpg/1000x1000bb.jpg",
         "duration": 217,
         "genre": "RAP",
         "releaseDate": "2018-07-10"
       },
       {
         "title": "Started From the Bottom",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Started%20From%20the%20Bottom%20-%20Drake",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/60/e8/d1/60e8d144-2b8e-cbdc-9ff8-beaf9f4868b1/00602537542345.rgb.jpg/1000x1000bb.jpg",
         "duration": 235,
         "genre": "RAP",
         "releaseDate": "2017-02-27"
       },
       {
         "title": "Take Care",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Take%20Care%20-%20Drake",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d2/53/62/d2536245-b94c-b3fd-7168-9512f655f6d4/00602527899091.rgb.jpg/1000x1000bb.jpg",
         "duration": 241,
         "genre": "RAP",
         "releaseDate": "2010-10-01"
       },
       {
         "title": "Passionfruit",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Passionfruit%20-%20Drake",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/18/9d/b8/189db80b-bfa8-89d1-1514-5fcb7e5cf8f4/00602557611526.rgb.jpg/1000x1000bb.jpg",
         "duration": 229,
         "genre": "RAP",
         "releaseDate": "2012-04-07"
-      },
-      {
-        "title": "Headlines",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Headlines%20-%20Drake",
-        "duration": 185,
-        "genre": "RAP",
-        "releaseDate": "2021-04-01"
-      },
-      {
-        "title": "Rich Flex",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Rich%20Flex%20-%20Drake",
-        "duration": 216,
-        "genre": "RAP",
-        "releaseDate": "2008-05-10"
       }
     ]
   },
@@ -162,77 +134,63 @@
     "nationality": "USA",
     "dateOfBirth": "1991-04-30",
     "genre": "TRAP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Travis%20Scott",
+    "avatar": "https://cdn-images.dzcdn.net/images/artist/8d8316146026d7e6ce377e314536df62/1000x1000-000000-80-0-0.jpg",
     "songs": [
       {
         "title": "SICKO MODE",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=SICKO%20MODE%20-%20Travis%20Scott",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e7/49/8f/e7498f65-df8f-bead-d6e3-2a8d4d642a79/886447235317.jpg/1000x1000bb.jpg",
         "duration": 312,
         "genre": "TRAP",
         "releaseDate": "2018-08-03"
       },
       {
         "title": "FE!N",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=FE%21N%20-%20Travis%20Scott",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/b5/5e/98b55efe-7310-e3cb-0f9f-27abb1a2b182/20a1306b-6cf6-4194-a492-a402d3dee879.jpg/1000x1000bb.jpg",
         "duration": 191,
         "genre": "TRAP",
         "releaseDate": "2023-07-28"
       },
       {
         "title": "Goosebumps",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Goosebumps%20-%20Travis%20Scott",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b8/e5/27/b8e527c8-aaf4-c7b7-5562-c479458ed7d9/886446092645.jpg/1000x1000bb.jpg",
         "duration": 244,
         "genre": "TRAP",
         "releaseDate": "2016-09-02"
       },
       {
         "title": "Antidote",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Antidote%20-%20Travis%20Scott",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/fb/f1/6dfbf17d-4032-f585-35ad-f3f9b6859cd9/886445460421.jpg/1000x1000bb.jpg",
         "duration": 262,
         "genre": "TRAP",
         "releaseDate": "2015-07-29"
       },
       {
         "title": "HIGHEST IN THE ROOM",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=HIGHEST%20IN%20THE%20ROOM%20-%20Travis%20Scott",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d2/2d/6b/d22d6b0f-68dd-0eeb-92b4-9b6f4a43e85f/886448047452.jpg/1000x1000bb.jpg",
         "duration": 175,
         "genre": "TRAP",
         "releaseDate": "2019-10-04"
       },
       {
         "title": "Butterfly Effect",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Butterfly%20Effect%20-%20Travis%20Scott",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/30/66/90/306690d4-2a29-402e-e406-6b319ce7731a/886447227169.jpg/1000x1000bb.jpg",
         "duration": 286,
         "genre": "TRAP",
         "releaseDate": "2003-07-22"
       },
       {
         "title": "MELTDOWN",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=MELTDOWN%20-%20Travis%20Scott",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7d/4f/94/7d4f9468-56e1-3a2d-7186-c8088170ef58/196871341899.jpg/1000x1000bb.jpg",
         "duration": 163,
         "genre": "TRAP",
         "releaseDate": "2011-08-10"
       },
       {
         "title": "90210",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=90210%20-%20Travis%20Scott",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fc/00/c9/fc00c90a-6c15-2c33-cf96-7fc9b97e1e36/d798a7d0-a588-4f47-97fa-16dc344c39ed.jpg/1000x1000bb.jpg",
         "duration": 315,
         "genre": "TRAP",
         "releaseDate": "2010-06-17"
-      },
-      {
-        "title": "I KNOW ?",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=I%20KNOW%20%3F%20-%20Travis%20Scott",
-        "duration": 208,
-        "genre": "TRAP",
-        "releaseDate": "2002-01-02"
-      },
-      {
-        "title": "MY EYES",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=MY%20EYES%20-%20Travis%20Scott",
-        "duration": 273,
-        "genre": "TRAP",
-        "releaseDate": "2015-04-14"
       }
     ]
   },
@@ -241,77 +199,63 @@
     "nationality": "USA",
     "dateOfBirth": "1989-12-13",
     "genre": "POP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Taylor%20Swift",
+    "avatar": "https://cdn-images.dzcdn.net/images/artist/e528e270424103b527f8a27ac625563b/1000x1000-000000-80-0-0.jpg",
     "songs": [
       {
         "title": "Blank Space",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Blank%20Space%20-%20Taylor%20Swift",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c1/31/18/c131181b-ca3e-d945-16b2-48ea6bcd64d4/23UM1IM11868.rgb.jpg/1000x1000bb.jpg",
         "duration": 231,
         "genre": "POP",
         "releaseDate": "2014-11-10"
       },
       {
         "title": "Shake It Off",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Shake%20It%20Off%20-%20Taylor%20Swift",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a7/98/d8/a798d867-344d-2bf2-fbfe-d2d1412dcef8/14UMDIM03793.rgb.jpg/1000x1000bb.jpg",
         "duration": 219,
         "genre": "POP",
         "releaseDate": "2014-08-18"
       },
       {
         "title": "Love Story",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Love%20Story%20-%20Taylor%20Swift",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c3/d0/1c/c3d01c88-73e7-187e-fd62-e1744de979a6/21UMGIM09915.rgb.jpg/1000x1000bb.jpg",
         "duration": 235,
         "genre": "POP",
         "releaseDate": "2008-09-12"
       },
       {
         "title": "Style",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Style%20-%20Taylor%20Swift",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c1/31/18/c131181b-ca3e-d945-16b2-48ea6bcd64d4/23UM1IM11868.rgb.jpg/1000x1000bb.jpg",
         "duration": 231,
         "genre": "POP",
         "releaseDate": "2015-02-09"
       },
       {
         "title": "Anti-Hero",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Anti-Hero%20-%20Taylor%20Swift",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3d/01/f2/3d01f2e5-5a08-835f-3d30-d031720b2b80/22UM1IM07364.rgb.jpg/1000x1000bb.jpg",
         "duration": 200,
         "genre": "POP",
         "releaseDate": "2022-10-21"
       },
       {
         "title": "Cruel Summer",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Cruel%20Summer%20-%20Taylor%20Swift",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/1000x1000bb.jpg",
         "duration": 197,
         "genre": "POP",
         "releaseDate": "2009-01-14"
       },
       {
         "title": "Cardigan",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Cardigan%20-%20Taylor%20Swift",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ca/f3/67/caf367a5-2cf6-6b2e-a891-97dc57b19f08/20UMGIM64216.rgb.jpg/1000x1000bb.jpg",
         "duration": 274,
         "genre": "POP",
         "releaseDate": "2004-04-11"
       },
       {
         "title": "Wildest Dreams",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Wildest%20Dreams%20-%20Taylor%20Swift",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/4a/4a/894a4ab9-b0b0-9ea5-ca41-8da0b9b79453/14UMDIM03405.rgb.jpg/1000x1000bb.jpg",
         "duration": 211,
         "genre": "POP",
         "releaseDate": "2019-05-17"
-      },
-      {
-        "title": "You Belong With Me",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=You%20Belong%20With%20Me%20-%20Taylor%20Swift",
-        "duration": 218,
-        "genre": "POP",
-        "releaseDate": "2021-07-10"
-      },
-      {
-        "title": "Lavender Haze",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Lavender%20Haze%20-%20Taylor%20Swift",
-        "duration": 184,
-        "genre": "POP",
-        "releaseDate": "2018-10-14"
       }
     ]
   },
@@ -320,77 +264,63 @@
     "nationality": "USA",
     "dateOfBirth": "1972-10-17",
     "genre": "RAP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Eminem",
+    "avatar": "https://cdn-images.dzcdn.net/images/artist/0f30bbd33a680030054af004d698d6ac/1000x1000-000000-80-0-0.jpg",
     "songs": [
       {
         "title": "Lose Yourself",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Lose%20Yourself%20-%20Eminem",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/08/23/fc/0823fcd9-cb44-695b-32bf-b3bf51d9f800/00606949351229.rgb.jpg/1000x1000bb.jpg",
         "duration": 326,
         "genre": "RAP",
         "releaseDate": "2002-10-28"
       },
       {
         "title": "Without Me",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Without%20Me%20-%20Eminem",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/dd/5c/e6/dd5ce621-f7d2-f767-7a08-e7a7eaa7870b/00602537526994.rgb.jpg/1000x1000bb.jpg",
         "duration": 290,
         "genre": "RAP",
         "releaseDate": "2002-05-14"
       },
       {
         "title": "Stan",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Stan%20-%20Eminem",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a7/06/99/a70699f9-2f5a-9198-fe70-6236b534738f/06UMGIM16683.rgb.jpg/1000x1000bb.jpg",
         "duration": 404,
         "genre": "RAP",
         "releaseDate": "2000-11-21"
       },
       {
         "title": "The Real Slim Shady",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=The%20Real%20Slim%20Shady%20-%20Eminem",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/2c/87/742c8794-2a24-9672-dc81-bc6bd2992589/25UMGIM74636.rgb.jpg/1000x1000bb.jpg",
         "duration": 284,
         "genre": "RAP",
         "releaseDate": "2000-04-18"
       },
       {
         "title": "Not Afraid",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Not%20Afraid%20-%20Eminem",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/95/a4/2c/95a42c0d-f3c8-c70d-3e3a-93cfa4a516d4/00602527394558.rgb.jpg/1000x1000bb.jpg",
         "duration": 248,
         "genre": "RAP",
         "releaseDate": "2010-04-29"
       },
       {
         "title": "Rap God",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Rap%20God%20-%20Eminem",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/50/a2/d5/50a2d5a8-8ba5-c8a0-421c-70635bf9e80d/00602537542710.rgb.jpg/1000x1000bb.jpg",
         "duration": 237,
         "genre": "RAP",
         "releaseDate": "2020-11-23"
       },
       {
         "title": "Mockingbird",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Mockingbird%20-%20Eminem",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/27/79/d5/2779d529-ff10-c15d-1c50-08cd46dd1237/06UMGIM17625.rgb.jpg/1000x1000bb.jpg",
         "duration": 180,
         "genre": "RAP",
         "releaseDate": "2009-02-07"
       },
       {
         "title": "Beautiful",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Beautiful%20-%20Eminem",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/27/96/e3/2796e35a-484d-f1de-5098-dbde88d5fb56/00602527032139.rgb.jpg/1000x1000bb.jpg",
         "duration": 232,
         "genre": "RAP",
         "releaseDate": "2000-11-25"
-      },
-      {
-        "title": "Till I Collapse",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Till%20I%20Collapse%20-%20Eminem",
-        "duration": 210,
-        "genre": "RAP",
-        "releaseDate": "2007-02-17"
-      },
-      {
-        "title": "Venom",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Venom%20-%20Eminem",
-        "duration": 277,
-        "genre": "RAP",
-        "releaseDate": "2020-09-08"
       }
     ]
   },
@@ -399,77 +329,63 @@
     "nationality": "UK",
     "dateOfBirth": "1970-01-01",
     "genre": "ROCK",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Queen",
+    "avatar": "https://cdn-images.dzcdn.net/images/artist/71eeb9e2eeb375df35a3c0654a5a01ab/1000x1000-000000-80-0-0.jpg",
     "songs": [
       {
         "title": "Bohemian Rhapsody",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Bohemian%20Rhapsody%20-%20Queen",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4d/08/2a/4d082a9e-7898-1aa1-a02f-339810058d9e/14DMGIM05632.rgb.jpg/1000x1000bb.jpg",
         "duration": 354,
         "genre": "ROCK",
         "releaseDate": "1975-10-31"
       },
       {
         "title": "Don't Stop Me Now",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Don%27t%20Stop%20Me%20Now%20-%20Queen",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4d/08/2a/4d082a9e-7898-1aa1-a02f-339810058d9e/14DMGIM05632.rgb.jpg/1000x1000bb.jpg",
         "duration": 209,
         "genre": "ROCK",
         "releaseDate": "1979-01-26"
       },
       {
         "title": "We Will Rock You",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=We%20Will%20Rock%20You%20-%20Queen",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4d/08/2a/4d082a9e-7898-1aa1-a02f-339810058d9e/14DMGIM05632.rgb.jpg/1000x1000bb.jpg",
         "duration": 122,
         "genre": "ROCK",
         "releaseDate": "1977-10-07"
       },
       {
         "title": "Somebody to Love",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Somebody%20to%20Love%20-%20Queen",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4d/08/2a/4d082a9e-7898-1aa1-a02f-339810058d9e/14DMGIM05632.rgb.jpg/1000x1000bb.jpg",
         "duration": 296,
         "genre": "ROCK",
         "releaseDate": "1976-11-12"
       },
       {
         "title": "Another One Bites the Dust",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Another%20One%20Bites%20the%20Dust%20-%20Queen",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4d/08/2a/4d082a9e-7898-1aa1-a02f-339810058d9e/14DMGIM05632.rgb.jpg/1000x1000bb.jpg",
         "duration": 215,
         "genre": "ROCK",
         "releaseDate": "1980-08-22"
       },
       {
         "title": "We Are The Champions",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=We%20Are%20The%20Champions%20-%20Queen",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4d/08/2a/4d082a9e-7898-1aa1-a02f-339810058d9e/14DMGIM05632.rgb.jpg/1000x1000bb.jpg",
         "duration": 198,
         "genre": "ROCK",
         "releaseDate": "2012-11-18"
       },
       {
         "title": "Radio Ga Ga",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Radio%20Ga%20Ga%20-%20Queen",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4d/08/2a/4d082a9e-7898-1aa1-a02f-339810058d9e/14DMGIM05632.rgb.jpg/1000x1000bb.jpg",
         "duration": 292,
         "genre": "ROCK",
         "releaseDate": "2009-06-13"
       },
       {
         "title": "Killer Queen",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Killer%20Queen%20-%20Queen",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4d/08/2a/4d082a9e-7898-1aa1-a02f-339810058d9e/14DMGIM05632.rgb.jpg/1000x1000bb.jpg",
         "duration": 243,
         "genre": "ROCK",
         "releaseDate": "2021-05-06"
-      },
-      {
-        "title": "Under Pressure",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Under%20Pressure%20-%20Queen",
-        "duration": 252,
-        "genre": "ROCK",
-        "releaseDate": "2018-11-24"
-      },
-      {
-        "title": "I Want To Break Free",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=I%20Want%20To%20Break%20Free%20-%20Queen",
-        "duration": 167,
-        "genre": "ROCK",
-        "releaseDate": "2003-10-02"
       }
     ]
   },
@@ -478,77 +394,63 @@
     "nationality": "UK",
     "dateOfBirth": "1997-01-01",
     "genre": "ROCK",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Coldplay",
+    "avatar": "https://cdn-images.dzcdn.net/images/artist/3087954bca22f306324912e5ac8375c3/1000x1000-000000-80-0-0.jpg",
     "songs": [
       {
         "title": "Yellow",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Yellow%20-%20Coldplay",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/93/8c/f5938c49-964c-31d1-4b33-78b634f71fb7/190295978075.jpg/1000x1000bb.jpg",
         "duration": 269,
         "genre": "ROCK",
         "releaseDate": "2000-06-26"
       },
       {
         "title": "Fix You",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Fix%20You%20-%20Coldplay",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0c/82/48/0c8248a8-4a5b-d30d-8056-f32d650d2fc9/190295978068.jpg/1000x1000bb.jpg",
         "duration": 295,
         "genre": "ROCK",
         "releaseDate": "2005-09-05"
       },
       {
         "title": "Paradise",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Paradise%20-%20Coldplay",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fa/41/1c/fa411c37-7a65-8a3e-71c9-4b566c49617c/5099967983858_1562x1562_300dpi.jpg/1000x1000bb.jpg",
         "duration": 278,
         "genre": "ROCK",
         "releaseDate": "2011-09-12"
       },
       {
         "title": "Viva La Vida",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Viva%20La%20Vida%20-%20Coldplay",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/52/aa/85/52aa851f-15b7-6322-f91f-df84b15b7b19/190295978044.jpg/1000x1000bb.jpg",
         "duration": 242,
         "genre": "ROCK",
         "releaseDate": "2008-05-25"
       },
       {
         "title": "The Scientist",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=The%20Scientist%20-%20Coldplay",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b9/b4/2a/b9b42ad1-1e25-5096-da43-497a247e69a3/190295978051.jpg/1000x1000bb.jpg",
         "duration": 309,
         "genre": "ROCK",
         "releaseDate": "2002-11-04"
       },
       {
         "title": "Clocks",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Clocks%20-%20Coldplay",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b9/b4/2a/b9b42ad1-1e25-5096-da43-497a247e69a3/190295978051.jpg/1000x1000bb.jpg",
         "duration": 278,
         "genre": "ROCK",
         "releaseDate": "2010-09-21"
       },
       {
         "title": "Adventure of a Lifetime",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Adventure%20of%20a%20Lifetime%20-%20Coldplay",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c8/0a/6d/c80a6df9-e55a-fb83-0311-f4776984ac67/mzm.lasidxkv.jpg/1000x1000bb.jpg",
         "duration": 211,
         "genre": "ROCK",
         "releaseDate": "2019-12-02"
       },
       {
         "title": "A Sky Full of Stars",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=A%20Sky%20Full%20of%20Stars%20-%20Coldplay",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/60/90/ad/6090adc3-8863-861d-afcc-23c55c6fe5da/dj.vmtulfyu.jpg/1000x1000bb.jpg",
         "duration": 250,
         "genre": "ROCK",
         "releaseDate": "2003-08-06"
-      },
-      {
-        "title": "Hymn for the Weekend",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Hymn%20for%20the%20Weekend%20-%20Coldplay",
-        "duration": 288,
-        "genre": "ROCK",
-        "releaseDate": "2003-11-02"
-      },
-      {
-        "title": "Trouble",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Trouble%20-%20Coldplay",
-        "duration": 310,
-        "genre": "ROCK",
-        "releaseDate": "2006-05-15"
       }
     ]
   },
@@ -557,77 +459,63 @@
     "nationality": "USA",
     "dateOfBirth": "1985-10-08",
     "genre": "POP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Bruno%20Mars",
+    "avatar": "https://cdn-images.dzcdn.net/images/artist/90f0b5b11df4f87ee878f38569b5995b/1000x1000-000000-80-0-0.jpg",
     "songs": [
       {
         "title": "Uptown Funk",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Uptown%20Funk%20-%20Bruno%20Mars",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/30/c5/7e30c572-aa47-5f7b-c6fd-42d50cd2c56d/886444959797.jpg/1000x1000bb.jpg",
         "duration": 269,
         "genre": "POP",
         "releaseDate": "2014-11-10"
       },
       {
         "title": "24K Magic",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=24K%20Magic%20-%20Bruno%20Mars",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/47/a0/e347a0cc-87ce-5d05-d560-176c7d48f66e/075679904119.jpg/1000x1000bb.jpg",
         "duration": 226,
         "genre": "POP",
         "releaseDate": "2016-10-07"
       },
       {
         "title": "Grenade",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Grenade%20-%20Bruno%20Mars",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/52/b1/45/52b1452b-229e-78db-231b-7b43fa0077cc/075679956491.jpg/1000x1000bb.jpg",
         "duration": 223,
         "genre": "POP",
         "releaseDate": "2010-09-28"
       },
       {
         "title": "Locked Out of Heaven",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Locked%20Out%20of%20Heaven%20-%20Bruno%20Mars",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/a4/7c/e0a47c6f-005a-9f9f-ce29-8e858e2bcfcb/075679957283.jpg/1000x1000bb.jpg",
         "duration": 233,
         "genre": "POP",
         "releaseDate": "2012-10-01"
       },
       {
         "title": "Just the Way You Are",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Just%20the%20Way%20You%20Are%20-%20Bruno%20Mars",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/98/ae/c2/98aec2e1-3be4-0311-1b44-69348fc87abb/075679956484.jpg/1000x1000bb.jpg",
         "duration": 220,
         "genre": "POP",
         "releaseDate": "2010-07-20"
       },
       {
         "title": "That's What I Like",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=That%27s%20What%20I%20Like%20-%20Bruno%20Mars",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/47/a0/e347a0cc-87ce-5d05-d560-176c7d48f66e/075679904119.jpg/1000x1000bb.jpg",
         "duration": 255,
         "genre": "POP",
         "releaseDate": "2010-01-03"
       },
       {
         "title": "Treasure",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Treasure%20-%20Bruno%20Mars",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/15/63/53/156353b8-d45b-a17d-f553-2d125aeb3cb3/075679957474.jpg/1000x1000bb.jpg",
         "duration": 232,
         "genre": "POP",
         "releaseDate": "2005-04-26"
       },
       {
         "title": "When I Was Your Man",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=When%20I%20Was%20Your%20Man%20-%20Bruno%20Mars",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/a4/7c/e0a47c6f-005a-9f9f-ce29-8e858e2bcfcb/075679957283.jpg/1000x1000bb.jpg",
         "duration": 319,
         "genre": "POP",
         "releaseDate": "2023-09-03"
-      },
-      {
-        "title": "Versace on the Floor",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Versace%20on%20the%20Floor%20-%20Bruno%20Mars",
-        "duration": 213,
-        "genre": "POP",
-        "releaseDate": "2022-10-05"
-      },
-      {
-        "title": "Talking to the Moon",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Talking%20to%20the%20Moon%20-%20Bruno%20Mars",
-        "duration": 301,
-        "genre": "POP",
-        "releaseDate": "2024-11-04"
       }
     ]
   },
@@ -636,77 +524,63 @@
     "nationality": "USA",
     "dateOfBirth": "1971-10-20",
     "genre": "RAP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Snoop%20Dogg",
+    "avatar": "https://cdn-images.dzcdn.net/images/artist/5e53a969faf1fc8e9dee3811df20c617/1000x1000-000000-80-0-0.jpg",
     "songs": [
       {
         "title": "Drop It Like It's Hot",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Drop%20It%20Like%20It%27s%20Hot%20-%20Snoop%20Dogg",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a3/75/27/a3752707-e88a-cf93-423f-c6134156962a/00075021034518.rgb.jpg/1000x1000bb.jpg",
         "duration": 266,
         "genre": "RAP",
         "releaseDate": "2004-09-12"
       },
       {
         "title": "Gin and Juice",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Gin%20and%20Juice%20-%20Snoop%20Dogg",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/59/5c/49/595c49ca-20af-1a27-3716-fe1fe481c45e/617513535860_cover.jpg/1000x1000bb.jpg",
         "duration": 211,
         "genre": "RAP",
         "releaseDate": "1994-01-18"
       },
       {
         "title": "Who Am I",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Who%20Am%20I%20-%20Snoop%20Dogg",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/59/5c/49/595c49ca-20af-1a27-3716-fe1fe481c45e/617513535860_cover.jpg/1000x1000bb.jpg",
         "duration": 246,
         "genre": "RAP",
         "releaseDate": "1993-10-30"
       },
       {
         "title": "Beautiful",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Beautiful%20-%20Snoop%20Dogg",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cd/4e/05/cd4e05a1-423b-7594-bbd6-b6ca5a71beac/f550ea30-4acb-49d9-80f7-effb7e282c51.png/1000x1000bb.jpg",
         "duration": 299,
         "genre": "RAP",
         "releaseDate": "2002-12-21"
       },
       {
         "title": "Young, Wild & Free",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Young%2C%20Wild%20%26%20Free%20-%20Snoop%20Dogg",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/90/ad/0790ad41-5e11-eaab-6c52-4a96e78348bc/7c4bb1cd-38a3-4ece-b0b4-1d27728caac3.png/1000x1000bb.jpg",
         "duration": 207,
         "genre": "RAP",
         "releaseDate": "2011-10-11"
       },
       {
         "title": "Sensual Seduction",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Sensual%20Seduction%20-%20Snoop%20Dogg",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9a/06/2b/9a062bef-ee66-3233-de44-bedf1618b87e/00602517636460.rgb.jpg/1000x1000bb.jpg",
         "duration": 298,
         "genre": "RAP",
         "releaseDate": "2006-08-17"
       },
       {
         "title": "Tha Shiznit",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Tha%20Shiznit%20-%20Snoop%20Dogg",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f1/7c/cb/f17ccb95-f460-07cb-fb3b-9b40d0f97b10/5060205159113.jpg/1000x1000bb.jpg",
         "duration": 309,
         "genre": "RAP",
         "releaseDate": "2015-03-08"
       },
       {
         "title": "Murder Was the Case",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Murder%20Was%20the%20Case%20-%20Snoop%20Dogg",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/7c/24/0a/7c240a50-f547-5216-369f-721048e6fe23/np2vV.png/1000x1000bb.jpg",
         "duration": 297,
         "genre": "RAP",
         "releaseDate": "2017-10-16"
-      },
-      {
-        "title": "Signs",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Signs%20-%20Snoop%20Dogg",
-        "duration": 219,
-        "genre": "RAP",
-        "releaseDate": "2018-01-22"
-      },
-      {
-        "title": "Sweat",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Sweat%20-%20Snoop%20Dogg",
-        "duration": 189,
-        "genre": "RAP",
-        "releaseDate": "2015-03-10"
       }
     ]
   },
@@ -715,77 +589,63 @@
     "nationality": "USA",
     "dateOfBirth": "1975-07-06",
     "genre": "RAP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%2050%20Cent",
+    "avatar": "https://cdn-images.dzcdn.net/images/artist/58da3cca2d598e43c7a7823cf75277e5/1000x1000-000000-80-0-0.jpg",
     "songs": [
       {
         "title": "In Da Club",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=In%20Da%20Club%20-%2050%20Cent",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6e/56/af/6e56af83-bdff-56c2-7c6a-b30cd0d356ce/06UMGIM08757.rgb.jpg/1000x1000bb.jpg",
         "duration": 193,
         "genre": "RAP",
         "releaseDate": "2003-01-07"
       },
       {
         "title": "Candy Shop",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Candy%20Shop%20-%2050%20Cent",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b6/50/07/b650079b-15db-74fb-5395-ff7ef7c5a45e/17UMGIM93593.rgb.jpg/1000x1000bb.jpg",
         "duration": 209,
         "genre": "RAP",
         "releaseDate": "2005-01-11"
       },
       {
         "title": "Many Men",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Many%20Men%20-%2050%20Cent",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6e/56/af/6e56af83-bdff-56c2-7c6a-b30cd0d356ce/06UMGIM08757.rgb.jpg/1000x1000bb.jpg",
         "duration": 256,
         "genre": "RAP",
         "releaseDate": "2003-02-06"
       },
       {
         "title": "P.I.M.P.",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=P.I.M.P.%20-%2050%20Cent",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6e/56/af/6e56af83-bdff-56c2-7c6a-b30cd0d356ce/06UMGIM08757.rgb.jpg/1000x1000bb.jpg",
         "duration": 249,
         "genre": "RAP",
         "releaseDate": "2003-08-12"
       },
       {
         "title": "21 Questions",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=21%20Questions%20-%2050%20Cent",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6e/56/af/6e56af83-bdff-56c2-7c6a-b30cd0d356ce/06UMGIM08757.rgb.jpg/1000x1000bb.jpg",
         "duration": 224,
         "genre": "RAP",
         "releaseDate": "2003-03-04"
       },
       {
         "title": "Patiently Waiting",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Patiently%20Waiting%20-%2050%20Cent",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6e/56/af/6e56af83-bdff-56c2-7c6a-b30cd0d356ce/06UMGIM08757.rgb.jpg/1000x1000bb.jpg",
         "duration": 243,
         "genre": "RAP",
         "releaseDate": "2013-07-14"
       },
       {
         "title": "Disco Inferno",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Disco%20Inferno%20-%2050%20Cent",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b6/50/07/b650079b-15db-74fb-5395-ff7ef7c5a45e/17UMGIM93593.rgb.jpg/1000x1000bb.jpg",
         "duration": 183,
         "genre": "RAP",
         "releaseDate": "2006-03-23"
       },
       {
         "title": "Window Shopper",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Window%20Shopper%20-%2050%20Cent",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/79/5d/a7/795da779-84bc-7431-2462-5b7ff31a6479/00602498866054.rgb.jpg/1000x1000bb.jpg",
         "duration": 308,
         "genre": "RAP",
         "releaseDate": "2020-10-07"
-      },
-      {
-        "title": "Just a Lil Bit",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Just%20a%20Lil%20Bit%20-%2050%20Cent",
-        "duration": 275,
-        "genre": "RAP",
-        "releaseDate": "2011-12-21"
-      },
-      {
-        "title": "Best Friend",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Best%20Friend%20-%2050%20Cent",
-        "duration": 262,
-        "genre": "RAP",
-        "releaseDate": "2002-12-04"
       }
     ]
   },
@@ -794,77 +654,42 @@
     "nationality": "UK",
     "dateOfBirth": "1988-05-05",
     "genre": "POP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Adele",
+    "avatar": "https://cdn-images.dzcdn.net/images/artist/e5fc443d2abc03b487234ba4de65a001/1000x1000-000000-80-0-0.jpg",
     "songs": [
       {
         "title": "Hello",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Hello%20-%20Adele",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/8c/24/088c2405-2e33-801b-5c38-e967f2c01e69/191404113974.png/1000x1000bb.jpg",
         "duration": 295,
         "genre": "POP",
         "releaseDate": "2015-10-23"
       },
       {
         "title": "Rolling in the Deep",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Rolling%20in%20the%20Deep%20-%20Adele",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/ca/25/ebca2596-cd1e-b295-91a3-771c868d0a79/191404113868.png/1000x1000bb.jpg",
         "duration": 228,
         "genre": "POP",
         "releaseDate": "2010-11-29"
       },
       {
         "title": "Someone Like You",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Someone%20Like%20You%20-%20Adele",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/ca/25/ebca2596-cd1e-b295-91a3-771c868d0a79/191404113868.png/1000x1000bb.jpg",
         "duration": 285,
         "genre": "POP",
         "releaseDate": "2011-01-24"
       },
       {
         "title": "Easy On Me",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Easy%20On%20Me%20-%20Adele",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/73/6d/7c/736d7cfb-c79d-c9a9-4170-5e71d008dea1/886449666430.jpg/1000x1000bb.jpg",
         "duration": 224,
         "genre": "POP",
         "releaseDate": "2021-10-15"
       },
       {
         "title": "Set Fire to the Rain",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Set%20Fire%20to%20the%20Rain%20-%20Adele",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/ca/25/ebca2596-cd1e-b295-91a3-771c868d0a79/191404113868.png/1000x1000bb.jpg",
         "duration": 242,
         "genre": "POP",
         "releaseDate": "2011-07-04"
-      },
-      {
-        "title": "Adele Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Adele%20Track%201%20-%20Adele",
-        "duration": 277,
-        "genre": "POP",
-        "releaseDate": "2006-12-13"
-      },
-      {
-        "title": "Adele Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Adele%20Track%202%20-%20Adele",
-        "duration": 242,
-        "genre": "POP",
-        "releaseDate": "2018-07-13"
-      },
-      {
-        "title": "Adele Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Adele%20Track%203%20-%20Adele",
-        "duration": 304,
-        "genre": "POP",
-        "releaseDate": "2023-08-25"
-      },
-      {
-        "title": "Adele Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Adele%20Track%204%20-%20Adele",
-        "duration": 231,
-        "genre": "POP",
-        "releaseDate": "2020-03-27"
-      },
-      {
-        "title": "Adele Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Adele%20Track%205%20-%20Adele",
-        "duration": 231,
-        "genre": "POP",
-        "releaseDate": "2016-05-12"
       }
     ]
   },
@@ -873,77 +698,42 @@
     "nationality": "USA",
     "dateOfBirth": "2008-01-01",
     "genre": "ROCK",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Imagine%20Dragons",
+    "avatar": "https://cdn-images.dzcdn.net/images/artist/1ba025c23cae3dee14b51152990285fc/1000x1000-000000-80-0-0.jpg",
     "songs": [
       {
         "title": "Believer",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Believer%20-%20Imagine%20Dragons",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/11/7a/b8/117ab805-6811-8929-18b9-0fad7baf0c25/17UMGIM98210.rgb.jpg/1000x1000bb.jpg",
         "duration": 204,
         "genre": "ROCK",
         "releaseDate": "2017-02-01"
       },
       {
         "title": "Radioactive",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Radioactive%20-%20Imagine%20Dragons",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1f/fa/09/1ffa092f-f52f-4a66-7d10-4cc5982dc747/12UMGIM46901.rgb.jpg/1000x1000bb.jpg",
         "duration": 186,
         "genre": "ROCK",
         "releaseDate": "2012-02-14"
       },
       {
         "title": "Demons",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Demons%20-%20Imagine%20Dragons",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1f/fa/09/1ffa092f-f52f-4a66-7d10-4cc5982dc747/12UMGIM46901.rgb.jpg/1000x1000bb.jpg",
         "duration": 177,
         "genre": "ROCK",
         "releaseDate": "2013-01-28"
       },
       {
         "title": "Thunder",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Thunder%20-%20Imagine%20Dragons",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/11/7a/b8/117ab805-6811-8929-18b9-0fad7baf0c25/17UMGIM98210.rgb.jpg/1000x1000bb.jpg",
         "duration": 187,
         "genre": "ROCK",
         "releaseDate": "2017-04-27"
       },
       {
         "title": "Whatever It Takes",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Whatever%20It%20Takes%20-%20Imagine%20Dragons",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/11/7a/b8/117ab805-6811-8929-18b9-0fad7baf0c25/17UMGIM98210.rgb.jpg/1000x1000bb.jpg",
         "duration": 201,
         "genre": "ROCK",
         "releaseDate": "2017-05-08"
-      },
-      {
-        "title": "Imagine Dragons Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Imagine%20Dragons%20Track%201%20-%20Imagine%20Dragons",
-        "duration": 200,
-        "genre": "ROCK",
-        "releaseDate": "2003-12-14"
-      },
-      {
-        "title": "Imagine Dragons Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Imagine%20Dragons%20Track%202%20-%20Imagine%20Dragons",
-        "duration": 305,
-        "genre": "ROCK",
-        "releaseDate": "2014-06-15"
-      },
-      {
-        "title": "Imagine Dragons Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Imagine%20Dragons%20Track%203%20-%20Imagine%20Dragons",
-        "duration": 297,
-        "genre": "ROCK",
-        "releaseDate": "2013-04-10"
-      },
-      {
-        "title": "Imagine Dragons Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Imagine%20Dragons%20Track%204%20-%20Imagine%20Dragons",
-        "duration": 220,
-        "genre": "ROCK",
-        "releaseDate": "2004-09-25"
-      },
-      {
-        "title": "Imagine Dragons Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Imagine%20Dragons%20Track%205%20-%20Imagine%20Dragons",
-        "duration": 253,
-        "genre": "ROCK",
-        "releaseDate": "2011-02-17"
       }
     ]
   },
@@ -952,77 +742,63 @@
     "nationality": "USA",
     "dateOfBirth": "1995-07-04",
     "genre": "RAP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Post%20Malone",
+    "avatar": "https://cdn-images.dzcdn.net/images/artist/a5a8cca44e7eab2db7d44e039bed2574/1000x1000-000000-80-0-0.jpg",
     "songs": [
       {
         "title": "Circles",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Circles%20-%20Post%20Malone",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7b/1b/1b/7b1b1b0b-7ce2-b223-f9e0-8e36abe51877/19UMGIM78325.rgb.jpg/1000x1000bb.jpg",
         "duration": 215,
         "genre": "RAP",
         "releaseDate": "2019-08-30"
       },
       {
         "title": "Rockstar",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Rockstar%20-%20Post%20Malone",
+        "cover": "https://cdn-images.dzcdn.net/images/cover/c000a4d39f31f3716bf3f11aa5fab080/1000x1000-000000-80-0-0.jpg",
         "duration": 218,
         "genre": "RAP",
         "releaseDate": "2017-09-15"
       },
       {
         "title": "Sunflower",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Sunflower%20-%20Post%20Malone",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4b/30/2c/4b302cb6-7a14-5464-4e97-0577e9d0be49/18UMGIM82277.rgb.jpg/1000x1000bb.jpg",
         "duration": 158,
         "genre": "RAP",
         "releaseDate": "2018-10-18"
       },
       {
         "title": "Congratulations",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Congratulations%20-%20Post%20Malone",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/aa/e1/00/aae1008f-7d56-a3e5-6d86-eb6145998a4c/850b41ee-deea-4a13-8938-2c29a6812442.jpg/1000x1000bb.jpg",
         "duration": 220,
         "genre": "RAP",
         "releaseDate": "2016-11-04"
       },
       {
         "title": "White Iverson",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=White%20Iverson%20-%20Post%20Malone",
+        "cover": "https://cdn-images.dzcdn.net/images/cover/efd66ec02dc81074e5b3e7825db4c380/1000x1000-000000-80-0-0.jpg",
         "duration": 256,
         "genre": "RAP",
         "releaseDate": "2015-02-04"
       },
       {
         "title": "Better Now",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Better%20Now%20-%20Post%20Malone",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/55/9f/fb/559ffb75-3c00-abd6-7b1f-8b6b1518b173/18UMGIM22101.rgb.jpg/1000x1000bb.jpg",
         "duration": 231,
         "genre": "RAP",
         "releaseDate": "2018-04-27"
       },
       {
         "title": "Wow.",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Wow.%20-%20Post%20Malone",
+        "cover": "https://cdn-images.dzcdn.net/images/cover/a604e16926e62e4158a2a60e779892d1/1000x1000-000000-80-0-0.jpg",
         "duration": 149,
         "genre": "RAP",
         "releaseDate": "2018-12-24"
       },
       {
         "title": "Psycho",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Psycho%20-%20Post%20Malone",
+        "cover": "https://cdn-images.dzcdn.net/images/cover/c000a4d39f31f3716bf3f11aa5fab080/1000x1000-000000-80-0-0.jpg",
         "duration": 221,
         "genre": "RAP",
         "releaseDate": "2018-02-23"
-      },
-      {
-        "title": "I Fall Apart",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=I%20Fall%20Apart%20-%20Post%20Malone",
-        "duration": 223,
-        "genre": "RAP",
-        "releaseDate": "2016-12-09"
-      },
-      {
-        "title": "Chemical",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Chemical%20-%20Post%20Malone",
-        "duration": 184,
-        "genre": "RAP",
-        "releaseDate": "2023-04-14"
       }
     ]
   },
@@ -1031,77 +807,63 @@
     "nationality": "USA",
     "dateOfBirth": "2001-12-18",
     "genre": "POP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Billie%20Eilish",
+    "avatar": "https://cdn-images.dzcdn.net/images/artist/8eab1a9a644889aabaca1e193e05f984/1000x1000-000000-80-0-0.jpg",
     "songs": [
       {
         "title": "bad guy",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=bad%20guy%20-%20Billie%20Eilish",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1a/37/d1/1a37d1b1-8508-54f2-f541-bf4e437dda76/19UMGIM05028.rgb.jpg/1000x1000bb.jpg",
         "duration": 194,
         "genre": "POP",
         "releaseDate": "2019-03-29"
       },
       {
         "title": "Happier Than Ever",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Happier%20Than%20Ever%20-%20Billie%20Eilish",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d5/0c/53/d50c5343-58d1-9dfa-22ea-b6ea25b6327b/21UMGIM36684.rgb.jpg/1000x1000bb.jpg",
         "duration": 298,
         "genre": "POP",
         "releaseDate": "2021-07-30"
       },
       {
         "title": "everything i wanted",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=everything%20i%20wanted%20-%20Billie%20Eilish",
+        "cover": "https://cdn-images.dzcdn.net/images/cover/0da7f3792b522921eb9aa5a44f0a4ce7/1000x1000-000000-80-0-0.jpg",
         "duration": 245,
         "genre": "POP",
         "releaseDate": "2019-11-13"
       },
       {
         "title": "bury a friend",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=bury%20a%20friend%20-%20Billie%20Eilish",
+        "cover": "https://cdn-images.dzcdn.net/images/cover/6630083f454d48eadb6a9b53f035d734/1000x1000-000000-80-0-0.jpg",
         "duration": 193,
         "genre": "POP",
         "releaseDate": "2019-01-30"
       },
       {
         "title": "Ocean Eyes",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Ocean%20Eyes%20-%20Billie%20Eilish",
+        "cover": "https://cdn-images.dzcdn.net/images/cover/d85200712419ae036b277deffeea5181/1000x1000-000000-80-0-0.jpg",
         "duration": 200,
         "genre": "POP",
         "releaseDate": "2016-05-18"
       },
       {
         "title": "Therefore I Am",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Therefore%20I%20Am%20-%20Billie%20Eilish",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2d/f3/c9/2df3c9fd-e0eb-257c-c035-b04f05a66580/21UMGIM36691.rgb.jpg/1000x1000bb.jpg",
         "duration": 174,
         "genre": "POP",
         "releaseDate": "2020-11-12"
       },
       {
         "title": "Lovely",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Lovely%20-%20Billie%20Eilish",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/27/94/d4/2794d4fc-c3e2-2373-3e6c-dd82fd5aefe6/18UMGIM18200.rgb.jpg/1000x1000bb.jpg",
         "duration": 201,
         "genre": "POP",
         "releaseDate": "2018-04-19"
       },
       {
         "title": "When the Party's Over",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=When%20the%20Party%27s%20Over%20-%20Billie%20Eilish",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1a/37/d1/1a37d1b1-8508-54f2-f541-bf4e437dda76/19UMGIM05028.rgb.jpg/1000x1000bb.jpg",
         "duration": 196,
         "genre": "POP",
         "releaseDate": "2018-10-17"
-      },
-      {
-        "title": "Birds of a Feather",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Birds%20of%20a%20Feather%20-%20Billie%20Eilish",
-        "duration": 210,
-        "genre": "POP",
-        "releaseDate": "2024-05-17"
-      },
-      {
-        "title": "Lunch",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Lunch%20-%20Billie%20Eilish",
-        "duration": 179,
-        "genre": "POP",
-        "releaseDate": "2024-05-17"
       }
     ]
   },
@@ -1110,3632 +872,63 @@
     "nationality": "USA",
     "dateOfBirth": "1982-09-27",
     "genre": "RAP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Lil%20Wayne",
+    "avatar": "https://cdn-images.dzcdn.net/images/artist/3ced6f5ba94b771cf704fec83c58c798/1000x1000-000000-80-0-0.jpg",
     "songs": [
       {
         "title": "Lollipop",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Lollipop%20-%20Lil%20Wayne",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/6c/dc/f96cdc5c-09fe-06b6-4629-be4afeb71cca/08UMGIM15512.rgb.jpg/1000x1000bb.jpg",
         "duration": 299,
         "genre": "RAP",
         "releaseDate": "2008-03-13"
       },
       {
         "title": "A Milli",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=A%20Milli%20-%20Lil%20Wayne",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/6c/dc/f96cdc5c-09fe-06b6-4629-be4afeb71cca/08UMGIM15512.rgb.jpg/1000x1000bb.jpg",
         "duration": 221,
         "genre": "RAP",
         "releaseDate": "2008-04-23"
       },
       {
         "title": "6 Foot 7 Foot",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=6%20Foot%207%20Foot%20-%20Lil%20Wayne",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/2d/c9/172dc94f-65f7-c8bd-5e62-1930d5015942/11UMGIM26414.rgb.jpg/1000x1000bb.jpg",
         "duration": 249,
         "genre": "RAP",
         "releaseDate": "2010-12-15"
       },
       {
         "title": "How to Love",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=How%20to%20Love%20-%20Lil%20Wayne",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2d/e9/91/2de9919b-1860-02ee-7cb4-1e2c212a3f7e/11UMGIM26381.rgb.jpg/1000x1000bb.jpg",
         "duration": 240,
         "genre": "RAP",
         "releaseDate": "2011-05-24"
       },
       {
         "title": "Mirror",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Mirror%20-%20Lil%20Wayne",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/57/93/77/579377d8-2320-379c-1957-bb8b7b50bc30/23UMGIM34401.rgb.jpg/1000x1000bb.jpg",
         "duration": 228,
         "genre": "RAP",
         "releaseDate": "2011-11-01"
       },
       {
         "title": "Fireman",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Fireman%20-%20Lil%20Wayne",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6e/03/50/6e035083-632f-6978-858e-5e62af8b9426/06UMGIM17277.rgb.jpg/1000x1000bb.jpg",
         "duration": 277,
         "genre": "RAP",
         "releaseDate": "2005-10-25"
       },
       {
         "title": "Mrs. Officer",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Mrs.%20Officer%20-%20Lil%20Wayne",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/6c/dc/f96cdc5c-09fe-06b6-4629-be4afeb71cca/08UMGIM15512.rgb.jpg/1000x1000bb.jpg",
         "duration": 286,
         "genre": "RAP",
         "releaseDate": "2008-09-23"
       },
       {
         "title": "Go DJ",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Go%20DJ%20-%20Lil%20Wayne",
+        "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8f/ed/a2/8feda2e9-8762-4343-6bcd-aa21375a0648/06UMGIM10948.rgb.jpg/1000x1000bb.jpg",
         "duration": 281,
         "genre": "RAP",
         "releaseDate": "2004-02-10"
-      },
-      {
-        "title": "Right Above It",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Right%20Above%20It%20-%20Lil%20Wayne",
-        "duration": 287,
-        "genre": "RAP",
-        "releaseDate": "2010-08-24"
-      },
-      {
-        "title": "Got Money",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Got%20Money%20-%20Lil%20Wayne",
-        "duration": 244,
-        "genre": "RAP",
-        "releaseDate": "2008-06-10"
-      }
-    ]
-  },
-  {
-    "artistName": "Sfera Ebbasta",
-    "nationality": "Italy",
-    "dateOfBirth": "1992-12-07",
-    "genre": "TRAP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Sfera%20Ebbasta",
-    "songs": [
-      {
-        "title": "Cupido",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Cupido%20-%20Sfera%20Ebbasta",
-        "duration": 214,
-        "genre": "TRAP",
-        "releaseDate": "2018-11-20"
-      },
-      {
-        "title": "Tran Tran",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Tran%20Tran%20-%20Sfera%20Ebbasta",
-        "duration": 203,
-        "genre": "TRAP",
-        "releaseDate": "2016-09-09"
-      },
-      {
-        "title": "Ricchi x Sempre",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Ricchi%20x%20Sempre%20-%20Sfera%20Ebbasta",
-        "duration": 221,
-        "genre": "TRAP",
-        "releaseDate": "2017-11-10"
-      },
-      {
-        "title": "BRNBQ",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=BRNBQ%20-%20Sfera%20Ebbasta",
-        "duration": 188,
-        "genre": "TRAP",
-        "releaseDate": "2018-01-19"
-      },
-      {
-        "title": "Baby",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Baby%20-%20Sfera%20Ebbasta",
-        "duration": 217,
-        "genre": "TRAP",
-        "releaseDate": "2018-11-30"
-      },
-      {
-        "title": "Ciny",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Ciny%20-%20Sfera%20Ebbasta",
-        "duration": 212,
-        "genre": "TRAP",
-        "releaseDate": "2017-09-22"
-      },
-      {
-        "title": "Famoso",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Famoso%20-%20Sfera%20Ebbasta",
-        "duration": 201,
-        "genre": "TRAP",
-        "releaseDate": "2020-11-20"
-      },
-      {
-        "title": "Sciroppo",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Sciroppo%20-%20Sfera%20Ebbasta",
-        "duration": 190,
-        "genre": "TRAP",
-        "releaseDate": "2022-11-18"
-      },
-      {
-        "title": "Tik Tok",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Tik%20Tok%20-%20Sfera%20Ebbasta",
-        "duration": 203,
-        "genre": "TRAP",
-        "releaseDate": "2019-11-22"
-      },
-      {
-        "title": "XDVR",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=XDVR%20-%20Sfera%20Ebbasta",
-        "duration": 215,
-        "genre": "TRAP",
-        "releaseDate": "2015-06-23"
-      }
-    ]
-  },
-  {
-    "artistName": "Marracash",
-    "nationality": "Italy",
-    "dateOfBirth": "1979-05-22",
-    "genre": "RAP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Marracash",
-    "songs": [
-      {
-        "title": "Crudelia",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Crudelia%20-%20Marracash",
-        "duration": 228,
-        "genre": "RAP",
-        "releaseDate": "2019-10-31"
-      },
-      {
-        "title": "Nulla Accade",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Nulla%20Accade%20-%20Marracash",
-        "duration": 233,
-        "genre": "RAP",
-        "releaseDate": "2019-10-31"
-      },
-      {
-        "title": "Bravi a Cadere",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Bravi%20a%20Cadere%20-%20Marracash",
-        "duration": 214,
-        "genre": "RAP",
-        "releaseDate": "2019-10-31"
-      },
-      {
-        "title": "Crazy Love",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Crazy%20Love%20-%20Marracash",
-        "duration": 233,
-        "genre": "RAP",
-        "releaseDate": "2021-06-11"
-      },
-      {
-        "title": "Dubbi",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Dubbi%20-%20Marracash",
-        "duration": 201,
-        "genre": "RAP",
-        "releaseDate": "2019-10-31"
-      },
-      {
-        "title": "Persona",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Persona%20-%20Marracash",
-        "duration": 240,
-        "genre": "RAP",
-        "releaseDate": "2019-10-31"
-      },
-      {
-        "title": "∞ LOVE",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=%E2%88%9E%20LOVE%20-%20Marracash",
-        "duration": 228,
-        "genre": "RAP",
-        "releaseDate": "2021-11-18"
-      },
-      {
-        "title": "Factotum",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Factotum%20-%20Marracash",
-        "duration": 218,
-        "genre": "RAP",
-        "releaseDate": "2021-11-18"
-      },
-      {
-        "title": "Lei",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Lei%20-%20Marracash",
-        "duration": 205,
-        "genre": "RAP",
-        "releaseDate": "2015-01-23"
-      },
-      {
-        "title": "Sport",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Sport%20-%20Marracash",
-        "duration": 196,
-        "genre": "RAP",
-        "releaseDate": "2024-01-12"
-      }
-    ]
-  },
-  {
-    "artistName": "Salmo",
-    "nationality": "Italy",
-    "dateOfBirth": "1984-06-29",
-    "genre": "RAP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Salmo",
-    "songs": [
-      {
-        "title": "90MIN",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=90MIN%20-%20Salmo",
-        "duration": 201,
-        "genre": "RAP",
-        "releaseDate": "2021-10-01"
-      },
-      {
-        "title": "Il Cielo nella Stanza",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Il%20Cielo%20nella%20Stanza%20-%20Salmo",
-        "duration": 215,
-        "genre": "RAP",
-        "releaseDate": "2018-11-09"
-      },
-      {
-        "title": "YHWH",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=YHWH%20-%20Salmo",
-        "duration": 226,
-        "genre": "RAP",
-        "releaseDate": "2018-11-09"
-      },
-      {
-        "title": "Perdonami",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Perdonami%20-%20Salmo",
-        "duration": 227,
-        "genre": "RAP",
-        "releaseDate": "2018-02-23"
-      },
-      {
-        "title": "Estate Dimmerda",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Estate%20Dimmerda%20-%20Salmo",
-        "duration": 227,
-        "genre": "RAP",
-        "releaseDate": "2011-06-21"
-      },
-      {
-        "title": "Russell Crowe",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Russell%20Crowe%20-%20Salmo",
-        "duration": 227,
-        "genre": "RAP",
-        "releaseDate": "2013-01-01"
-      },
-      {
-        "title": "1984",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=1984%20-%20Salmo",
-        "duration": 240,
-        "genre": "RAP",
-        "releaseDate": "2011-01-01"
-      },
-      {
-        "title": "Kumite",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Kumite%20-%20Salmo",
-        "duration": 222,
-        "genre": "RAP",
-        "releaseDate": "2016-02-05"
-      },
-      {
-        "title": "Mic Taser",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Mic%20Taser%20-%20Salmo",
-        "duration": 215,
-        "genre": "RAP",
-        "releaseDate": "2014-04-01"
-      },
-      {
-        "title": "Hellvisback",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Hellvisback%20-%20Salmo",
-        "duration": 250,
-        "genre": "RAP",
-        "releaseDate": "2016-02-05"
-      }
-    ]
-  },
-  {
-    "artistName": "Mahmood",
-    "nationality": "Italy",
-    "dateOfBirth": "1992-09-12",
-    "genre": "POP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Mahmood",
-    "songs": [
-      {
-        "title": "Soldi",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Soldi%20-%20Mahmood",
-        "duration": 196,
-        "genre": "POP",
-        "releaseDate": "2019-02-06"
-      },
-      {
-        "title": "Brividi",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Brividi%20-%20Mahmood",
-        "duration": 203,
-        "genre": "POP",
-        "releaseDate": "2022-02-02"
-      },
-      {
-        "title": "Rapide",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Rapide%20-%20Mahmood",
-        "duration": 190,
-        "genre": "POP",
-        "releaseDate": "2020-01-16"
-      },
-      {
-        "title": "Barrio",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Barrio%20-%20Mahmood",
-        "duration": 173,
-        "genre": "POP",
-        "releaseDate": "2019-08-30"
-      },
-      {
-        "title": "Kobra",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Kobra%20-%20Mahmood",
-        "duration": 169,
-        "genre": "POP",
-        "releaseDate": "2021-09-03"
-      },
-      {
-        "title": "Tuta Gold",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Tuta%20Gold%20-%20Mahmood",
-        "duration": 188,
-        "genre": "POP",
-        "releaseDate": "2024-02-07"
-      },
-      {
-        "title": "Gioventù Bruciata",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Giovent%C3%B9%20Bruciata%20-%20Mahmood",
-        "duration": 210,
-        "genre": "POP",
-        "releaseDate": "2019-02-22"
-      },
-      {
-        "title": "Cocktail d'Amore",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Cocktail%20d%27Amore%20-%20Mahmood",
-        "duration": 197,
-        "genre": "POP",
-        "releaseDate": "2023-06-09"
-      },
-      {
-        "title": "Clan",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Clan%20-%20Mahmood",
-        "duration": 190,
-        "genre": "POP",
-        "releaseDate": "2021-06-11"
-      },
-      {
-        "title": "Dorado",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Dorado%20-%20Mahmood",
-        "duration": 175,
-        "genre": "POP",
-        "releaseDate": "2020-07-10"
-      }
-    ]
-  },
-  {
-    "artistName": "Geolier",
-    "nationality": "Italy",
-    "dateOfBirth": "2000-03-23",
-    "genre": "RAP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Geolier",
-    "songs": [
-      {
-        "title": "I p' me, tu p' te",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=I%20p%27%20me%2C%20tu%20p%27%20te%20-%20Geolier",
-        "duration": 184,
-        "genre": "RAP",
-        "releaseDate": "2024-02-07"
-      },
-      {
-        "title": "Chiagne",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Chiagne%20-%20Geolier",
-        "duration": 201,
-        "genre": "RAP",
-        "releaseDate": "2023-11-10"
-      },
-      {
-        "title": "Money",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Money%20-%20Geolier",
-        "duration": 173,
-        "genre": "RAP",
-        "releaseDate": "2019-06-21"
-      },
-      {
-        "title": "Moncler",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Moncler%20-%20Geolier",
-        "duration": 184,
-        "genre": "RAP",
-        "releaseDate": "2019-01-25"
-      },
-      {
-        "title": "X Caso",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=X%20Caso%20-%20Geolier",
-        "duration": 188,
-        "genre": "RAP",
-        "releaseDate": "2022-06-10"
-      },
-      {
-        "title": "Come Vuoi",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Come%20Vuoi%20-%20Geolier",
-        "duration": 194,
-        "genre": "RAP",
-        "releaseDate": "2023-01-06"
-      },
-      {
-        "title": "Capo",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Capo%20-%20Geolier",
-        "duration": 201,
-        "genre": "RAP",
-        "releaseDate": "2022-12-02"
-      },
-      {
-        "title": "So Fly",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=So%20Fly%20-%20Geolier",
-        "duration": 184,
-        "genre": "RAP",
-        "releaseDate": "2023-11-10"
-      },
-      {
-        "title": "El Pibe de Oro",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=El%20Pibe%20de%20Oro%20-%20Geolier",
-        "duration": 210,
-        "genre": "RAP",
-        "releaseDate": "2024-06-07"
-      },
-      {
-        "title": "Narcos",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Narcos%20-%20Geolier",
-        "duration": 178,
-        "genre": "RAP",
-        "releaseDate": "2021-09-10"
-      }
-    ]
-  },
-  {
-    "artistName": "Playboi Carti",
-    "nationality": "USA",
-    "dateOfBirth": "1996-09-13",
-    "genre": "TRAP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Playboi%20Carti",
-    "songs": [
-      {
-        "title": "Magnolia",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Magnolia%20-%20Playboi%20Carti",
-        "duration": 181,
-        "genre": "TRAP",
-        "releaseDate": "2017-04-14"
-      },
-      {
-        "title": "Sky",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Sky%20-%20Playboi%20Carti",
-        "duration": 193,
-        "genre": "TRAP",
-        "releaseDate": "2020-12-25"
-      },
-      {
-        "title": "Shoota",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Shoota%20-%20Playboi%20Carti",
-        "duration": 153,
-        "genre": "TRAP",
-        "releaseDate": "2018-05-11"
-      },
-      {
-        "title": "wokeuplikethis*",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=wokeuplikethis%2A%20-%20Playboi%20Carti",
-        "duration": 176,
-        "genre": "TRAP",
-        "releaseDate": "2017-04-14"
-      },
-      {
-        "title": "R.I.P.",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=R.I.P.%20-%20Playboi%20Carti",
-        "duration": 192,
-        "genre": "TRAP",
-        "releaseDate": "2018-05-11"
-      },
-      {
-        "title": "@ MEH",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=%40%20MEH%20-%20Playboi%20Carti",
-        "duration": 165,
-        "genre": "TRAP",
-        "releaseDate": "2020-04-16"
-      },
-      {
-        "title": "Vamp Anthem",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Vamp%20Anthem%20-%20Playboi%20Carti",
-        "duration": 124,
-        "genre": "TRAP",
-        "releaseDate": "2020-12-25"
-      },
-      {
-        "title": "Long Time",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Long%20Time%20-%20Playboi%20Carti",
-        "duration": 212,
-        "genre": "TRAP",
-        "releaseDate": "2018-05-11"
-      },
-      {
-        "title": "ILoveUIHateU",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=ILoveUIHateU%20-%20Playboi%20Carti",
-        "duration": 255,
-        "genre": "TRAP",
-        "releaseDate": "2020-12-25"
-      },
-      {
-        "title": "Location",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Location%20-%20Playboi%20Carti",
-        "duration": 168,
-        "genre": "TRAP",
-        "releaseDate": "2017-04-14"
-      }
-    ]
-  },
-  {
-    "artistName": "Future",
-    "nationality": "USA",
-    "dateOfBirth": "1983-11-20",
-    "genre": "TRAP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Future",
-    "songs": [
-      {
-        "title": "Mask Off",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Mask%20Off%20-%20Future",
-        "duration": 204,
-        "genre": "TRAP",
-        "releaseDate": "2017-02-17"
-      },
-      {
-        "title": "Life Is Good",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Life%20Is%20Good%20-%20Future",
-        "duration": 237,
-        "genre": "TRAP",
-        "releaseDate": "2020-01-10"
-      },
-      {
-        "title": "March Madness",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=March%20Madness%20-%20Future",
-        "duration": 244,
-        "genre": "TRAP",
-        "releaseDate": "2015-03-21"
-      },
-      {
-        "title": "Low Life",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Low%20Life%20-%20Future",
-        "duration": 313,
-        "genre": "TRAP",
-        "releaseDate": "2016-02-05"
-      },
-      {
-        "title": "WAIT FOR U",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=WAIT%20FOR%20U%20-%20Future",
-        "duration": 189,
-        "genre": "TRAP",
-        "releaseDate": "2022-04-29"
-      },
-      {
-        "title": "Codeine Crazy",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Codeine%20Crazy%20-%20Future",
-        "duration": 336,
-        "genre": "TRAP",
-        "releaseDate": "2014-11-27"
-      },
-      {
-        "title": "Stick Talk",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Stick%20Talk%20-%20Future",
-        "duration": 170,
-        "genre": "TRAP",
-        "releaseDate": "2015-07-17"
-      },
-      {
-        "title": "Turn On The Lights",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Turn%20On%20The%20Lights%20-%20Future",
-        "duration": 257,
-        "genre": "TRAP",
-        "releaseDate": "2012-04-13"
-      },
-      {
-        "title": "Fuck Up Some Commas",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Fuck%20Up%20Some%20Commas%20-%20Future",
-        "duration": 237,
-        "genre": "TRAP",
-        "releaseDate": "2014-10-28"
-      },
-      {
-        "title": "Superhero",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Superhero%20-%20Future",
-        "duration": 182,
-        "genre": "TRAP",
-        "releaseDate": "2022-10-28"
-      }
-    ]
-  },
-  {
-    "artistName": "21 Savage",
-    "nationality": "UK",
-    "dateOfBirth": "1992-10-22",
-    "genre": "RAP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%2021%20Savage",
-    "songs": [
-      {
-        "title": "Bank Account",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Bank%20Account%20-%2021%20Savage",
-        "duration": 220,
-        "genre": "RAP",
-        "releaseDate": "2017-07-07"
-      },
-      {
-        "title": "a lot",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=a%20lot%20-%2021%20Savage",
-        "duration": 288,
-        "genre": "RAP",
-        "releaseDate": "2018-12-21"
-      },
-      {
-        "title": "Runnin",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Runnin%20-%2021%20Savage",
-        "duration": 195,
-        "genre": "RAP",
-        "releaseDate": "2020-10-02"
-      },
-      {
-        "title": "redrum",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=redrum%20-%2021%20Savage",
-        "duration": 270,
-        "genre": "RAP",
-        "releaseDate": "2024-01-12"
-      },
-      {
-        "title": "Jimmy Cooks",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Jimmy%20Cooks%20-%2021%20Savage",
-        "duration": 218,
-        "genre": "RAP",
-        "releaseDate": "2022-06-17"
-      },
-      {
-        "title": "21 Savage Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=21%20Savage%20Track%201%20-%2021%20Savage",
-        "duration": 274,
-        "genre": "RAP",
-        "releaseDate": "2014-03-02"
-      },
-      {
-        "title": "21 Savage Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=21%20Savage%20Track%202%20-%2021%20Savage",
-        "duration": 274,
-        "genre": "RAP",
-        "releaseDate": "2011-10-07"
-      },
-      {
-        "title": "21 Savage Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=21%20Savage%20Track%203%20-%2021%20Savage",
-        "duration": 223,
-        "genre": "RAP",
-        "releaseDate": "2001-09-27"
-      },
-      {
-        "title": "21 Savage Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=21%20Savage%20Track%204%20-%2021%20Savage",
-        "duration": 315,
-        "genre": "RAP",
-        "releaseDate": "2020-08-21"
-      },
-      {
-        "title": "21 Savage Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=21%20Savage%20Track%205%20-%2021%20Savage",
-        "duration": 248,
-        "genre": "RAP",
-        "releaseDate": "2019-02-18"
-      }
-    ]
-  },
-  {
-    "artistName": "Doja Cat",
-    "nationality": "USA",
-    "dateOfBirth": "1995-10-21",
-    "genre": "RNB",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Doja%20Cat",
-    "songs": [
-      {
-        "title": "Paint The Town Red",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Paint%20The%20Town%20Red%20-%20Doja%20Cat",
-        "duration": 231,
-        "genre": "RNB",
-        "releaseDate": "2023-08-04"
-      },
-      {
-        "title": "Say So",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Say%20So%20-%20Doja%20Cat",
-        "duration": 237,
-        "genre": "RNB",
-        "releaseDate": "2019-11-07"
-      },
-      {
-        "title": "Woman",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Woman%20-%20Doja%20Cat",
-        "duration": 172,
-        "genre": "RNB",
-        "releaseDate": "2021-06-25"
-      },
-      {
-        "title": "Kiss Me More",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Kiss%20Me%20More%20-%20Doja%20Cat",
-        "duration": 208,
-        "genre": "RNB",
-        "releaseDate": "2021-04-09"
-      },
-      {
-        "title": "Need to Know",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Need%20to%20Know%20-%20Doja%20Cat",
-        "duration": 210,
-        "genre": "RNB",
-        "releaseDate": "2021-06-11"
-      },
-      {
-        "title": "Doja Cat Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Doja%20Cat%20Track%201%20-%20Doja%20Cat",
-        "duration": 163,
-        "genre": "RNB",
-        "releaseDate": "2006-02-28"
-      },
-      {
-        "title": "Doja Cat Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Doja%20Cat%20Track%202%20-%20Doja%20Cat",
-        "duration": 244,
-        "genre": "RNB",
-        "releaseDate": "2006-11-12"
-      },
-      {
-        "title": "Doja Cat Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Doja%20Cat%20Track%203%20-%20Doja%20Cat",
-        "duration": 267,
-        "genre": "RNB",
-        "releaseDate": "2011-03-26"
-      },
-      {
-        "title": "Doja Cat Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Doja%20Cat%20Track%204%20-%20Doja%20Cat",
-        "duration": 253,
-        "genre": "RNB",
-        "releaseDate": "2024-11-16"
-      },
-      {
-        "title": "Doja Cat Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Doja%20Cat%20Track%205%20-%20Doja%20Cat",
-        "duration": 188,
-        "genre": "RNB",
-        "releaseDate": "2011-12-02"
-      }
-    ]
-  },
-  {
-    "artistName": "Frank Ocean",
-    "nationality": "USA",
-    "dateOfBirth": "1987-10-28",
-    "genre": "RNB",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Frank%20Ocean",
-    "songs": [
-      {
-        "title": "Thinkin Bout You",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Thinkin%20Bout%20You%20-%20Frank%20Ocean",
-        "duration": 200,
-        "genre": "RNB",
-        "releaseDate": "2012-04-17"
-      },
-      {
-        "title": "Nikes",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Nikes%20-%20Frank%20Ocean",
-        "duration": 314,
-        "genre": "RNB",
-        "releaseDate": "2016-08-20"
-      },
-      {
-        "title": "Pink + White",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Pink%20%2B%20White%20-%20Frank%20Ocean",
-        "duration": 184,
-        "genre": "RNB",
-        "releaseDate": "2016-08-20"
-      },
-      {
-        "title": "Lost",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Lost%20-%20Frank%20Ocean",
-        "duration": 234,
-        "genre": "RNB",
-        "releaseDate": "2012-07-10"
-      },
-      {
-        "title": "Ivy",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Ivy%20-%20Frank%20Ocean",
-        "duration": 249,
-        "genre": "RNB",
-        "releaseDate": "2016-08-20"
-      },
-      {
-        "title": "Frank Ocean Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Frank%20Ocean%20Track%201%20-%20Frank%20Ocean",
-        "duration": 238,
-        "genre": "RNB",
-        "releaseDate": "2023-07-21"
-      },
-      {
-        "title": "Frank Ocean Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Frank%20Ocean%20Track%202%20-%20Frank%20Ocean",
-        "duration": 259,
-        "genre": "RNB",
-        "releaseDate": "2023-05-21"
-      },
-      {
-        "title": "Frank Ocean Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Frank%20Ocean%20Track%203%20-%20Frank%20Ocean",
-        "duration": 301,
-        "genre": "RNB",
-        "releaseDate": "2024-01-07"
-      },
-      {
-        "title": "Frank Ocean Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Frank%20Ocean%20Track%204%20-%20Frank%20Ocean",
-        "duration": 320,
-        "genre": "RNB",
-        "releaseDate": "2024-08-07"
-      },
-      {
-        "title": "Frank Ocean Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Frank%20Ocean%20Track%205%20-%20Frank%20Ocean",
-        "duration": 291,
-        "genre": "RNB",
-        "releaseDate": "2006-02-09"
-      }
-    ]
-  },
-  {
-    "artistName": "Nas",
-    "nationality": "USA",
-    "dateOfBirth": "1973-09-14",
-    "genre": "RAP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Nas",
-    "songs": [
-      {
-        "title": "N.Y. State of Mind",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=N.Y.%20State%20of%20Mind%20-%20Nas",
-        "duration": 294,
-        "genre": "RAP",
-        "releaseDate": "1994-04-19"
-      },
-      {
-        "title": "If I Ruled the World",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=If%20I%20Ruled%20the%20World%20-%20Nas",
-        "duration": 282,
-        "genre": "RAP",
-        "releaseDate": "1996-06-04"
-      },
-      {
-        "title": "The World Is Yours",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=The%20World%20Is%20Yours%20-%20Nas",
-        "duration": 290,
-        "genre": "RAP",
-        "releaseDate": "1994-04-19"
-      },
-      {
-        "title": "Made You Look",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Made%20You%20Look%20-%20Nas",
-        "duration": 203,
-        "genre": "RAP",
-        "releaseDate": "2002-09-10"
-      },
-      {
-        "title": "One Mic",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=One%20Mic%20-%20Nas",
-        "duration": 268,
-        "genre": "RAP",
-        "releaseDate": "2001-12-18"
-      },
-      {
-        "title": "Nas Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Nas%20Track%201%20-%20Nas",
-        "duration": 190,
-        "genre": "RAP",
-        "releaseDate": "2008-08-15"
-      },
-      {
-        "title": "Nas Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Nas%20Track%202%20-%20Nas",
-        "duration": 312,
-        "genre": "RAP",
-        "releaseDate": "2023-08-09"
-      },
-      {
-        "title": "Nas Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Nas%20Track%203%20-%20Nas",
-        "duration": 223,
-        "genre": "RAP",
-        "releaseDate": "2002-06-09"
-      },
-      {
-        "title": "Nas Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Nas%20Track%204%20-%20Nas",
-        "duration": 197,
-        "genre": "RAP",
-        "releaseDate": "2001-11-03"
-      },
-      {
-        "title": "Nas Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Nas%20Track%205%20-%20Nas",
-        "duration": 281,
-        "genre": "RAP",
-        "releaseDate": "2012-07-13"
-      }
-    ]
-  },
-  {
-    "artistName": "J. Cole",
-    "nationality": "USA",
-    "dateOfBirth": "1985-01-28",
-    "genre": "HIP_HOP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20J.%20Cole",
-    "songs": [
-      {
-        "title": "No Role Modelz",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=No%20Role%20Modelz%20-%20J.%20Cole",
-        "duration": 292,
-        "genre": "HIP_HOP",
-        "releaseDate": "2014-12-09"
-      },
-      {
-        "title": "Middle Child",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Middle%20Child%20-%20J.%20Cole",
-        "duration": 213,
-        "genre": "HIP_HOP",
-        "releaseDate": "2019-01-23"
-      },
-      {
-        "title": "Wet Dreamz",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Wet%20Dreamz%20-%20J.%20Cole",
-        "duration": 239,
-        "genre": "HIP_HOP",
-        "releaseDate": "2014-12-09"
-      },
-      {
-        "title": "Love Yourz",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Love%20Yourz%20-%20J.%20Cole",
-        "duration": 211,
-        "genre": "HIP_HOP",
-        "releaseDate": "2014-12-09"
-      },
-      {
-        "title": "Power Trip",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Power%20Trip%20-%20J.%20Cole",
-        "duration": 241,
-        "genre": "HIP_HOP",
-        "releaseDate": "2013-02-14"
-      },
-      {
-        "title": "J. Cole Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=J.%20Cole%20Track%201%20-%20J.%20Cole",
-        "duration": 177,
-        "genre": "HIP_HOP",
-        "releaseDate": "2015-12-28"
-      },
-      {
-        "title": "J. Cole Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=J.%20Cole%20Track%202%20-%20J.%20Cole",
-        "duration": 285,
-        "genre": "HIP_HOP",
-        "releaseDate": "2023-01-25"
-      },
-      {
-        "title": "J. Cole Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=J.%20Cole%20Track%203%20-%20J.%20Cole",
-        "duration": 221,
-        "genre": "HIP_HOP",
-        "releaseDate": "2009-04-18"
-      },
-      {
-        "title": "J. Cole Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=J.%20Cole%20Track%204%20-%20J.%20Cole",
-        "duration": 280,
-        "genre": "HIP_HOP",
-        "releaseDate": "2018-11-09"
-      },
-      {
-        "title": "J. Cole Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=J.%20Cole%20Track%205%20-%20J.%20Cole",
-        "duration": 161,
-        "genre": "HIP_HOP",
-        "releaseDate": "2003-05-28"
-      }
-    ]
-  },
-  {
-    "artistName": "Lil Baby",
-    "nationality": "USA",
-    "dateOfBirth": "1994-12-03",
-    "genre": "TRAP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Lil%20Baby",
-    "songs": [
-      {
-        "title": "Drip Too Hard",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Drip%20Too%20Hard%20-%20Lil%20Baby",
-        "duration": 145,
-        "genre": "TRAP",
-        "releaseDate": "2018-09-12"
-      },
-      {
-        "title": "Yes Indeed",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Yes%20Indeed%20-%20Lil%20Baby",
-        "duration": 142,
-        "genre": "TRAP",
-        "releaseDate": "2018-05-15"
-      },
-      {
-        "title": "Freestyle",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Freestyle%20-%20Lil%20Baby",
-        "duration": 162,
-        "genre": "TRAP",
-        "releaseDate": "2017-12-01"
-      },
-      {
-        "title": "Woah",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Woah%20-%20Lil%20Baby",
-        "duration": 183,
-        "genre": "TRAP",
-        "releaseDate": "2019-11-08"
-      },
-      {
-        "title": "The Bigger Picture",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=The%20Bigger%20Picture%20-%20Lil%20Baby",
-        "duration": 252,
-        "genre": "TRAP",
-        "releaseDate": "2020-06-12"
-      },
-      {
-        "title": "Lil Baby Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Lil%20Baby%20Track%201%20-%20Lil%20Baby",
-        "duration": 179,
-        "genre": "TRAP",
-        "releaseDate": "2003-04-03"
-      },
-      {
-        "title": "Lil Baby Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Lil%20Baby%20Track%202%20-%20Lil%20Baby",
-        "duration": 273,
-        "genre": "TRAP",
-        "releaseDate": "2024-05-08"
-      },
-      {
-        "title": "Lil Baby Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Lil%20Baby%20Track%203%20-%20Lil%20Baby",
-        "duration": 194,
-        "genre": "TRAP",
-        "releaseDate": "2023-01-04"
-      },
-      {
-        "title": "Lil Baby Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Lil%20Baby%20Track%204%20-%20Lil%20Baby",
-        "duration": 297,
-        "genre": "TRAP",
-        "releaseDate": "2023-06-05"
-      },
-      {
-        "title": "Lil Baby Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Lil%20Baby%20Track%205%20-%20Lil%20Baby",
-        "duration": 185,
-        "genre": "TRAP",
-        "releaseDate": "2003-03-26"
-      }
-    ]
-  },
-  {
-    "artistName": "Roddy Ricch",
-    "nationality": "USA",
-    "dateOfBirth": "1998-10-22",
-    "genre": "RAP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Roddy%20Ricch",
-    "songs": [
-      {
-        "title": "The Box",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=The%20Box%20-%20Roddy%20Ricch",
-        "duration": 196,
-        "genre": "RAP",
-        "releaseDate": "2019-12-06"
-      },
-      {
-        "title": "High Fashion",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=High%20Fashion%20-%20Roddy%20Ricch",
-        "duration": 220,
-        "genre": "RAP",
-        "releaseDate": "2019-12-06"
-      },
-      {
-        "title": "Ballin'",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Ballin%27%20-%20Roddy%20Ricch",
-        "duration": 180,
-        "genre": "RAP",
-        "releaseDate": "2019-06-14"
-      },
-      {
-        "title": "Late At Night",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Late%20At%20Night%20-%20Roddy%20Ricch",
-        "duration": 173,
-        "genre": "RAP",
-        "releaseDate": "2021-06-04"
-      },
-      {
-        "title": "Start Wit Me",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Start%20Wit%20Me%20-%20Roddy%20Ricch",
-        "duration": 157,
-        "genre": "RAP",
-        "releaseDate": "2019-11-01"
-      },
-      {
-        "title": "Roddy Ricch Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Roddy%20Ricch%20Track%201%20-%20Roddy%20Ricch",
-        "duration": 194,
-        "genre": "RAP",
-        "releaseDate": "2015-03-27"
-      },
-      {
-        "title": "Roddy Ricch Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Roddy%20Ricch%20Track%202%20-%20Roddy%20Ricch",
-        "duration": 184,
-        "genre": "RAP",
-        "releaseDate": "2024-03-15"
-      },
-      {
-        "title": "Roddy Ricch Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Roddy%20Ricch%20Track%203%20-%20Roddy%20Ricch",
-        "duration": 193,
-        "genre": "RAP",
-        "releaseDate": "2020-08-20"
-      },
-      {
-        "title": "Roddy Ricch Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Roddy%20Ricch%20Track%204%20-%20Roddy%20Ricch",
-        "duration": 263,
-        "genre": "RAP",
-        "releaseDate": "2008-01-15"
-      },
-      {
-        "title": "Roddy Ricch Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Roddy%20Ricch%20Track%205%20-%20Roddy%20Ricch",
-        "duration": 167,
-        "genre": "RAP",
-        "releaseDate": "2024-03-12"
-      }
-    ]
-  },
-  {
-    "artistName": "Polo G",
-    "nationality": "USA",
-    "dateOfBirth": "1999-01-06",
-    "genre": "RAP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Polo%20G",
-    "songs": [
-      {
-        "title": "Rapstar",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Rapstar%20-%20Polo%20G",
-        "duration": 165,
-        "genre": "RAP",
-        "releaseDate": "2021-04-09"
-      },
-      {
-        "title": "Pop Out",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Pop%20Out%20-%20Polo%20G",
-        "duration": 166,
-        "genre": "RAP",
-        "releaseDate": "2019-02-01"
-      },
-      {
-        "title": "Martin & Gina",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Martin%20%26%20Gina%20-%20Polo%20G",
-        "duration": 132,
-        "genre": "RAP",
-        "releaseDate": "2019-06-07"
-      },
-      {
-        "title": "Flex",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Flex%20-%20Polo%20G",
-        "duration": 179,
-        "genre": "RAP",
-        "releaseDate": "2020-05-15"
-      },
-      {
-        "title": "Through Da Storm",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Through%20Da%20Storm%20-%20Polo%20G",
-        "duration": 160,
-        "genre": "RAP",
-        "releaseDate": "2018-06-08"
-      },
-      {
-        "title": "Polo G Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Polo%20G%20Track%201%20-%20Polo%20G",
-        "duration": 189,
-        "genre": "RAP",
-        "releaseDate": "2023-07-15"
-      },
-      {
-        "title": "Polo G Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Polo%20G%20Track%202%20-%20Polo%20G",
-        "duration": 248,
-        "genre": "RAP",
-        "releaseDate": "2010-07-25"
-      },
-      {
-        "title": "Polo G Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Polo%20G%20Track%203%20-%20Polo%20G",
-        "duration": 249,
-        "genre": "RAP",
-        "releaseDate": "2007-03-07"
-      },
-      {
-        "title": "Polo G Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Polo%20G%20Track%204%20-%20Polo%20G",
-        "duration": 174,
-        "genre": "RAP",
-        "releaseDate": "2017-02-03"
-      },
-      {
-        "title": "Polo G Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Polo%20G%20Track%205%20-%20Polo%20G",
-        "duration": 173,
-        "genre": "RAP",
-        "releaseDate": "2021-02-08"
-      }
-    ]
-  },
-  {
-    "artistName": "BTS",
-    "nationality": "South Korea",
-    "dateOfBirth": "2013-06-13",
-    "genre": "POP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20BTS",
-    "songs": [
-      {
-        "title": "Dynamite",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Dynamite%20-%20BTS",
-        "duration": 199,
-        "genre": "POP",
-        "releaseDate": "2020-08-21"
-      },
-      {
-        "title": "Butter",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Butter%20-%20BTS",
-        "duration": 164,
-        "genre": "POP",
-        "releaseDate": "2021-05-21"
-      },
-      {
-        "title": "Boy With Luv",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Boy%20With%20Luv%20-%20BTS",
-        "duration": 229,
-        "genre": "POP",
-        "releaseDate": "2019-04-12"
-      },
-      {
-        "title": "Fake Love",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Fake%20Love%20-%20BTS",
-        "duration": 242,
-        "genre": "POP",
-        "releaseDate": "2018-05-18"
-      },
-      {
-        "title": "Spring Day",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Spring%20Day%20-%20BTS",
-        "duration": 274,
-        "genre": "POP",
-        "releaseDate": "2017-02-13"
-      },
-      {
-        "title": "BTS Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=BTS%20Track%201%20-%20BTS",
-        "duration": 258,
-        "genre": "POP",
-        "releaseDate": "2009-09-27"
-      },
-      {
-        "title": "BTS Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=BTS%20Track%202%20-%20BTS",
-        "duration": 160,
-        "genre": "POP",
-        "releaseDate": "2014-12-14"
-      },
-      {
-        "title": "BTS Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=BTS%20Track%203%20-%20BTS",
-        "duration": 170,
-        "genre": "POP",
-        "releaseDate": "2021-01-13"
-      },
-      {
-        "title": "BTS Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=BTS%20Track%204%20-%20BTS",
-        "duration": 167,
-        "genre": "POP",
-        "releaseDate": "2017-04-06"
-      },
-      {
-        "title": "BTS Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=BTS%20Track%205%20-%20BTS",
-        "duration": 165,
-        "genre": "POP",
-        "releaseDate": "2022-01-13"
-      }
-    ]
-  },
-  {
-    "artistName": "BLACKPINK",
-    "nationality": "South Korea",
-    "dateOfBirth": "2016-08-08",
-    "genre": "POP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20BLACKPINK",
-    "songs": [
-      {
-        "title": "DDU-DU DDU-DU",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=DDU-DU%20DDU-DU%20-%20BLACKPINK",
-        "duration": 211,
-        "genre": "POP",
-        "releaseDate": "2018-06-15"
-      },
-      {
-        "title": "Pink Venom",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Pink%20Venom%20-%20BLACKPINK",
-        "duration": 187,
-        "genre": "POP",
-        "releaseDate": "2022-08-19"
-      },
-      {
-        "title": "How You Like That",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=How%20You%20Like%20That%20-%20BLACKPINK",
-        "duration": 181,
-        "genre": "POP",
-        "releaseDate": "2020-06-26"
-      },
-      {
-        "title": "Kill This Love",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Kill%20This%20Love%20-%20BLACKPINK",
-        "duration": 189,
-        "genre": "POP",
-        "releaseDate": "2019-04-05"
-      },
-      {
-        "title": "Shut Down",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Shut%20Down%20-%20BLACKPINK",
-        "duration": 175,
-        "genre": "POP",
-        "releaseDate": "2022-09-16"
-      },
-      {
-        "title": "BLACKPINK Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=BLACKPINK%20Track%201%20-%20BLACKPINK",
-        "duration": 189,
-        "genre": "POP",
-        "releaseDate": "2017-05-09"
-      },
-      {
-        "title": "BLACKPINK Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=BLACKPINK%20Track%202%20-%20BLACKPINK",
-        "duration": 239,
-        "genre": "POP",
-        "releaseDate": "2012-03-03"
-      },
-      {
-        "title": "BLACKPINK Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=BLACKPINK%20Track%203%20-%20BLACKPINK",
-        "duration": 217,
-        "genre": "POP",
-        "releaseDate": "2017-09-03"
-      },
-      {
-        "title": "BLACKPINK Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=BLACKPINK%20Track%204%20-%20BLACKPINK",
-        "duration": 167,
-        "genre": "POP",
-        "releaseDate": "2017-11-19"
-      },
-      {
-        "title": "BLACKPINK Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=BLACKPINK%20Track%205%20-%20BLACKPINK",
-        "duration": 224,
-        "genre": "POP",
-        "releaseDate": "2018-11-04"
-      }
-    ]
-  },
-  {
-    "artistName": "Jungkook",
-    "nationality": "South Korea",
-    "dateOfBirth": "1997-09-01",
-    "genre": "POP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Jungkook",
-    "songs": [
-      {
-        "title": "Seven",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Seven%20-%20Jungkook",
-        "duration": 184,
-        "genre": "POP",
-        "releaseDate": "2023-07-14"
-      },
-      {
-        "title": "Standing Next to You",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Standing%20Next%20to%20You%20-%20Jungkook",
-        "duration": 206,
-        "genre": "POP",
-        "releaseDate": "2023-11-03"
-      },
-      {
-        "title": "3D",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=3D%20-%20Jungkook",
-        "duration": 201,
-        "genre": "POP",
-        "releaseDate": "2023-09-29"
-      },
-      {
-        "title": "Euphoria",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Euphoria%20-%20Jungkook",
-        "duration": 228,
-        "genre": "POP",
-        "releaseDate": "2018-04-05"
-      },
-      {
-        "title": "Still With You",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Still%20With%20You%20-%20Jungkook",
-        "duration": 237,
-        "genre": "POP",
-        "releaseDate": "2020-06-05"
-      },
-      {
-        "title": "Jungkook Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Jungkook%20Track%201%20-%20Jungkook",
-        "duration": 239,
-        "genre": "POP",
-        "releaseDate": "2003-11-16"
-      },
-      {
-        "title": "Jungkook Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Jungkook%20Track%202%20-%20Jungkook",
-        "duration": 197,
-        "genre": "POP",
-        "releaseDate": "2020-01-21"
-      },
-      {
-        "title": "Jungkook Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Jungkook%20Track%203%20-%20Jungkook",
-        "duration": 301,
-        "genre": "POP",
-        "releaseDate": "2016-11-09"
-      },
-      {
-        "title": "Jungkook Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Jungkook%20Track%204%20-%20Jungkook",
-        "duration": 287,
-        "genre": "POP",
-        "releaseDate": "2006-10-09"
-      },
-      {
-        "title": "Jungkook Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Jungkook%20Track%205%20-%20Jungkook",
-        "duration": 320,
-        "genre": "POP",
-        "releaseDate": "2019-08-21"
-      }
-    ]
-  },
-  {
-    "artistName": "Stray Kids",
-    "nationality": "South Korea",
-    "dateOfBirth": "2017-01-01",
-    "genre": "POP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Stray%20Kids",
-    "songs": [
-      {
-        "title": "God's Menu",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=God%27s%20Menu%20-%20Stray%20Kids",
-        "duration": 167,
-        "genre": "POP",
-        "releaseDate": "2020-06-17"
-      },
-      {
-        "title": "MANIAC",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=MANIAC%20-%20Stray%20Kids",
-        "duration": 182,
-        "genre": "POP",
-        "releaseDate": "2022-03-18"
-      },
-      {
-        "title": "S-Class",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=S-Class%20-%20Stray%20Kids",
-        "duration": 195,
-        "genre": "POP",
-        "releaseDate": "2023-06-02"
-      },
-      {
-        "title": "Back Door",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Back%20Door%20-%20Stray%20Kids",
-        "duration": 189,
-        "genre": "POP",
-        "releaseDate": "2020-09-14"
-      },
-      {
-        "title": "CASE 143",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=CASE%20143%20-%20Stray%20Kids",
-        "duration": 194,
-        "genre": "POP",
-        "releaseDate": "2022-10-07"
-      },
-      {
-        "title": "Stray Kids Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Stray%20Kids%20Track%201%20-%20Stray%20Kids",
-        "duration": 312,
-        "genre": "POP",
-        "releaseDate": "2009-02-28"
-      },
-      {
-        "title": "Stray Kids Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Stray%20Kids%20Track%202%20-%20Stray%20Kids",
-        "duration": 286,
-        "genre": "POP",
-        "releaseDate": "2013-02-22"
-      },
-      {
-        "title": "Stray Kids Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Stray%20Kids%20Track%203%20-%20Stray%20Kids",
-        "duration": 225,
-        "genre": "POP",
-        "releaseDate": "2011-06-21"
-      },
-      {
-        "title": "Stray Kids Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Stray%20Kids%20Track%204%20-%20Stray%20Kids",
-        "duration": 209,
-        "genre": "POP",
-        "releaseDate": "2002-08-27"
-      },
-      {
-        "title": "Stray Kids Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Stray%20Kids%20Track%205%20-%20Stray%20Kids",
-        "duration": 292,
-        "genre": "POP",
-        "releaseDate": "2009-03-18"
-      }
-    ]
-  },
-  {
-    "artistName": "NewJeans",
-    "nationality": "South Korea",
-    "dateOfBirth": "2022-01-01",
-    "genre": "POP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20NewJeans",
-    "songs": [
-      {
-        "title": "OMG",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=OMG%20-%20NewJeans",
-        "duration": 212,
-        "genre": "POP",
-        "releaseDate": "2023-01-02"
-      },
-      {
-        "title": "Ditto",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Ditto%20-%20NewJeans",
-        "duration": 185,
-        "genre": "POP",
-        "releaseDate": "2022-12-19"
-      },
-      {
-        "title": "Super Shy",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Super%20Shy%20-%20NewJeans",
-        "duration": 154,
-        "genre": "POP",
-        "releaseDate": "2023-07-07"
-      },
-      {
-        "title": "Attention",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Attention%20-%20NewJeans",
-        "duration": 180,
-        "genre": "POP",
-        "releaseDate": "2022-07-22"
-      },
-      {
-        "title": "Hype Boy",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Hype%20Boy%20-%20NewJeans",
-        "duration": 179,
-        "genre": "POP",
-        "releaseDate": "2022-07-23"
-      },
-      {
-        "title": "NewJeans Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=NewJeans%20Track%201%20-%20NewJeans",
-        "duration": 230,
-        "genre": "POP",
-        "releaseDate": "2012-10-18"
-      },
-      {
-        "title": "NewJeans Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=NewJeans%20Track%202%20-%20NewJeans",
-        "duration": 248,
-        "genre": "POP",
-        "releaseDate": "2018-02-18"
-      },
-      {
-        "title": "NewJeans Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=NewJeans%20Track%203%20-%20NewJeans",
-        "duration": 244,
-        "genre": "POP",
-        "releaseDate": "2010-09-13"
-      },
-      {
-        "title": "NewJeans Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=NewJeans%20Track%204%20-%20NewJeans",
-        "duration": 319,
-        "genre": "POP",
-        "releaseDate": "2012-06-02"
-      },
-      {
-        "title": "NewJeans Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=NewJeans%20Track%205%20-%20NewJeans",
-        "duration": 233,
-        "genre": "POP",
-        "releaseDate": "2004-06-22"
-      }
-    ]
-  },
-  {
-    "artistName": "Calvin Harris",
-    "nationality": "UK",
-    "dateOfBirth": "1984-01-17",
-    "genre": "ELECTRONIC",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Calvin%20Harris",
-    "songs": [
-      {
-        "title": "Summer",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Summer%20-%20Calvin%20Harris",
-        "duration": 222,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2014-03-14"
-      },
-      {
-        "title": "Feel So Close",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Feel%20So%20Close%20-%20Calvin%20Harris",
-        "duration": 206,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2011-08-19"
-      },
-      {
-        "title": "One Kiss",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=One%20Kiss%20-%20Calvin%20Harris",
-        "duration": 214,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2018-04-06"
-      },
-      {
-        "title": "This Is What You Came For",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=This%20Is%20What%20You%20Came%20For%20-%20Calvin%20Harris",
-        "duration": 222,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2016-04-29"
-      },
-      {
-        "title": "How Deep Is Your Love",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=How%20Deep%20Is%20Your%20Love%20-%20Calvin%20Harris",
-        "duration": 212,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2015-07-17"
-      },
-      {
-        "title": "Calvin Harris Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Calvin%20Harris%20Track%201%20-%20Calvin%20Harris",
-        "duration": 215,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2019-04-11"
-      },
-      {
-        "title": "Calvin Harris Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Calvin%20Harris%20Track%202%20-%20Calvin%20Harris",
-        "duration": 302,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2022-03-04"
-      },
-      {
-        "title": "Calvin Harris Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Calvin%20Harris%20Track%203%20-%20Calvin%20Harris",
-        "duration": 201,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2014-12-01"
-      },
-      {
-        "title": "Calvin Harris Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Calvin%20Harris%20Track%204%20-%20Calvin%20Harris",
-        "duration": 288,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2023-09-05"
-      },
-      {
-        "title": "Calvin Harris Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Calvin%20Harris%20Track%205%20-%20Calvin%20Harris",
-        "duration": 219,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2006-07-13"
-      }
-    ]
-  },
-  {
-    "artistName": "Avicii",
-    "nationality": "Sweden",
-    "dateOfBirth": "1989-09-08",
-    "genre": "ELECTRONIC",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Avicii",
-    "songs": [
-      {
-        "title": "Wake Me Up",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Wake%20Me%20Up%20-%20Avicii",
-        "duration": 247,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2013-06-17"
-      },
-      {
-        "title": "Levels",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Levels%20-%20Avicii",
-        "duration": 199,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2011-10-28"
-      },
-      {
-        "title": "The Nights",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=The%20Nights%20-%20Avicii",
-        "duration": 176,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2014-12-01"
-      },
-      {
-        "title": "Waiting For Love",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Waiting%20For%20Love%20-%20Avicii",
-        "duration": 230,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2015-05-22"
-      },
-      {
-        "title": "Hey Brother",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Hey%20Brother%20-%20Avicii",
-        "duration": 254,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2013-11-01"
-      },
-      {
-        "title": "Avicii Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Avicii%20Track%201%20-%20Avicii",
-        "duration": 173,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2017-12-17"
-      },
-      {
-        "title": "Avicii Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Avicii%20Track%202%20-%20Avicii",
-        "duration": 275,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2009-10-17"
-      },
-      {
-        "title": "Avicii Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Avicii%20Track%203%20-%20Avicii",
-        "duration": 267,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2004-12-13"
-      },
-      {
-        "title": "Avicii Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Avicii%20Track%204%20-%20Avicii",
-        "duration": 225,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2022-05-03"
-      },
-      {
-        "title": "Avicii Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Avicii%20Track%205%20-%20Avicii",
-        "duration": 216,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2022-04-05"
-      }
-    ]
-  },
-  {
-    "artistName": "David Guetta",
-    "nationality": "France",
-    "dateOfBirth": "1967-11-07",
-    "genre": "ELECTRONIC",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20David%20Guetta",
-    "songs": [
-      {
-        "title": "Titanium",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Titanium%20-%20David%20Guetta",
-        "duration": 245,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2011-12-09"
-      },
-      {
-        "title": "I'm Good",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=I%27m%20Good%20-%20David%20Guetta",
-        "duration": 175,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2022-08-26"
-      },
-      {
-        "title": "Without You",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Without%20You%20-%20David%20Guetta",
-        "duration": 208,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2011-09-27"
-      },
-      {
-        "title": "Memories",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Memories%20-%20David%20Guetta",
-        "duration": 210,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2009-08-21"
-      },
-      {
-        "title": "Play Hard",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Play%20Hard%20-%20David%20Guetta",
-        "duration": 221,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2013-03-15"
-      },
-      {
-        "title": "David Guetta Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=David%20Guetta%20Track%201%20-%20David%20Guetta",
-        "duration": 292,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2014-11-11"
-      },
-      {
-        "title": "David Guetta Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=David%20Guetta%20Track%202%20-%20David%20Guetta",
-        "duration": 314,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2002-10-09"
-      },
-      {
-        "title": "David Guetta Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=David%20Guetta%20Track%203%20-%20David%20Guetta",
-        "duration": 250,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2020-05-04"
-      },
-      {
-        "title": "David Guetta Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=David%20Guetta%20Track%204%20-%20David%20Guetta",
-        "duration": 285,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2017-02-23"
-      },
-      {
-        "title": "David Guetta Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=David%20Guetta%20Track%205%20-%20David%20Guetta",
-        "duration": 197,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2017-09-18"
-      }
-    ]
-  },
-  {
-    "artistName": "Martin Garrix",
-    "nationality": "Netherlands",
-    "dateOfBirth": "1996-05-14",
-    "genre": "ELECTRONIC",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Martin%20Garrix",
-    "songs": [
-      {
-        "title": "Animals",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Animals%20-%20Martin%20Garrix",
-        "duration": 303,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2013-06-17"
-      },
-      {
-        "title": "Scared to Be Lonely",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Scared%20to%20Be%20Lonely%20-%20Martin%20Garrix",
-        "duration": 221,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2017-01-27"
-      },
-      {
-        "title": "In the Name of Love",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=In%20the%20Name%20of%20Love%20-%20Martin%20Garrix",
-        "duration": 195,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2016-07-29"
-      },
-      {
-        "title": "High on Life",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=High%20on%20Life%20-%20Martin%20Garrix",
-        "duration": 230,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2018-07-30"
-      },
-      {
-        "title": "Ocean",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Ocean%20-%20Martin%20Garrix",
-        "duration": 216,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2018-06-15"
-      },
-      {
-        "title": "Martin Garrix Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Martin%20Garrix%20Track%201%20-%20Martin%20Garrix",
-        "duration": 184,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2023-02-25"
-      },
-      {
-        "title": "Martin Garrix Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Martin%20Garrix%20Track%202%20-%20Martin%20Garrix",
-        "duration": 250,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2010-04-16"
-      },
-      {
-        "title": "Martin Garrix Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Martin%20Garrix%20Track%203%20-%20Martin%20Garrix",
-        "duration": 183,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2006-11-08"
-      },
-      {
-        "title": "Martin Garrix Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Martin%20Garrix%20Track%204%20-%20Martin%20Garrix",
-        "duration": 207,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2017-06-27"
-      },
-      {
-        "title": "Martin Garrix Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Martin%20Garrix%20Track%205%20-%20Martin%20Garrix",
-        "duration": 196,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2004-10-17"
-      }
-    ]
-  },
-  {
-    "artistName": "Marshmello",
-    "nationality": "USA",
-    "dateOfBirth": "1992-05-19",
-    "genre": "ELECTRONIC",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Marshmello",
-    "songs": [
-      {
-        "title": "Alone",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Alone%20-%20Marshmello",
-        "duration": 273,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2016-05-13"
-      },
-      {
-        "title": "Happier",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Happier%20-%20Marshmello",
-        "duration": 214,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2018-08-17"
-      },
-      {
-        "title": "Silence",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Silence%20-%20Marshmello",
-        "duration": 180,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2017-08-11"
-      },
-      {
-        "title": "Friends",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Friends%20-%20Marshmello",
-        "duration": 202,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2018-02-09"
-      },
-      {
-        "title": "Wolves",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Wolves%20-%20Marshmello",
-        "duration": 198,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2017-10-25"
-      },
-      {
-        "title": "Marshmello Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Marshmello%20Track%201%20-%20Marshmello",
-        "duration": 234,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2017-04-05"
-      },
-      {
-        "title": "Marshmello Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Marshmello%20Track%202%20-%20Marshmello",
-        "duration": 270,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2022-11-10"
-      },
-      {
-        "title": "Marshmello Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Marshmello%20Track%203%20-%20Marshmello",
-        "duration": 207,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2003-01-02"
-      },
-      {
-        "title": "Marshmello Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Marshmello%20Track%204%20-%20Marshmello",
-        "duration": 246,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2005-12-09"
-      },
-      {
-        "title": "Marshmello Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Marshmello%20Track%205%20-%20Marshmello",
-        "duration": 279,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2018-02-05"
-      }
-    ]
-  },
-  {
-    "artistName": "Shakira",
-    "nationality": "Colombia",
-    "dateOfBirth": "1977-02-02",
-    "genre": "POP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Shakira",
-    "songs": [
-      {
-        "title": "Hips Don't Lie",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Hips%20Don%27t%20Lie%20-%20Shakira",
-        "duration": 218,
-        "genre": "POP",
-        "releaseDate": "2006-02-28"
-      },
-      {
-        "title": "Waka Waka",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Waka%20Waka%20-%20Shakira",
-        "duration": 202,
-        "genre": "POP",
-        "releaseDate": "2010-05-07"
-      },
-      {
-        "title": "Whenever Wherever",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Whenever%20Wherever%20-%20Shakira",
-        "duration": 196,
-        "genre": "POP",
-        "releaseDate": "2001-08-27"
-      },
-      {
-        "title": "La Tortura",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=La%20Tortura%20-%20Shakira",
-        "duration": 212,
-        "genre": "POP",
-        "releaseDate": "2005-04-12"
-      },
-      {
-        "title": "She Wolf",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=She%20Wolf%20-%20Shakira",
-        "duration": 188,
-        "genre": "POP",
-        "releaseDate": "2009-07-10"
-      },
-      {
-        "title": "Shakira Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Shakira%20Track%201%20-%20Shakira",
-        "duration": 169,
-        "genre": "POP",
-        "releaseDate": "2024-07-22"
-      },
-      {
-        "title": "Shakira Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Shakira%20Track%202%20-%20Shakira",
-        "duration": 314,
-        "genre": "POP",
-        "releaseDate": "2011-11-19"
-      },
-      {
-        "title": "Shakira Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Shakira%20Track%203%20-%20Shakira",
-        "duration": 179,
-        "genre": "POP",
-        "releaseDate": "2019-03-01"
-      },
-      {
-        "title": "Shakira Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Shakira%20Track%204%20-%20Shakira",
-        "duration": 166,
-        "genre": "POP",
-        "releaseDate": "2000-08-04"
-      },
-      {
-        "title": "Shakira Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Shakira%20Track%205%20-%20Shakira",
-        "duration": 241,
-        "genre": "POP",
-        "releaseDate": "2016-10-13"
-      }
-    ]
-  },
-  {
-    "artistName": "Karol G",
-    "nationality": "Colombia",
-    "dateOfBirth": "1991-02-14",
-    "genre": "REGGAETON",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Karol%20G",
-    "songs": [
-      {
-        "title": "TQG",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=TQG%20-%20Karol%20G",
-        "duration": 197,
-        "genre": "REGGAETON",
-        "releaseDate": "2023-02-24"
-      },
-      {
-        "title": "Provenza",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Provenza%20-%20Karol%20G",
-        "duration": 210,
-        "genre": "REGGAETON",
-        "releaseDate": "2022-04-21"
-      },
-      {
-        "title": "Bichota",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Bichota%20-%20Karol%20G",
-        "duration": 178,
-        "genre": "REGGAETON",
-        "releaseDate": "2020-10-23"
-      },
-      {
-        "title": "Mi Ex Tenía Razón",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Mi%20Ex%20Ten%C3%ADa%20Raz%C3%B3n%20-%20Karol%20G",
-        "duration": 154,
-        "genre": "REGGAETON",
-        "releaseDate": "2023-08-11"
-      },
-      {
-        "title": "200 Copas",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=200%20Copas%20-%20Karol%20G",
-        "duration": 196,
-        "genre": "REGGAETON",
-        "releaseDate": "2021-07-09"
-      },
-      {
-        "title": "Karol G Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Karol%20G%20Track%201%20-%20Karol%20G",
-        "duration": 255,
-        "genre": "REGGAETON",
-        "releaseDate": "2016-07-24"
-      },
-      {
-        "title": "Karol G Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Karol%20G%20Track%202%20-%20Karol%20G",
-        "duration": 189,
-        "genre": "REGGAETON",
-        "releaseDate": "2016-09-28"
-      },
-      {
-        "title": "Karol G Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Karol%20G%20Track%203%20-%20Karol%20G",
-        "duration": 188,
-        "genre": "REGGAETON",
-        "releaseDate": "2005-09-17"
-      },
-      {
-        "title": "Karol G Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Karol%20G%20Track%204%20-%20Karol%20G",
-        "duration": 176,
-        "genre": "REGGAETON",
-        "releaseDate": "2000-10-10"
-      },
-      {
-        "title": "Karol G Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Karol%20G%20Track%205%20-%20Karol%20G",
-        "duration": 320,
-        "genre": "REGGAETON",
-        "releaseDate": "2000-08-04"
-      }
-    ]
-  },
-  {
-    "artistName": "J Balvin",
-    "nationality": "Colombia",
-    "dateOfBirth": "1985-05-07",
-    "genre": "REGGAETON",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20J%20Balvin",
-    "songs": [
-      {
-        "title": "Mi Gente",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Mi%20Gente%20-%20J%20Balvin",
-        "duration": 186,
-        "genre": "REGGAETON",
-        "releaseDate": "2017-06-30"
-      },
-      {
-        "title": "Ay Vamos",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Ay%20Vamos%20-%20J%20Balvin",
-        "duration": 227,
-        "genre": "REGGAETON",
-        "releaseDate": "2014-07-22"
-      },
-      {
-        "title": "Safari",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Safari%20-%20J%20Balvin",
-        "duration": 205,
-        "genre": "REGGAETON",
-        "releaseDate": "2016-01-15"
-      },
-      {
-        "title": "Ginza",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Ginza%20-%20J%20Balvin",
-        "duration": 170,
-        "genre": "REGGAETON",
-        "releaseDate": "2015-07-17"
-      },
-      {
-        "title": "Qué Más Pues?",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Qu%C3%A9%20M%C3%A1s%20Pues%3F%20-%20J%20Balvin",
-        "duration": 217,
-        "genre": "REGGAETON",
-        "releaseDate": "2021-05-28"
-      },
-      {
-        "title": "J Balvin Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=J%20Balvin%20Track%201%20-%20J%20Balvin",
-        "duration": 214,
-        "genre": "REGGAETON",
-        "releaseDate": "2023-04-07"
-      },
-      {
-        "title": "J Balvin Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=J%20Balvin%20Track%202%20-%20J%20Balvin",
-        "duration": 304,
-        "genre": "REGGAETON",
-        "releaseDate": "2017-11-18"
-      },
-      {
-        "title": "J Balvin Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=J%20Balvin%20Track%203%20-%20J%20Balvin",
-        "duration": 178,
-        "genre": "REGGAETON",
-        "releaseDate": "2016-03-07"
-      },
-      {
-        "title": "J Balvin Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=J%20Balvin%20Track%204%20-%20J%20Balvin",
-        "duration": 225,
-        "genre": "REGGAETON",
-        "releaseDate": "2021-05-26"
-      },
-      {
-        "title": "J Balvin Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=J%20Balvin%20Track%205%20-%20J%20Balvin",
-        "duration": 180,
-        "genre": "REGGAETON",
-        "releaseDate": "2017-04-11"
-      }
-    ]
-  },
-  {
-    "artistName": "Ozuna",
-    "nationality": "Puerto Rico",
-    "dateOfBirth": "1992-03-13",
-    "genre": "REGGAETON",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Ozuna",
-    "songs": [
-      {
-        "title": "Se Preparó",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Se%20Prepar%C3%B3%20-%20Ozuna",
-        "duration": 204,
-        "genre": "REGGAETON",
-        "releaseDate": "2017-08-25"
-      },
-      {
-        "title": "Caramelo",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Caramelo%20-%20Ozuna",
-        "duration": 210,
-        "genre": "REGGAETON",
-        "releaseDate": "2020-06-11"
-      },
-      {
-        "title": "Baila Baila Baila",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Baila%20Baila%20Baila%20-%20Ozuna",
-        "duration": 158,
-        "genre": "REGGAETON",
-        "releaseDate": "2019-01-05"
-      },
-      {
-        "title": "China",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=China%20-%20Ozuna",
-        "duration": 301,
-        "genre": "REGGAETON",
-        "releaseDate": "2019-07-19"
-      },
-      {
-        "title": "Taki Taki",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Taki%20Taki%20-%20Ozuna",
-        "duration": 212,
-        "genre": "REGGAETON",
-        "releaseDate": "2018-09-28"
-      },
-      {
-        "title": "Ozuna Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Ozuna%20Track%201%20-%20Ozuna",
-        "duration": 171,
-        "genre": "REGGAETON",
-        "releaseDate": "2002-06-26"
-      },
-      {
-        "title": "Ozuna Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Ozuna%20Track%202%20-%20Ozuna",
-        "duration": 313,
-        "genre": "REGGAETON",
-        "releaseDate": "2000-04-24"
-      },
-      {
-        "title": "Ozuna Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Ozuna%20Track%203%20-%20Ozuna",
-        "duration": 257,
-        "genre": "REGGAETON",
-        "releaseDate": "2015-06-24"
-      },
-      {
-        "title": "Ozuna Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Ozuna%20Track%204%20-%20Ozuna",
-        "duration": 207,
-        "genre": "REGGAETON",
-        "releaseDate": "2024-09-09"
-      },
-      {
-        "title": "Ozuna Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Ozuna%20Track%205%20-%20Ozuna",
-        "duration": 305,
-        "genre": "REGGAETON",
-        "releaseDate": "2009-02-24"
-      }
-    ]
-  },
-  {
-    "artistName": "Maluma",
-    "nationality": "Colombia",
-    "dateOfBirth": "1994-01-28",
-    "genre": "REGGAETON",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Maluma",
-    "songs": [
-      {
-        "title": "Hawái",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Haw%C3%A1i%20-%20Maluma",
-        "duration": 200,
-        "genre": "REGGAETON",
-        "releaseDate": "2020-07-29"
-      },
-      {
-        "title": "Felices los 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Felices%20los%204%20-%20Maluma",
-        "duration": 229,
-        "genre": "REGGAETON",
-        "releaseDate": "2017-04-21"
-      },
-      {
-        "title": "Sobrio",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Sobrio%20-%20Maluma",
-        "duration": 180,
-        "genre": "REGGAETON",
-        "releaseDate": "2021-07-08"
-      },
-      {
-        "title": "Corazón",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Coraz%C3%B3n%20-%20Maluma",
-        "duration": 179,
-        "genre": "REGGAETON",
-        "releaseDate": "2017-11-03"
-      },
-      {
-        "title": "Borró Cassette",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Borr%C3%B3%20Cassette%20-%20Maluma",
-        "duration": 236,
-        "genre": "REGGAETON",
-        "releaseDate": "2015-08-28"
-      },
-      {
-        "title": "Maluma Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Maluma%20Track%201%20-%20Maluma",
-        "duration": 250,
-        "genre": "REGGAETON",
-        "releaseDate": "2005-04-05"
-      },
-      {
-        "title": "Maluma Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Maluma%20Track%202%20-%20Maluma",
-        "duration": 236,
-        "genre": "REGGAETON",
-        "releaseDate": "2023-01-14"
-      },
-      {
-        "title": "Maluma Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Maluma%20Track%203%20-%20Maluma",
-        "duration": 170,
-        "genre": "REGGAETON",
-        "releaseDate": "2021-09-15"
-      },
-      {
-        "title": "Maluma Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Maluma%20Track%204%20-%20Maluma",
-        "duration": 174,
-        "genre": "REGGAETON",
-        "releaseDate": "2015-05-18"
-      },
-      {
-        "title": "Maluma Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Maluma%20Track%205%20-%20Maluma",
-        "duration": 247,
-        "genre": "REGGAETON",
-        "releaseDate": "2020-03-12"
-      }
-    ]
-  },
-  {
-    "artistName": "Radiohead",
-    "nationality": "UK",
-    "dateOfBirth": "1985-01-01",
-    "genre": "ROCK",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Radiohead",
-    "songs": [
-      {
-        "title": "Creep",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Creep%20-%20Radiohead",
-        "duration": 238,
-        "genre": "ROCK",
-        "releaseDate": "1992-09-21"
-      },
-      {
-        "title": "Karma Police",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Karma%20Police%20-%20Radiohead",
-        "duration": 264,
-        "genre": "ROCK",
-        "releaseDate": "1997-08-25"
-      },
-      {
-        "title": "No Surprises",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=No%20Surprises%20-%20Radiohead",
-        "duration": 229,
-        "genre": "ROCK",
-        "releaseDate": "1998-01-12"
-      },
-      {
-        "title": "Paranoid Android",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Paranoid%20Android%20-%20Radiohead",
-        "duration": 386,
-        "genre": "ROCK",
-        "releaseDate": "1997-05-26"
-      },
-      {
-        "title": "High and Dry",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=High%20and%20Dry%20-%20Radiohead",
-        "duration": 257,
-        "genre": "ROCK",
-        "releaseDate": "1995-02-27"
-      },
-      {
-        "title": "Radiohead Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Radiohead%20Track%201%20-%20Radiohead",
-        "duration": 187,
-        "genre": "ROCK",
-        "releaseDate": "2012-08-06"
-      },
-      {
-        "title": "Radiohead Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Radiohead%20Track%202%20-%20Radiohead",
-        "duration": 209,
-        "genre": "ROCK",
-        "releaseDate": "2024-05-22"
-      },
-      {
-        "title": "Radiohead Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Radiohead%20Track%203%20-%20Radiohead",
-        "duration": 280,
-        "genre": "ROCK",
-        "releaseDate": "2017-11-03"
-      },
-      {
-        "title": "Radiohead Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Radiohead%20Track%204%20-%20Radiohead",
-        "duration": 168,
-        "genre": "ROCK",
-        "releaseDate": "2014-07-23"
-      },
-      {
-        "title": "Radiohead Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Radiohead%20Track%205%20-%20Radiohead",
-        "duration": 212,
-        "genre": "ROCK",
-        "releaseDate": "2014-12-12"
-      }
-    ]
-  },
-  {
-    "artistName": "Nirvana",
-    "nationality": "USA",
-    "dateOfBirth": "1987-01-01",
-    "genre": "ROCK",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Nirvana",
-    "songs": [
-      {
-        "title": "Smells Like Teen Spirit",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Smells%20Like%20Teen%20Spirit%20-%20Nirvana",
-        "duration": 301,
-        "genre": "ROCK",
-        "releaseDate": "1991-09-10"
-      },
-      {
-        "title": "Come As You Are",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Come%20As%20You%20Are%20-%20Nirvana",
-        "duration": 219,
-        "genre": "ROCK",
-        "releaseDate": "1992-03-02"
-      },
-      {
-        "title": "Lithium",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Lithium%20-%20Nirvana",
-        "duration": 257,
-        "genre": "ROCK",
-        "releaseDate": "1992-07-13"
-      },
-      {
-        "title": "Heart-Shaped Box",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Heart-Shaped%20Box%20-%20Nirvana",
-        "duration": 281,
-        "genre": "ROCK",
-        "releaseDate": "1993-08-30"
-      },
-      {
-        "title": "In Bloom",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=In%20Bloom%20-%20Nirvana",
-        "duration": 255,
-        "genre": "ROCK",
-        "releaseDate": "1992-11-30"
-      },
-      {
-        "title": "Nirvana Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Nirvana%20Track%201%20-%20Nirvana",
-        "duration": 285,
-        "genre": "ROCK",
-        "releaseDate": "2021-04-28"
-      },
-      {
-        "title": "Nirvana Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Nirvana%20Track%202%20-%20Nirvana",
-        "duration": 282,
-        "genre": "ROCK",
-        "releaseDate": "2013-05-18"
-      },
-      {
-        "title": "Nirvana Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Nirvana%20Track%203%20-%20Nirvana",
-        "duration": 184,
-        "genre": "ROCK",
-        "releaseDate": "2007-03-05"
-      },
-      {
-        "title": "Nirvana Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Nirvana%20Track%204%20-%20Nirvana",
-        "duration": 272,
-        "genre": "ROCK",
-        "releaseDate": "2017-06-11"
-      },
-      {
-        "title": "Nirvana Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Nirvana%20Track%205%20-%20Nirvana",
-        "duration": 315,
-        "genre": "ROCK",
-        "releaseDate": "2005-10-11"
-      }
-    ]
-  },
-  {
-    "artistName": "Green Day",
-    "nationality": "USA",
-    "dateOfBirth": "1987-01-01",
-    "genre": "ROCK",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Green%20Day",
-    "songs": [
-      {
-        "title": "Basket Case",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Basket%20Case%20-%20Green%20Day",
-        "duration": 181,
-        "genre": "ROCK",
-        "releaseDate": "1994-08-01"
-      },
-      {
-        "title": "American Idiot",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=American%20Idiot%20-%20Green%20Day",
-        "duration": 174,
-        "genre": "ROCK",
-        "releaseDate": "2004-08-31"
-      },
-      {
-        "title": "Boulevard of Broken Dreams",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Boulevard%20of%20Broken%20Dreams%20-%20Green%20Day",
-        "duration": 260,
-        "genre": "ROCK",
-        "releaseDate": "2004-11-29"
-      },
-      {
-        "title": "Wake Me Up When September Ends",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Wake%20Me%20Up%20When%20September%20Ends%20-%20Green%20Day",
-        "duration": 285,
-        "genre": "ROCK",
-        "releaseDate": "2005-06-13"
-      },
-      {
-        "title": "Holiday",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Holiday%20-%20Green%20Day",
-        "duration": 232,
-        "genre": "ROCK",
-        "releaseDate": "2005-03-14"
-      },
-      {
-        "title": "Green Day Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Green%20Day%20Track%201%20-%20Green%20Day",
-        "duration": 263,
-        "genre": "ROCK",
-        "releaseDate": "2010-10-28"
-      },
-      {
-        "title": "Green Day Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Green%20Day%20Track%202%20-%20Green%20Day",
-        "duration": 188,
-        "genre": "ROCK",
-        "releaseDate": "2012-07-27"
-      },
-      {
-        "title": "Green Day Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Green%20Day%20Track%203%20-%20Green%20Day",
-        "duration": 167,
-        "genre": "ROCK",
-        "releaseDate": "2019-10-17"
-      },
-      {
-        "title": "Green Day Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Green%20Day%20Track%204%20-%20Green%20Day",
-        "duration": 172,
-        "genre": "ROCK",
-        "releaseDate": "2014-05-17"
-      },
-      {
-        "title": "Green Day Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Green%20Day%20Track%205%20-%20Green%20Day",
-        "duration": 244,
-        "genre": "ROCK",
-        "releaseDate": "2009-03-01"
-      }
-    ]
-  },
-  {
-    "artistName": "Oasis",
-    "nationality": "UK",
-    "dateOfBirth": "1991-01-01",
-    "genre": "ROCK",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Oasis",
-    "songs": [
-      {
-        "title": "Wonderwall",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Wonderwall%20-%20Oasis",
-        "duration": 258,
-        "genre": "ROCK",
-        "releaseDate": "1995-10-02"
-      },
-      {
-        "title": "Don't Look Back in Anger",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Don%27t%20Look%20Back%20in%20Anger%20-%20Oasis",
-        "duration": 288,
-        "genre": "ROCK",
-        "releaseDate": "1996-02-19"
-      },
-      {
-        "title": "Champagne Supernova",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Champagne%20Supernova%20-%20Oasis",
-        "duration": 448,
-        "genre": "ROCK",
-        "releaseDate": "1996-05-13"
-      },
-      {
-        "title": "Live Forever",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Live%20Forever%20-%20Oasis",
-        "duration": 276,
-        "genre": "ROCK",
-        "releaseDate": "1994-08-08"
-      },
-      {
-        "title": "Stop Crying Your Heart Out",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Stop%20Crying%20Your%20Heart%20Out%20-%20Oasis",
-        "duration": 329,
-        "genre": "ROCK",
-        "releaseDate": "2002-06-17"
-      },
-      {
-        "title": "Oasis Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Oasis%20Track%201%20-%20Oasis",
-        "duration": 306,
-        "genre": "ROCK",
-        "releaseDate": "2011-03-07"
-      },
-      {
-        "title": "Oasis Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Oasis%20Track%202%20-%20Oasis",
-        "duration": 309,
-        "genre": "ROCK",
-        "releaseDate": "2016-03-20"
-      },
-      {
-        "title": "Oasis Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Oasis%20Track%203%20-%20Oasis",
-        "duration": 209,
-        "genre": "ROCK",
-        "releaseDate": "2010-05-03"
-      },
-      {
-        "title": "Oasis Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Oasis%20Track%204%20-%20Oasis",
-        "duration": 211,
-        "genre": "ROCK",
-        "releaseDate": "2019-03-03"
-      },
-      {
-        "title": "Oasis Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Oasis%20Track%205%20-%20Oasis",
-        "duration": 294,
-        "genre": "ROCK",
-        "releaseDate": "2009-10-26"
-      }
-    ]
-  },
-  {
-    "artistName": "Foo Fighters",
-    "nationality": "USA",
-    "dateOfBirth": "1994-01-01",
-    "genre": "ROCK",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Foo%20Fighters",
-    "songs": [
-      {
-        "title": "Everlong",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Everlong%20-%20Foo%20Fighters",
-        "duration": 250,
-        "genre": "ROCK",
-        "releaseDate": "1997-08-18"
-      },
-      {
-        "title": "The Pretender",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=The%20Pretender%20-%20Foo%20Fighters",
-        "duration": 269,
-        "genre": "ROCK",
-        "releaseDate": "2007-08-21"
-      },
-      {
-        "title": "Best of You",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Best%20of%20You%20-%20Foo%20Fighters",
-        "duration": 257,
-        "genre": "ROCK",
-        "releaseDate": "2005-05-30"
-      },
-      {
-        "title": "Learn to Fly",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Learn%20to%20Fly%20-%20Foo%20Fighters",
-        "duration": 238,
-        "genre": "ROCK",
-        "releaseDate": "1999-10-18"
-      },
-      {
-        "title": "All My Life",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=All%20My%20Life%20-%20Foo%20Fighters",
-        "duration": 263,
-        "genre": "ROCK",
-        "releaseDate": "2002-09-02"
-      },
-      {
-        "title": "Foo Fighters Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Foo%20Fighters%20Track%201%20-%20Foo%20Fighters",
-        "duration": 310,
-        "genre": "ROCK",
-        "releaseDate": "2009-05-16"
-      },
-      {
-        "title": "Foo Fighters Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Foo%20Fighters%20Track%202%20-%20Foo%20Fighters",
-        "duration": 178,
-        "genre": "ROCK",
-        "releaseDate": "2002-06-27"
-      },
-      {
-        "title": "Foo Fighters Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Foo%20Fighters%20Track%203%20-%20Foo%20Fighters",
-        "duration": 309,
-        "genre": "ROCK",
-        "releaseDate": "2003-08-27"
-      },
-      {
-        "title": "Foo Fighters Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Foo%20Fighters%20Track%204%20-%20Foo%20Fighters",
-        "duration": 294,
-        "genre": "ROCK",
-        "releaseDate": "2001-10-10"
-      },
-      {
-        "title": "Foo Fighters Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Foo%20Fighters%20Track%205%20-%20Foo%20Fighters",
-        "duration": 210,
-        "genre": "ROCK",
-        "releaseDate": "2006-01-03"
-      }
-    ]
-  },
-  {
-    "artistName": "Daft Punk",
-    "nationality": "France",
-    "dateOfBirth": "1993-01-01",
-    "genre": "ELECTRONIC",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Daft%20Punk",
-    "songs": [
-      {
-        "title": "One More Time",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=One%20More%20Time%20-%20Daft%20Punk",
-        "duration": 337,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2016-05-08"
-      },
-      {
-        "title": "Get Lucky",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Get%20Lucky%20-%20Daft%20Punk",
-        "duration": 365,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2024-08-10"
-      },
-      {
-        "title": "Around the World",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Around%20the%20World%20-%20Daft%20Punk",
-        "duration": 354,
-        "genre": "ELECTRONIC",
-        "releaseDate": "1992-04-28"
-      },
-      {
-        "title": "Harder Better Faster Stronger",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Harder%20Better%20Faster%20Stronger%20-%20Daft%20Punk",
-        "duration": 385,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2006-08-08"
-      },
-      {
-        "title": "Instant Crush",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Instant%20Crush%20-%20Daft%20Punk",
-        "duration": 387,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2014-09-25"
-      },
-      {
-        "title": "Daft Punk Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Daft%20Punk%20Track%201%20-%20Daft%20Punk",
-        "duration": 236,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2016-07-21"
-      },
-      {
-        "title": "Daft Punk Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Daft%20Punk%20Track%202%20-%20Daft%20Punk",
-        "duration": 223,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2024-09-16"
-      },
-      {
-        "title": "Daft Punk Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Daft%20Punk%20Track%203%20-%20Daft%20Punk",
-        "duration": 298,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2010-05-02"
-      },
-      {
-        "title": "Daft Punk Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Daft%20Punk%20Track%204%20-%20Daft%20Punk",
-        "duration": 238,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2020-09-15"
-      },
-      {
-        "title": "Daft Punk Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Daft%20Punk%20Track%205%20-%20Daft%20Punk",
-        "duration": 205,
-        "genre": "ELECTRONIC",
-        "releaseDate": "2023-01-20"
-      }
-    ]
-  },
-  {
-    "artistName": "Beethoven",
-    "nationality": "Germany",
-    "dateOfBirth": "1770-12-17",
-    "genre": "CLASSICAL",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Beethoven",
-    "songs": [
-      {
-        "title": "Für Elise",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=F%C3%BCr%20Elise%20-%20Beethoven",
-        "duration": 283,
-        "genre": "CLASSICAL",
-        "releaseDate": "2013-08-26"
-      },
-      {
-        "title": "Moonlight Sonata",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Moonlight%20Sonata%20-%20Beethoven",
-        "duration": 413,
-        "genre": "CLASSICAL",
-        "releaseDate": "2012-05-16"
-      },
-      {
-        "title": "Symphony No. 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Symphony%20No.%205%20-%20Beethoven",
-        "duration": 205,
-        "genre": "CLASSICAL",
-        "releaseDate": "2024-11-07"
-      },
-      {
-        "title": "Symphony No. 9",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Symphony%20No.%209%20-%20Beethoven",
-        "duration": 259,
-        "genre": "CLASSICAL",
-        "releaseDate": "2022-02-23"
-      },
-      {
-        "title": "Ode to Joy",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Ode%20to%20Joy%20-%20Beethoven",
-        "duration": 354,
-        "genre": "CLASSICAL",
-        "releaseDate": "2019-09-15"
-      },
-      {
-        "title": "Beethoven Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Beethoven%20Track%201%20-%20Beethoven",
-        "duration": 232,
-        "genre": "CLASSICAL",
-        "releaseDate": "2023-06-25"
-      },
-      {
-        "title": "Beethoven Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Beethoven%20Track%202%20-%20Beethoven",
-        "duration": 262,
-        "genre": "CLASSICAL",
-        "releaseDate": "2015-06-20"
-      },
-      {
-        "title": "Beethoven Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Beethoven%20Track%203%20-%20Beethoven",
-        "duration": 303,
-        "genre": "CLASSICAL",
-        "releaseDate": "2018-09-22"
-      },
-      {
-        "title": "Beethoven Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Beethoven%20Track%204%20-%20Beethoven",
-        "duration": 171,
-        "genre": "CLASSICAL",
-        "releaseDate": "2023-07-17"
-      },
-      {
-        "title": "Beethoven Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Beethoven%20Track%205%20-%20Beethoven",
-        "duration": 219,
-        "genre": "CLASSICAL",
-        "releaseDate": "2007-07-23"
-      }
-    ]
-  },
-  {
-    "artistName": "Arctic Monkeys",
-    "nationality": "UK",
-    "dateOfBirth": "2002-01-01",
-    "genre": "INDIE",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Arctic%20Monkeys",
-    "songs": [
-      {
-        "title": "505",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=505%20-%20Arctic%20Monkeys",
-        "duration": 362,
-        "genre": "INDIE",
-        "releaseDate": "2021-10-17"
-      },
-      {
-        "title": "Do I Wanna Know?",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Do%20I%20Wanna%20Know%3F%20-%20Arctic%20Monkeys",
-        "duration": 295,
-        "genre": "INDIE",
-        "releaseDate": "1996-08-18"
-      },
-      {
-        "title": "R U Mine?",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=R%20U%20Mine%3F%20-%20Arctic%20Monkeys",
-        "duration": 210,
-        "genre": "INDIE",
-        "releaseDate": "1995-01-20"
-      },
-      {
-        "title": "Fluorescent Adolescent",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Fluorescent%20Adolescent%20-%20Arctic%20Monkeys",
-        "duration": 186,
-        "genre": "INDIE",
-        "releaseDate": "2003-09-04"
-      },
-      {
-        "title": "Why'd You Only Call Me When You're High?",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Why%27d%20You%20Only%20Call%20Me%20When%20You%27re%20High%3F%20-%20Arctic%20Monkeys",
-        "duration": 258,
-        "genre": "INDIE",
-        "releaseDate": "2007-08-14"
-      },
-      {
-        "title": "Arctic Monkeys Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Arctic%20Monkeys%20Track%201%20-%20Arctic%20Monkeys",
-        "duration": 267,
-        "genre": "INDIE",
-        "releaseDate": "2001-07-06"
-      },
-      {
-        "title": "Arctic Monkeys Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Arctic%20Monkeys%20Track%202%20-%20Arctic%20Monkeys",
-        "duration": 257,
-        "genre": "INDIE",
-        "releaseDate": "2009-05-18"
-      },
-      {
-        "title": "Arctic Monkeys Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Arctic%20Monkeys%20Track%203%20-%20Arctic%20Monkeys",
-        "duration": 163,
-        "genre": "INDIE",
-        "releaseDate": "2018-06-25"
-      },
-      {
-        "title": "Arctic Monkeys Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Arctic%20Monkeys%20Track%204%20-%20Arctic%20Monkeys",
-        "duration": 300,
-        "genre": "INDIE",
-        "releaseDate": "2018-08-03"
-      },
-      {
-        "title": "Arctic Monkeys Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Arctic%20Monkeys%20Track%205%20-%20Arctic%20Monkeys",
-        "duration": 173,
-        "genre": "INDIE",
-        "releaseDate": "2001-07-27"
-      }
-    ]
-  },
-  {
-    "artistName": "Ariana Grande",
-    "nationality": "USA",
-    "dateOfBirth": "1993-06-26",
-    "genre": "POP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Ariana%20Grande",
-    "songs": [
-      {
-        "title": "7 rings",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=7%20rings%20-%20Ariana%20Grande",
-        "duration": 390,
-        "genre": "POP",
-        "releaseDate": "2003-03-21"
-      },
-      {
-        "title": "thank u, next",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=thank%20u%2C%20next%20-%20Ariana%20Grande",
-        "duration": 348,
-        "genre": "POP",
-        "releaseDate": "1993-11-02"
-      },
-      {
-        "title": "positions",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=positions%20-%20Ariana%20Grande",
-        "duration": 206,
-        "genre": "POP",
-        "releaseDate": "1999-07-09"
-      },
-      {
-        "title": "Into You",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Into%20You%20-%20Ariana%20Grande",
-        "duration": 349,
-        "genre": "POP",
-        "releaseDate": "2015-08-01"
-      },
-      {
-        "title": "Side To Side",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Side%20To%20Side%20-%20Ariana%20Grande",
-        "duration": 246,
-        "genre": "POP",
-        "releaseDate": "2016-03-03"
-      },
-      {
-        "title": "Ariana Grande Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Ariana%20Grande%20Track%201%20-%20Ariana%20Grande",
-        "duration": 231,
-        "genre": "POP",
-        "releaseDate": "2000-11-03"
-      },
-      {
-        "title": "Ariana Grande Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Ariana%20Grande%20Track%202%20-%20Ariana%20Grande",
-        "duration": 183,
-        "genre": "POP",
-        "releaseDate": "2009-07-11"
-      },
-      {
-        "title": "Ariana Grande Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Ariana%20Grande%20Track%203%20-%20Ariana%20Grande",
-        "duration": 175,
-        "genre": "POP",
-        "releaseDate": "2020-03-09"
-      },
-      {
-        "title": "Ariana Grande Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Ariana%20Grande%20Track%204%20-%20Ariana%20Grande",
-        "duration": 269,
-        "genre": "POP",
-        "releaseDate": "2014-07-25"
-      },
-      {
-        "title": "Ariana Grande Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Ariana%20Grande%20Track%205%20-%20Ariana%20Grande",
-        "duration": 194,
-        "genre": "POP",
-        "releaseDate": "2006-04-19"
-      }
-    ]
-  },
-  {
-    "artistName": "SZA",
-    "nationality": "USA",
-    "dateOfBirth": "1989-11-08",
-    "genre": "RNB",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20SZA",
-    "songs": [
-      {
-        "title": "Kill Bill",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Kill%20Bill%20-%20SZA",
-        "duration": 358,
-        "genre": "RNB",
-        "releaseDate": "2008-12-22"
-      },
-      {
-        "title": "Snooze",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Snooze%20-%20SZA",
-        "duration": 354,
-        "genre": "RNB",
-        "releaseDate": "2008-01-12"
-      },
-      {
-        "title": "Good Days",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Good%20Days%20-%20SZA",
-        "duration": 313,
-        "genre": "RNB",
-        "releaseDate": "2011-08-12"
-      },
-      {
-        "title": "Saturn",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Saturn%20-%20SZA",
-        "duration": 363,
-        "genre": "RNB",
-        "releaseDate": "2006-06-10"
-      },
-      {
-        "title": "Love Galore",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Love%20Galore%20-%20SZA",
-        "duration": 328,
-        "genre": "RNB",
-        "releaseDate": "2005-12-20"
-      },
-      {
-        "title": "SZA Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=SZA%20Track%201%20-%20SZA",
-        "duration": 233,
-        "genre": "RNB",
-        "releaseDate": "2012-05-26"
-      },
-      {
-        "title": "SZA Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=SZA%20Track%202%20-%20SZA",
-        "duration": 170,
-        "genre": "RNB",
-        "releaseDate": "2024-01-05"
-      },
-      {
-        "title": "SZA Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=SZA%20Track%203%20-%20SZA",
-        "duration": 276,
-        "genre": "RNB",
-        "releaseDate": "2001-06-05"
-      },
-      {
-        "title": "SZA Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=SZA%20Track%204%20-%20SZA",
-        "duration": 282,
-        "genre": "RNB",
-        "releaseDate": "2006-04-01"
-      },
-      {
-        "title": "SZA Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=SZA%20Track%205%20-%20SZA",
-        "duration": 226,
-        "genre": "RNB",
-        "releaseDate": "2022-04-27"
-      }
-    ]
-  },
-  {
-    "artistName": "Metallica",
-    "nationality": "USA",
-    "dateOfBirth": "1981-01-01",
-    "genre": "ROCK",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Metallica",
-    "songs": [
-      {
-        "title": "Enter Sandman",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Enter%20Sandman%20-%20Metallica",
-        "duration": 342,
-        "genre": "ROCK",
-        "releaseDate": "2004-12-14"
-      },
-      {
-        "title": "One",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=One%20-%20Metallica",
-        "duration": 295,
-        "genre": "ROCK",
-        "releaseDate": "2010-11-20"
-      },
-      {
-        "title": "Nothing Else Matters",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Nothing%20Else%20Matters%20-%20Metallica",
-        "duration": 230,
-        "genre": "ROCK",
-        "releaseDate": "2002-04-11"
-      },
-      {
-        "title": "Master of Puppets",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Master%20of%20Puppets%20-%20Metallica",
-        "duration": 271,
-        "genre": "ROCK",
-        "releaseDate": "2005-08-16"
-      },
-      {
-        "title": "Fade to Black",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Fade%20to%20Black%20-%20Metallica",
-        "duration": 338,
-        "genre": "ROCK",
-        "releaseDate": "1995-04-28"
-      },
-      {
-        "title": "Metallica Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Metallica%20Track%201%20-%20Metallica",
-        "duration": 236,
-        "genre": "ROCK",
-        "releaseDate": "2017-11-23"
-      },
-      {
-        "title": "Metallica Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Metallica%20Track%202%20-%20Metallica",
-        "duration": 313,
-        "genre": "ROCK",
-        "releaseDate": "2003-08-03"
-      },
-      {
-        "title": "Metallica Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Metallica%20Track%203%20-%20Metallica",
-        "duration": 269,
-        "genre": "ROCK",
-        "releaseDate": "2008-08-20"
-      },
-      {
-        "title": "Metallica Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Metallica%20Track%204%20-%20Metallica",
-        "duration": 314,
-        "genre": "ROCK",
-        "releaseDate": "2008-07-05"
-      },
-      {
-        "title": "Metallica Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Metallica%20Track%205%20-%20Metallica",
-        "duration": 187,
-        "genre": "ROCK",
-        "releaseDate": "2011-09-23"
-      }
-    ]
-  },
-  {
-    "artistName": "Kendrick Lamar",
-    "nationality": "USA",
-    "dateOfBirth": "1987-06-17",
-    "genre": "HIP_HOP",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Kendrick%20Lamar",
-    "songs": [
-      {
-        "title": "HUMBLE.",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=HUMBLE.%20-%20Kendrick%20Lamar",
-        "duration": 209,
-        "genre": "HIP_HOP",
-        "releaseDate": "2017-04-04"
-      },
-      {
-        "title": "DNA.",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=DNA.%20-%20Kendrick%20Lamar",
-        "duration": 367,
-        "genre": "HIP_HOP",
-        "releaseDate": "2017-05-06"
-      },
-      {
-        "title": "Money Trees",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Money%20Trees%20-%20Kendrick%20Lamar",
-        "duration": 258,
-        "genre": "HIP_HOP",
-        "releaseDate": "2016-08-01"
-      },
-      {
-        "title": "Alright",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Alright%20-%20Kendrick%20Lamar",
-        "duration": 162,
-        "genre": "HIP_HOP",
-        "releaseDate": "2009-03-28"
-      },
-      {
-        "title": "N95",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=N95%20-%20Kendrick%20Lamar",
-        "duration": 169,
-        "genre": "HIP_HOP",
-        "releaseDate": "2017-05-06"
-      },
-      {
-        "title": "Kendrick Lamar Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Kendrick%20Lamar%20Track%201%20-%20Kendrick%20Lamar",
-        "duration": 236,
-        "genre": "HIP_HOP",
-        "releaseDate": "2024-09-03"
-      },
-      {
-        "title": "Kendrick Lamar Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Kendrick%20Lamar%20Track%202%20-%20Kendrick%20Lamar",
-        "duration": 199,
-        "genre": "HIP_HOP",
-        "releaseDate": "2013-06-15"
-      },
-      {
-        "title": "Kendrick Lamar Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Kendrick%20Lamar%20Track%203%20-%20Kendrick%20Lamar",
-        "duration": 309,
-        "genre": "HIP_HOP",
-        "releaseDate": "2022-04-28"
-      },
-      {
-        "title": "Kendrick Lamar Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Kendrick%20Lamar%20Track%204%20-%20Kendrick%20Lamar",
-        "duration": 220,
-        "genre": "HIP_HOP",
-        "releaseDate": "2018-06-09"
-      },
-      {
-        "title": "Kendrick Lamar Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Kendrick%20Lamar%20Track%205%20-%20Kendrick%20Lamar",
-        "duration": 181,
-        "genre": "HIP_HOP",
-        "releaseDate": "2015-06-21"
-      }
-    ]
-  },
-  {
-    "artistName": "Bad Bunny",
-    "nationality": "Puerto Rico",
-    "dateOfBirth": "1994-03-10",
-    "genre": "REGGAETON",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Bad%20Bunny",
-    "songs": [
-      {
-        "title": "Tití Me Preguntó",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Tit%C3%AD%20Me%20Pregunt%C3%B3%20-%20Bad%20Bunny",
-        "duration": 391,
-        "genre": "REGGAETON",
-        "releaseDate": "1994-05-03"
-      },
-      {
-        "title": "Dakiti",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Dakiti%20-%20Bad%20Bunny",
-        "duration": 305,
-        "genre": "REGGAETON",
-        "releaseDate": "1994-11-19"
-      },
-      {
-        "title": "Yonaguni",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Yonaguni%20-%20Bad%20Bunny",
-        "duration": 419,
-        "genre": "REGGAETON",
-        "releaseDate": "1993-04-09"
-      },
-      {
-        "title": "Moscow Mule",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Moscow%20Mule%20-%20Bad%20Bunny",
-        "duration": 366,
-        "genre": "REGGAETON",
-        "releaseDate": "2010-12-07"
-      },
-      {
-        "title": "Me Porto Bonito",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Me%20Porto%20Bonito%20-%20Bad%20Bunny",
-        "duration": 276,
-        "genre": "REGGAETON",
-        "releaseDate": "1998-07-12"
-      },
-      {
-        "title": "Bad Bunny Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Bad%20Bunny%20Track%201%20-%20Bad%20Bunny",
-        "duration": 165,
-        "genre": "REGGAETON",
-        "releaseDate": "2002-10-23"
-      },
-      {
-        "title": "Bad Bunny Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Bad%20Bunny%20Track%202%20-%20Bad%20Bunny",
-        "duration": 213,
-        "genre": "REGGAETON",
-        "releaseDate": "2006-01-07"
-      },
-      {
-        "title": "Bad Bunny Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Bad%20Bunny%20Track%203%20-%20Bad%20Bunny",
-        "duration": 273,
-        "genre": "REGGAETON",
-        "releaseDate": "2002-03-04"
-      },
-      {
-        "title": "Bad Bunny Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Bad%20Bunny%20Track%204%20-%20Bad%20Bunny",
-        "duration": 173,
-        "genre": "REGGAETON",
-        "releaseDate": "2023-02-15"
-      },
-      {
-        "title": "Bad Bunny Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Bad%20Bunny%20Track%205%20-%20Bad%20Bunny",
-        "duration": 164,
-        "genre": "REGGAETON",
-        "releaseDate": "2017-10-10"
-      }
-    ]
-  },
-  {
-    "artistName": "Miles Davis",
-    "nationality": "USA",
-    "dateOfBirth": "1926-05-26",
-    "genre": "JAZZ",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Miles%20Davis",
-    "songs": [
-      {
-        "title": "So What",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=So%20What%20-%20Miles%20Davis",
-        "duration": 303,
-        "genre": "JAZZ",
-        "releaseDate": "1998-09-18"
-      },
-      {
-        "title": "Freddie Freeloader",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Freddie%20Freeloader%20-%20Miles%20Davis",
-        "duration": 304,
-        "genre": "JAZZ",
-        "releaseDate": "2008-07-19"
-      },
-      {
-        "title": "Blue in Green",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Blue%20in%20Green%20-%20Miles%20Davis",
-        "duration": 208,
-        "genre": "JAZZ",
-        "releaseDate": "2005-02-22"
-      },
-      {
-        "title": "All Blues",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=All%20Blues%20-%20Miles%20Davis",
-        "duration": 316,
-        "genre": "JAZZ",
-        "releaseDate": "2017-11-01"
-      },
-      {
-        "title": "Flamenco Sketches",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Flamenco%20Sketches%20-%20Miles%20Davis",
-        "duration": 392,
-        "genre": "JAZZ",
-        "releaseDate": "2013-01-26"
-      },
-      {
-        "title": "Miles Davis Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Miles%20Davis%20Track%201%20-%20Miles%20Davis",
-        "duration": 182,
-        "genre": "JAZZ",
-        "releaseDate": "2022-10-20"
-      },
-      {
-        "title": "Miles Davis Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Miles%20Davis%20Track%202%20-%20Miles%20Davis",
-        "duration": 271,
-        "genre": "JAZZ",
-        "releaseDate": "2005-02-28"
-      },
-      {
-        "title": "Miles Davis Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Miles%20Davis%20Track%203%20-%20Miles%20Davis",
-        "duration": 298,
-        "genre": "JAZZ",
-        "releaseDate": "2003-04-21"
-      },
-      {
-        "title": "Miles Davis Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Miles%20Davis%20Track%204%20-%20Miles%20Davis",
-        "duration": 215,
-        "genre": "JAZZ",
-        "releaseDate": "2008-03-24"
-      },
-      {
-        "title": "Miles Davis Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Miles%20Davis%20Track%205%20-%20Miles%20Davis",
-        "duration": 224,
-        "genre": "JAZZ",
-        "releaseDate": "2002-02-19"
-      }
-    ]
-  },
-  {
-    "artistName": "Lana Del Rey",
-    "nationality": "USA",
-    "dateOfBirth": "1985-06-21",
-    "genre": "INDIE",
-    "avatar": "https://dummyimage.com/600x600/1e1e1e/ffffff.png&text=Artist%3A%20Lana%20Del%20Rey",
-    "songs": [
-      {
-        "title": "Summertime Sadness",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Summertime%20Sadness%20-%20Lana%20Del%20Rey",
-        "duration": 160,
-        "genre": "INDIE",
-        "releaseDate": "1990-11-16"
-      },
-      {
-        "title": "Video Games",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Video%20Games%20-%20Lana%20Del%20Rey",
-        "duration": 165,
-        "genre": "INDIE",
-        "releaseDate": "2019-12-13"
-      },
-      {
-        "title": "Born to Die",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Born%20to%20Die%20-%20Lana%20Del%20Rey",
-        "duration": 170,
-        "genre": "INDIE",
-        "releaseDate": "2001-03-03"
-      },
-      {
-        "title": "West Coast",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=West%20Coast%20-%20Lana%20Del%20Rey",
-        "duration": 185,
-        "genre": "INDIE",
-        "releaseDate": "2005-04-28"
-      },
-      {
-        "title": "Young and Beautiful",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Young%20and%20Beautiful%20-%20Lana%20Del%20Rey",
-        "duration": 197,
-        "genre": "INDIE",
-        "releaseDate": "1996-11-27"
-      },
-      {
-        "title": "Lana Del Rey Track 1",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Lana%20Del%20Rey%20Track%201%20-%20Lana%20Del%20Rey",
-        "duration": 221,
-        "genre": "INDIE",
-        "releaseDate": "2016-03-23"
-      },
-      {
-        "title": "Lana Del Rey Track 2",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Lana%20Del%20Rey%20Track%202%20-%20Lana%20Del%20Rey",
-        "duration": 187,
-        "genre": "INDIE",
-        "releaseDate": "2004-12-19"
-      },
-      {
-        "title": "Lana Del Rey Track 3",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Lana%20Del%20Rey%20Track%203%20-%20Lana%20Del%20Rey",
-        "duration": 304,
-        "genre": "INDIE",
-        "releaseDate": "2022-11-11"
-      },
-      {
-        "title": "Lana Del Rey Track 4",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Lana%20Del%20Rey%20Track%204%20-%20Lana%20Del%20Rey",
-        "duration": 281,
-        "genre": "INDIE",
-        "releaseDate": "2014-04-20"
-      },
-      {
-        "title": "Lana Del Rey Track 5",
-        "cover": "https://dummyimage.com/600x600/333333/ffffff.png&text=Lana%20Del%20Rey%20Track%205%20-%20Lana%20Del%20Rey",
-        "duration": 320,
-        "genre": "INDIE",
-        "releaseDate": "2019-01-01"
       }
     ]
   }
