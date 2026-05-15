@@ -52,7 +52,7 @@ public class FavoriteService {
         return favoriteRepository.findById(id).orElseThrow(() -> new NotFoundException(id));
     }
 
-    public void findByIdAndDelete(UUID songId, User user) {
+    public void findByIdAndDelete(User user, UUID songId) {
         favoriteRepository.deleteByUserIdAndSongId(user.getId(), songId);
     }
 }

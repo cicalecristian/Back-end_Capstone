@@ -37,7 +37,7 @@ public class FavoriteController {
 
     @DeleteMapping("/{songId}")
     @ResponseStatus(HttpStatus.NO_CONTENT)
-    public void removeFavorite(@PathVariable UUID songId, @AuthenticationPrincipal User currentUser) {
-        favoriteService.findByIdAndDelete(songId, currentUser);
+    public void removeFavorite(@AuthenticationPrincipal User currentUser, @PathVariable UUID songId) {
+        favoriteService.findByIdAndDelete(currentUser, songId);
     }
 }
