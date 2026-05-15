@@ -22,6 +22,7 @@ public class EventController {
     }
 
     @PostMapping
+    @PreAuthorize("hasRole('ADMIN')")
     @ResponseStatus(HttpStatus.CREATED)
     public Event save(@RequestBody @Validated EventDTO body) {
         return eventService.save(body);

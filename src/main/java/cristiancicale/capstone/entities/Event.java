@@ -1,5 +1,6 @@
 package cristiancicale.capstone.entities;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
 import lombok.AccessLevel;
 import lombok.Getter;
@@ -40,9 +41,11 @@ public class Event {
 
     @ManyToOne
     @JoinColumn(name = "artist_id", nullable = false)
+    @JsonIgnore
     private Artist artist;
 
     @OneToMany(mappedBy = "event")
+    @JsonIgnore
     private Set<Reservation> reservations = new HashSet<>();
 
     public Event(String title, String city, String country, LocalDate date, int seat, Artist artist) {

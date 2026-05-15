@@ -23,9 +23,10 @@ public record EventDTO(
         @Future(message = "La data deve essere futura")
         LocalDate date,
 
-        @NotBlank(message = "I posti sono obbligatori")
+        @NotNull(message = "I posti sono obbligatori")
         @Min(value = 100, message = "I posti devono essere almeno 100")
-        int seat,
+        @Max(value = 200000, message = "I posti non possono superare 200000")
+        Integer seat,
 
         @NotNull(message = "Artist id obbligatorio")
         UUID artistId

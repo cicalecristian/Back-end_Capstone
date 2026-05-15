@@ -15,6 +15,8 @@ import org.springframework.data.domain.Pageable;
 import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Service;
 
+import java.time.LocalDate;
+import java.time.Period;
 import java.util.List;
 import java.util.UUID;
 
@@ -40,6 +42,12 @@ public class ReservationService {
 
         if (body.tickets() > event.getSeat()) {
             throw new BadRequestException("Posti insufficienti");
+        }
+
+        int age = Period.between(user.getDateOfBirth(), LocalDate.now()).getYears();
+
+        if (age < 16) {
+            throw new BadRequestException("Devi avere almeno 16 anni");
         }
 
         event.setSeat(event.getSeat() - body.tickets());

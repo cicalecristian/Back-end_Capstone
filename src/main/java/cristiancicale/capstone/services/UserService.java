@@ -19,8 +19,6 @@ import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.io.IOException;
-import java.time.LocalDate;
-import java.time.Period;
 import java.util.Map;
 import java.util.UUID;
 
@@ -48,12 +46,6 @@ public class UserService {
 
         if (userRepository.existsByUsername(body.username())) {
             throw new BadRequestException("Username già utilizzato");
-        }
-
-        int age = Period.between(body.dateOfBirth(), LocalDate.now()).getYears();
-
-        if (age < 16) {
-            throw new BadRequestException("Devi avere almeno 16 anni");
         }
 
         User user = new User(body.username().toLowerCase().trim(), body.email().toLowerCase().trim(), bcrypt.encode(body.password()), body.name(), body.surname(), body.dateOfBirth());

@@ -1,5 +1,6 @@
 package cristiancicale.capstone.entities;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import jakarta.persistence.*;
 import lombok.AccessLevel;
 import lombok.Getter;
@@ -30,6 +31,7 @@ public class Reservation {
 
     @ManyToOne
     @JoinColumn(name = "user_id", nullable = false)
+    @JsonIgnoreProperties({"username", "dateOfBirth", "role", "avatar"})
     private User user;
 
     @ManyToOne
