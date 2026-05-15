@@ -5,6 +5,7 @@ import cristiancicale.capstone.entities.Song;
 import cristiancicale.capstone.entities.User;
 import cristiancicale.capstone.exceptions.BadRequestException;
 import cristiancicale.capstone.exceptions.NotFoundException;
+import cristiancicale.capstone.exceptions.UnauthorizedException;
 import cristiancicale.capstone.payloads.FavoriteDTO;
 import cristiancicale.capstone.repositories.FavoriteRepository;
 import lombok.extern.slf4j.Slf4j;
@@ -52,7 +53,12 @@ public class FavoriteService {
         return favoriteRepository.findById(id).orElseThrow(() -> new NotFoundException(id));
     }
 
-    public void findByIdAndDelete(User user, UUID songId) {
-        favoriteRepository.deleteByUserIdAndSongId(user.getId(), songId);
+    public void findByIdAndDelete(UUID favoriteId, User currentUser) {
+        Favorite found = findById(favoriteId);
+        boolean isOwner = found.getUser().getId().equals(currentUser.getId());
+        if (!isOwner) {
+            throw new UnauthorizedException("Non puoi eliminare questo favorite");
+        }
+        favoriteRepository.delete(found);
     }
 }
