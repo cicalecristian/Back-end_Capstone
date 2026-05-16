@@ -3,6 +3,7 @@ package cristiancicale.capstone.controllers;
 import cristiancicale.capstone.entities.Review;
 import cristiancicale.capstone.entities.User;
 import cristiancicale.capstone.payloads.ReviewDTO;
+import cristiancicale.capstone.payloads.ReviewUpdateDTO;
 import cristiancicale.capstone.services.ReviewService;
 import org.springframework.data.domain.Page;
 import org.springframework.http.HttpStatus;
@@ -41,8 +42,8 @@ public class ReviewController {
         return reviewService.findBySong(songId);
     }
 
-    @PutMapping("/{songId}")
-    public Review getByIdAndUpdate(@PathVariable UUID songId, @RequestBody @Validated ReviewDTO body, @AuthenticationPrincipal User currentUser) {
+    @PatchMapping("/{songId}")
+    public Review getByIdAndUpdate(@PathVariable UUID songId, @RequestBody @Validated ReviewUpdateDTO body, @AuthenticationPrincipal User currentUser) {
         return reviewService.findByIdAndUpdate(songId, body, currentUser);
     }
 

@@ -7,6 +7,7 @@ import cristiancicale.capstone.exceptions.AccessDeniedException;
 import cristiancicale.capstone.exceptions.BadRequestException;
 import cristiancicale.capstone.exceptions.NotFoundException;
 import cristiancicale.capstone.payloads.ReviewDTO;
+import cristiancicale.capstone.payloads.ReviewUpdateDTO;
 import cristiancicale.capstone.repositories.ReviewRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.data.domain.Page;
@@ -60,7 +61,7 @@ public class ReviewService {
         return reviewRepository.findBySongId(songId);
     }
 
-    public Review findByIdAndUpdate(UUID songId, ReviewDTO body, User user) {
+    public Review findByIdAndUpdate(UUID songId, ReviewUpdateDTO body, User user) {
 
         Review found = reviewRepository.findByUserIdAndSongId(user.getId(), songId)
                 .orElseThrow(() -> new NotFoundException("Recensione non trovata"));

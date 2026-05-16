@@ -1,5 +1,6 @@
 package cristiancicale.capstone.entities;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
 import lombok.AccessLevel;
 import lombok.Getter;
@@ -29,10 +30,12 @@ public class Review {
 
     @ManyToOne
     @JoinColumn(name = "user_id", nullable = false)
+    @JsonIgnore
     private User user;
 
     @ManyToOne
     @JoinColumn(name = "song_id", nullable = false)
+    @JsonIgnore
     private Song song;
 
     public Review(int rating, User user, Song song) {
