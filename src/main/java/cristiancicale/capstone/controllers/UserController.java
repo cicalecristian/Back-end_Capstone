@@ -43,15 +43,19 @@ public class UserController {
 
     @GetMapping
     @PreAuthorize("hasRole('ADMIN')")
-    public Page<User> getUsers(@RequestParam(defaultValue = "0") int page,
-                               @RequestParam(defaultValue = "10") int size,
-                               @RequestParam(defaultValue = "email") String sortBy) {
-        return this.userService.findAll(page, size, sortBy);
+    public Page<UserRespDTO> getUsers(@RequestParam(defaultValue = "0") int page,
+                                      @RequestParam(defaultValue = "10") int size,
+                                      @RequestParam(defaultValue = "email") String sortBy) {
+        Page<User> users = userService.findAll(page, size, sortBy);
+        return users.map(user -> new UserRespDTO(user.getId(), user.getUsername(), user.getEmail(), user.getName(),
+                user.getSurname(), user.getDateOfBirth(), user.getRole(), user.getAvatar()));
     }
 
     @GetMapping("/me")
-    public User getOwnProfile(@AuthenticationPrincipal User currentAuthenticatedUser) {
-        return currentAuthenticatedUser;
+    public UserRespDTO getOwnProfile(@AuthenticationPrincipal User currentAuthenticatedUser) {
+        return new UserRespDTO(currentAuthenticatedUser.getId(), currentAuthenticatedUser.getUsername(), currentAuthenticatedUser.getEmail(),
+                currentAuthenticatedUser.getName(), currentAuthenticatedUser.getSurname(), currentAuthenticatedUser.getDateOfBirth(),
+                currentAuthenticatedUser.getRole(), currentAuthenticatedUser.getAvatar());
     }
 
     @PutMapping("/me")
@@ -71,8 +75,10 @@ public class UserController {
 
     @GetMapping("/{userId}")
     @PreAuthorize("hasRole('ADMIN')")
-    public User getById(@PathVariable UUID userId) {
-        return this.userService.findById(userId);
+    public UserRespDTO getById(@PathVariable UUID userId) {
+        User found = userService.findById(userId);
+        return new UserRespDTO(found.getId(), found.getUsername(), found.getEmail(), found.getName(), found.getSurname(),
+                found.getDateOfBirth(), found.getRole(), found.getAvatar());
     }
 
     @PutMapping("/{userId}")
