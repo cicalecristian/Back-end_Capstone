@@ -2,6 +2,7 @@ package cristiancicale.capstone.controllers;
 
 import cristiancicale.capstone.entities.Artist;
 import cristiancicale.capstone.payloads.ArtistDTO;
+import cristiancicale.capstone.payloads.ArtistRespDTO;
 import cristiancicale.capstone.services.ArtistService;
 import org.springframework.data.domain.Page;
 import org.springframework.http.HttpStatus;
@@ -23,8 +24,11 @@ public class ArtistController {
 
     @PostMapping
     @ResponseStatus(HttpStatus.CREATED)
-    public Artist save(@RequestBody @Validated ArtistDTO body) {
-        return artistService.save(body);
+    public ArtistRespDTO save(@RequestBody @Validated ArtistDTO body) {
+
+        Artist newArtist = this.artistService.save(body);
+        return new ArtistRespDTO(newArtist.getId(), newArtist.getArtistName(), newArtist.getNationality(),
+                newArtist.getDateOfBirth(), newArtist.getGenre(), newArtist.getAvatar());
     }
 
     @GetMapping
@@ -41,8 +45,12 @@ public class ArtistController {
 
     @PutMapping("/{id}")
     @PreAuthorize("hasRole('ADMIN')")
-    public Artist getByIdAndUpdate(@PathVariable UUID id, @RequestBody @Validated ArtistDTO body) {
-        return artistService.findByIdAndUpdate(id, body);
+    public ArtistRespDTO getByIdAndUpdate(@PathVariable UUID id, @RequestBody @Validated ArtistDTO body) {
+
+        Artist updateArtist = artistService.findByIdAndUpdate(id, body);
+
+        return new ArtistRespDTO(updateArtist.getId(), updateArtist.getArtistName(), updateArtist.getNationality(),
+                updateArtist.getDateOfBirth(), updateArtist.getGenre(), updateArtist.getAvatar());
     }
 
     @DeleteMapping("/{id}")

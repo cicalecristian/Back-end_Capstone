@@ -1,5 +1,6 @@
 package cristiancicale.capstone.entities;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import cristiancicale.capstone.enums.Genre;
 import jakarta.persistence.*;
 import lombok.AccessLevel;
@@ -41,9 +42,11 @@ public class Artist {
     private String avatar;
 
     @OneToMany(mappedBy = "artist")
+    @JsonIgnore
     private Set<SongArtist> songArtists = new HashSet<>();
 
     @OneToMany(mappedBy = "artist")
+    @JsonIgnore
     private Set<Event> events = new HashSet<>();
 
     public Artist(String artistName, String nationality, LocalDate dateOfBirth, Genre genre, String avatar) {

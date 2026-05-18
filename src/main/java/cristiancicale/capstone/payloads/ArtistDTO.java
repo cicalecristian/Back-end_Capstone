@@ -2,6 +2,7 @@ package cristiancicale.capstone.payloads;
 
 import cristiancicale.capstone.enums.Genre;
 import jakarta.validation.constraints.NotBlank;
+import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Past;
 import jakarta.validation.constraints.Size;
 
@@ -22,7 +23,7 @@ public record ArtistDTO(
         @Past(message = "Data di nascita non valida")
         LocalDate dateOfBirth,
 
-        @NotBlank(message = "Genere obbligatorio")
+        @NotNull(message = "Genere obbligatorio")
         Genre genre,
 
         String avatar

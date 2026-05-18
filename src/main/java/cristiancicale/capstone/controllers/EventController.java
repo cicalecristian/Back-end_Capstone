@@ -2,6 +2,7 @@ package cristiancicale.capstone.controllers;
 
 import cristiancicale.capstone.entities.Event;
 import cristiancicale.capstone.payloads.EventDTO;
+import cristiancicale.capstone.payloads.EventRespDTO;
 import cristiancicale.capstone.services.EventService;
 import org.springframework.data.domain.Page;
 import org.springframework.http.HttpStatus;
@@ -24,8 +25,10 @@ public class EventController {
     @PostMapping
     @PreAuthorize("hasRole('ADMIN')")
     @ResponseStatus(HttpStatus.CREATED)
-    public Event save(@RequestBody @Validated EventDTO body) {
-        return eventService.save(body);
+    public EventRespDTO save(@RequestBody @Validated EventDTO body) {
+        Event newEvent = this.eventService.save(body);
+        return new EventRespDTO(newEvent.getId(), newEvent.getTitle(), newEvent.getCity(), newEvent.getCountry(),
+                newEvent.getDate(), newEvent.getSeat(), newEvent.getArtist().getId());
     }
 
     @GetMapping
@@ -42,8 +45,12 @@ public class EventController {
 
     @PutMapping("/{id}")
     @PreAuthorize("hasRole('ADMIN')")
-    public Event getByIdAndUpdate(@PathVariable UUID id, @RequestBody @Validated EventDTO body) {
-        return eventService.findByIdAndUpdate(id, body);
+    public EventRespDTO getByIdAndUpdate(@PathVariable UUID id, @RequestBody @Validated EventDTO body) {
+
+        Event updatedEvent = eventService.findByIdAndUpdate(id, body);
+
+        return new EventRespDTO(updatedEvent.getId(), updatedEvent.getTitle(), updatedEvent.getCity(),
+                updatedEvent.getCountry(), updatedEvent.getDate(), updatedEvent.getSeat(), updatedEvent.getArtist().getId());
     }
 
     @DeleteMapping("/{id}")

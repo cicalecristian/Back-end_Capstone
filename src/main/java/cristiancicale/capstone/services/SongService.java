@@ -3,9 +3,11 @@ package cristiancicale.capstone.services;
 import cristiancicale.capstone.entities.Artist;
 import cristiancicale.capstone.entities.Song;
 import cristiancicale.capstone.entities.SongArtist;
+import cristiancicale.capstone.exceptions.BadRequestException;
 import cristiancicale.capstone.exceptions.NotFoundException;
 import cristiancicale.capstone.payloads.SongArtistDTO;
 import cristiancicale.capstone.payloads.SongDTO;
+import cristiancicale.capstone.repositories.SongArtistRepository;
 import cristiancicale.capstone.repositories.SongRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.data.domain.Page;
@@ -24,10 +26,12 @@ public class SongService {
 
     private final SongRepository songRepository;
     private final ArtistService artistService;
+    private final SongArtistRepository songArtistRepository;
 
-    public SongService(SongRepository songRepository, ArtistService artistService) {
+    public SongService(SongRepository songRepository, ArtistService artistService, SongArtistRepository songArtistRepository) {
         this.songRepository = songRepository;
         this.artistService = artistService;
+        this.songArtistRepository = songArtistRepository;
     }
 
     public Song save(SongDTO body) {
@@ -83,5 +87,22 @@ public class SongService {
     public void findByIdAndDelete(UUID id) {
         Song found = findById(id);
         songRepository.delete(found);
+    }
+
+    public Song addArtistToSong(UUID songId, SongArtistDTO body) {
+
+        Song song = findById(songId);
+        Artist artist = artistService.findById(body.artistId());
+
+        boolean alreadyExists = songArtistRepository.existsBySongIdAndArtistIdAndRole(songId, artist.getId(), body.role());
+
+        if (alreadyExists) {
+            throw new BadRequestException("Relazione già esistente");
+        }
+
+        SongArtist songArtist = new SongArtist(body.role(), song, artist);
+        songArtistRepository.save(songArtist);
+
+        return song;
     }
 }

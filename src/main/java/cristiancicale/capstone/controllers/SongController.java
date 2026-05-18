@@ -1,6 +1,7 @@
 package cristiancicale.capstone.controllers;
 
 import cristiancicale.capstone.entities.Song;
+import cristiancicale.capstone.payloads.SongArtistDTO;
 import cristiancicale.capstone.payloads.SongDTO;
 import cristiancicale.capstone.services.SongService;
 import org.springframework.data.domain.Page;
@@ -51,5 +52,11 @@ public class SongController {
     @ResponseStatus(HttpStatus.NO_CONTENT)
     public void getByIdAndDelete(@PathVariable UUID id) {
         songService.findByIdAndDelete(id);
+    }
+
+    @PostMapping("/{songId}/artists")
+    @PreAuthorize("hasRole('ADMIN')")
+    public Song addArtistToSong(@PathVariable UUID songId, @RequestBody @Validated SongArtistDTO body) {
+        return songService.addArtistToSong(songId, body);
     }
 }

@@ -28,7 +28,7 @@ public class ArtistService {
 
         Artist artist = new Artist(body.artistName(), body.nationality(), body.dateOfBirth(), body.genre(), body.avatar());
 
-        return artistRepository.save(artist);
+        return this.artistRepository.save(artist);
     }
 
     public Page<Artist> findAll(int page, int size, String sortBy) {
