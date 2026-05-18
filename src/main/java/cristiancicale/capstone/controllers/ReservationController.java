@@ -3,6 +3,7 @@ package cristiancicale.capstone.controllers;
 import cristiancicale.capstone.entities.Reservation;
 import cristiancicale.capstone.entities.User;
 import cristiancicale.capstone.payloads.ReservationDTO;
+import cristiancicale.capstone.payloads.ReservationRespDTO;
 import cristiancicale.capstone.services.ReservationService;
 import org.springframework.data.domain.Page;
 import org.springframework.http.HttpStatus;
@@ -26,8 +27,10 @@ public class ReservationController {
 
     @PostMapping
     @ResponseStatus(HttpStatus.CREATED)
-    public Reservation save(@RequestBody @Validated ReservationDTO body, @AuthenticationPrincipal User currentUser) {
-        return reservationService.save(body, currentUser);
+    public ReservationRespDTO save(@RequestBody @Validated ReservationDTO body, @AuthenticationPrincipal User currentUser) {
+        Reservation newReservation = this.reservationService.save(body, currentUser);
+        return new ReservationRespDTO(newReservation.getId(), newReservation.getTickets(),
+                newReservation.getUser().getId(), newReservation.getEvent().getId(), newReservation.getCreatedAt());
     }
 
     @GetMapping

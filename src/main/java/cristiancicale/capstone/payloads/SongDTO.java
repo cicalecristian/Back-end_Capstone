@@ -4,6 +4,7 @@ import cristiancicale.capstone.enums.Genre;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotEmpty;
+import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Positive;
 
 import java.time.LocalDate;
@@ -17,11 +18,10 @@ public record SongDTO(
         @NotBlank(message = "Cover obbligatoria")
         String cover,
 
-        @NotBlank(message = "La durata è obbligatoria")
         @Positive(message = "La durata deve essere positiva")
         int duration,
 
-        @NotBlank(message = "Il genere è obbligatorio")
+        @NotNull(message = "Il genere è obbligatorio")
         Genre genre,
 
         LocalDate releaseDate,

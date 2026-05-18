@@ -7,8 +7,6 @@ import java.util.UUID;
 public record SongArtistRespDTO(
         UUID id,
 
-        UUID songId,
-
         UUID artistId,
 
         RoleArtist role

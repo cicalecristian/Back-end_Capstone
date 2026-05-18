@@ -55,8 +55,12 @@ public class UserController {
     }
 
     @PutMapping("/me")
-    public User updateOwnProfile(@AuthenticationPrincipal User currentAuthenticatedUser, @RequestBody UserDTO body) {
-        return this.userService.findByIdAndUpdate(currentAuthenticatedUser.getId(), body);
+    public UserRespDTO updateOwnProfile(@AuthenticationPrincipal User currentAuthenticatedUser, @RequestBody @Validated UserDTO body) {
+
+        User updatedUser = userService.findByIdAndUpdate(currentAuthenticatedUser.getId(), body);
+
+        return new UserRespDTO(updatedUser.getId(), updatedUser.getUsername(), updatedUser.getEmail(),
+                updatedUser.getName(), updatedUser.getSurname(), updatedUser.getDateOfBirth(), updatedUser.getRole(), updatedUser.getAvatar());
     }
 
     @DeleteMapping("/me")
@@ -73,8 +77,12 @@ public class UserController {
 
     @PutMapping("/{userId}")
     @PreAuthorize("hasRole('ADMIN')")
-    public User getByIdAndUpdate(@PathVariable UUID userId, @RequestBody UserDTO body) {
-        return this.userService.findByIdAndUpdate(userId, body);
+    public UserRespDTO getByIdAndUpdate(@PathVariable UUID userId, @RequestBody @Validated UserDTO body) {
+
+        User updatedUser = userService.findByIdAndUpdate(userId, body);
+
+        return new UserRespDTO(updatedUser.getId(), updatedUser.getUsername(), updatedUser.getEmail(), updatedUser.getName(),
+                updatedUser.getSurname(), updatedUser.getDateOfBirth(), updatedUser.getRole(), updatedUser.getAvatar());
     }
 
     @DeleteMapping("/{userId}")
@@ -86,12 +94,20 @@ public class UserController {
 
     @PatchMapping("/{id}/role")
     @PreAuthorize("hasRole('ADMIN')")
-    public User changeRole(@PathVariable UUID id, @RequestParam RoleUser roleUser) {
-        return userService.changeRole(id, roleUser);
+    public UserRespDTO changeRole(@PathVariable UUID id, @RequestParam RoleUser roleUser) {
+
+        User updatedUser = userService.changeRole(id, roleUser);
+
+        return new UserRespDTO(updatedUser.getId(), updatedUser.getUsername(), updatedUser.getEmail(),
+                updatedUser.getName(), updatedUser.getSurname(), updatedUser.getDateOfBirth(), updatedUser.getRole(), updatedUser.getAvatar());
     }
 
     @PatchMapping("/avatar")
-    public User uploadAvatar(@RequestParam("avatar") MultipartFile file, @AuthenticationPrincipal User currentUser) {
-        return userService.avatarUpload(file, currentUser.getId());
+    public UserRespDTO uploadAvatar(@RequestParam("avatar") MultipartFile file, @AuthenticationPrincipal User currentUser) {
+
+        User updatedUser = userService.avatarUpload(file, currentUser.getId());
+
+        return new UserRespDTO(updatedUser.getId(), updatedUser.getUsername(), updatedUser.getEmail(),
+                updatedUser.getName(), updatedUser.getSurname(), updatedUser.getDateOfBirth(), updatedUser.getRole(), updatedUser.getAvatar());
     }
 }

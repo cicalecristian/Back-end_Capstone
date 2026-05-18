@@ -3,6 +3,7 @@ package cristiancicale.capstone.controllers;
 import cristiancicale.capstone.entities.Review;
 import cristiancicale.capstone.entities.User;
 import cristiancicale.capstone.payloads.ReviewDTO;
+import cristiancicale.capstone.payloads.ReviewRespDTO;
 import cristiancicale.capstone.payloads.ReviewUpdateDTO;
 import cristiancicale.capstone.services.ReviewService;
 import org.springframework.data.domain.Page;
@@ -26,8 +27,10 @@ public class ReviewController {
 
     @PostMapping
     @ResponseStatus(HttpStatus.CREATED)
-    public Review save(@RequestBody @Validated ReviewDTO body, @AuthenticationPrincipal User currentUser) {
-        return reviewService.save(body, currentUser);
+    public ReviewRespDTO save(@RequestBody @Validated ReviewDTO body, @AuthenticationPrincipal User currentUser) {
+
+        Review newReview = this.reviewService.save(body, currentUser);
+        return new ReviewRespDTO(newReview.getId(), newReview.getRating());
     }
 
     @GetMapping
@@ -43,8 +46,10 @@ public class ReviewController {
     }
 
     @PatchMapping("/{songId}")
-    public Review getByIdAndUpdate(@PathVariable UUID songId, @RequestBody @Validated ReviewUpdateDTO body, @AuthenticationPrincipal User currentUser) {
-        return reviewService.findByIdAndUpdate(songId, body, currentUser);
+    public ReviewRespDTO getByIdAndUpdate(@PathVariable UUID songId, @RequestBody @Validated ReviewUpdateDTO body, @AuthenticationPrincipal User currentUser) {
+
+        Review updateReview = reviewService.findByIdAndUpdate(songId, body, currentUser);
+        return new ReviewRespDTO(updateReview.getId(), updateReview.getRating());
     }
 
     @GetMapping("/average/{songId}")

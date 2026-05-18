@@ -17,6 +17,7 @@ import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Service;
 
 import java.util.HashSet;
+import java.util.List;
 import java.util.Set;
 import java.util.UUID;
 
@@ -37,8 +38,17 @@ public class SongService {
     public Song save(SongDTO body) {
 
         Song song = new Song(body.title(), body.cover(), body.duration(), body.genre(), body.releaseDate());
+        Song savedSong = songRepository.save(song);
 
-        return songRepository.save(song);
+        for (SongArtistDTO artistDTO : body.artists()) {
+
+            Artist artist = artistService.findById(artistDTO.artistId());
+            SongArtist songArtist = new SongArtist(artistDTO.role(), savedSong, artist);
+
+            songArtistRepository.save(songArtist);
+        }
+
+        return savedSong;
     }
 
     public Page<Song> findAll(int page, int size, String sortBy) {
@@ -62,6 +72,8 @@ public class SongService {
         found.setGenre(body.genre());
         found.setReleaseDate(body.releaseDate());
 
+        songArtistRepository.deleteAll(found.getSongArtists());
+
         found.getSongArtists().clear();
 
         Set<SongArtist> artists = new HashSet<>();
@@ -70,13 +82,11 @@ public class SongService {
 
             Artist artist = artistService.findById(artistDTO.artistId());
 
-            SongArtist songArtist = new SongArtist(
-                    artistDTO.role(),
-                    found,
-                    artist
-            );
+            SongArtist songArtist = new SongArtist(artistDTO.role(), found, artist);
 
-            artists.add(songArtist);
+            SongArtist savedSongArtist = songArtistRepository.save(songArtist);
+
+            artists.add(savedSongArtist);
         }
 
         found.setSongArtists(artists);
@@ -104,5 +114,15 @@ public class SongService {
         songArtistRepository.save(songArtist);
 
         return song;
+    }
+
+    public List<Song> findSongsByArtist(UUID artistId) {
+
+        artistService.findById(artistId);
+        List<SongArtist> songArtists = songArtistRepository.findByArtistId(artistId);
+
+        return songArtists.stream()
+                .map(SongArtist::getSong)
+                .toList();
     }
 }

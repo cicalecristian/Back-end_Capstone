@@ -3,6 +3,7 @@ package cristiancicale.capstone.controllers;
 import cristiancicale.capstone.entities.Favorite;
 import cristiancicale.capstone.entities.User;
 import cristiancicale.capstone.payloads.FavoriteDTO;
+import cristiancicale.capstone.payloads.FavoriteRespDTO;
 import cristiancicale.capstone.services.FavoriteService;
 import jakarta.validation.Valid;
 import org.springframework.data.domain.Page;
@@ -24,8 +25,9 @@ public class FavoriteController {
 
     @PostMapping
     @ResponseStatus(HttpStatus.CREATED)
-    public Favorite save(@RequestBody @Valid FavoriteDTO body, @AuthenticationPrincipal User currentUser) {
-        return favoriteService.save(body, currentUser);
+    public FavoriteRespDTO save(@RequestBody @Valid FavoriteDTO body, @AuthenticationPrincipal User currentUser) {
+        Favorite newFavorite = this.favoriteService.save(body, currentUser);
+        return new FavoriteRespDTO(newFavorite.getId(), newFavorite.getSong().getId());
     }
 
     @GetMapping

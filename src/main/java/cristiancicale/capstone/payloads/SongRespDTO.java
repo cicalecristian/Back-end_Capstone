@@ -21,6 +21,6 @@ public record SongRespDTO(
 
         LocalDate releaseDate,
 
-        Set<UUID> artistIds
+        Set<SongArtistRespDTO> artists
 ) {
 }
