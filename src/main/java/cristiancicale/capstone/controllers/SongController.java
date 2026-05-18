@@ -68,8 +68,17 @@ public class SongController {
     }
 
     @GetMapping("/{id}")
-    public Song getById(@PathVariable UUID id) {
-        return songService.findById(id);
+    public SongRespDTO getById(@PathVariable UUID id) {
+        Song found = songService.findById(id);
+
+        Set<SongArtistRespDTO> artists =
+                found.getSongArtists().stream()
+                        .map(songArtist -> new SongArtistRespDTO(songArtist.getId(), songArtist.getArtist().getId(),
+                                songArtist.getRole()))
+                        .collect(Collectors.toSet());
+
+        return new SongRespDTO(found.getId(), found.getTitle(), found.getCover(), found.getDuration(), found.getGenre(),
+                found.getReleaseDate(), artists);
     }
 
     @PutMapping("/{id}")
@@ -100,12 +109,37 @@ public class SongController {
 
     @PostMapping("/{songId}/artists")
     @PreAuthorize("hasRole('ADMIN')")
-    public Song addArtistToSong(@PathVariable UUID songId, @RequestBody @Validated SongArtistDTO body) {
-        return songService.addArtistToSong(songId, body);
+    public SongRespDTO addArtistToSong(@PathVariable UUID songId, @RequestBody @Validated SongArtistDTO body) {
+
+        Song updatedSong = songService.addArtistToSong(songId, body);
+
+        Set<SongArtistRespDTO> artists = updatedSong.getSongArtists().stream()
+                .map(songArtist -> new SongArtistRespDTO(songArtist.getId(), songArtist.getArtist().getId(),
+                        songArtist.getRole()))
+                .collect(Collectors.toSet());
+
+        return new SongRespDTO(updatedSong.getId(), updatedSong.getTitle(), updatedSong.getCover(), updatedSong.getDuration(),
+                updatedSong.getGenre(), updatedSong.getReleaseDate(), artists
+        );
     }
 
     @GetMapping("/artist/{artistId}")
-    public List<Song> getSongsByArtist(@PathVariable UUID artistId) {
-        return songService.findSongsByArtist(artistId);
+    public List<SongRespDTO> getSongsByArtist(@PathVariable UUID artistId) {
+
+        List<Song> songs = songService.findSongsByArtist(artistId);
+
+        return songs.stream()
+                .map(song -> {
+                    Set<SongArtistRespDTO> artists =
+                            song.getSongArtists().stream()
+                                    .map(songArtist -> new SongArtistRespDTO(songArtist.getId(), songArtist.getArtist().getId(),
+                                            songArtist.getRole()))
+                                    .collect(Collectors.toSet());
+
+                    return new SongRespDTO(song.getId(), song.getTitle(), song.getCover(), song.getDuration(), song.getGenre(),
+                            song.getReleaseDate(), artists
+                    );
+                })
+                .toList();
     }
 }

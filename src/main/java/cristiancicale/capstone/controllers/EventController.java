@@ -32,15 +32,21 @@ public class EventController {
     }
 
     @GetMapping
-    public Page<Event> getEvents(@RequestParam(defaultValue = "0") int page,
-                                 @RequestParam(defaultValue = "10") int size,
-                                 @RequestParam(defaultValue = "date") String sortBy) {
-        return this.eventService.findAll(page, size, sortBy);
+    public Page<EventRespDTO> getEvents(@RequestParam(defaultValue = "0") int page,
+                                        @RequestParam(defaultValue = "10") int size,
+                                        @RequestParam(defaultValue = "date") String sortBy) {
+
+        Page<Event> events = eventService.findAll(page, size, sortBy);
+
+        return events.map(event -> new EventRespDTO(event.getId(), event.getTitle(), event.getCity(), event.getCountry(),
+                event.getDate(), event.getSeat(), event.getArtist().getId()));
     }
 
     @GetMapping("/{id}")
-    public Event getById(@PathVariable UUID id) {
-        return eventService.findById(id);
+    public EventRespDTO getById(@PathVariable UUID id) {
+        Event found = eventService.findById(id);
+        return new EventRespDTO(found.getId(), found.getTitle(), found.getCity(), found.getCountry(), found.getDate(),
+                found.getSeat(), found.getArtist().getId());
     }
 
     @PutMapping("/{id}")

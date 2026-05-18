@@ -32,15 +32,22 @@ public class ArtistController {
     }
 
     @GetMapping
-    public Page<Artist> getArtists(@RequestParam(defaultValue = "0") int page,
-                                   @RequestParam(defaultValue = "10") int size,
-                                   @RequestParam(defaultValue = "artistName") String sortBy) {
-        return this.artistService.findAll(page, size, sortBy);
+    public Page<ArtistRespDTO> getArtists(@RequestParam(defaultValue = "0") int page,
+                                          @RequestParam(defaultValue = "10") int size,
+                                          @RequestParam(defaultValue = "artistName") String sortBy) {
+
+        Page<Artist> artists = artistService.findAll(page, size, sortBy);
+
+        return artists.map(artist -> new ArtistRespDTO(artist.getId(), artist.getArtistName(), artist.getNationality(),
+                artist.getDateOfBirth(), artist.getGenre(), artist.getAvatar())
+        );
     }
 
     @GetMapping("/{id}")
-    public Artist getById(@PathVariable UUID id) {
-        return artistService.findById(id);
+    public ArtistRespDTO getById(@PathVariable UUID id) {
+        Artist found = artistService.findById(id);
+        return new ArtistRespDTO(found.getId(), found.getArtistName(), found.getNationality(), found.getDateOfBirth(),
+                found.getGenre(), found.getAvatar());
     }
 
     @PutMapping("/{id}")

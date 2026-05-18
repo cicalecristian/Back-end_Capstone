@@ -28,21 +28,24 @@ public class ReviewController {
     @PostMapping
     @ResponseStatus(HttpStatus.CREATED)
     public ReviewRespDTO save(@RequestBody @Validated ReviewDTO body, @AuthenticationPrincipal User currentUser) {
-
         Review newReview = this.reviewService.save(body, currentUser);
         return new ReviewRespDTO(newReview.getId(), newReview.getRating());
     }
 
     @GetMapping
-    public Page<Review> getReviews(@RequestParam(defaultValue = "0") int page,
-                                   @RequestParam(defaultValue = "10") int size,
-                                   @RequestParam(defaultValue = "rating") String sortBy) {
-        return this.reviewService.findAll(page, size, sortBy);
+    public Page<ReviewRespDTO> getReviews(@RequestParam(defaultValue = "0") int page,
+                                          @RequestParam(defaultValue = "10") int size,
+                                          @RequestParam(defaultValue = "rating") String sortBy) {
+        Page<Review> reviews = reviewService.findAll(page, size, sortBy);
+        return reviews.map(review -> new ReviewRespDTO(review.getId(), review.getRating()));
     }
 
     @GetMapping("/song/{songId}")
-    public List<Review> getBySong(@PathVariable UUID songId) {
-        return reviewService.findBySong(songId);
+    public List<ReviewRespDTO> getBySong(@PathVariable UUID songId) {
+
+        List<Review> reviews = reviewService.findBySong(songId);
+        return reviews.stream()
+                .map(review -> new ReviewRespDTO(review.getId(), review.getRating())).toList();
     }
 
     @PatchMapping("/{songId}")

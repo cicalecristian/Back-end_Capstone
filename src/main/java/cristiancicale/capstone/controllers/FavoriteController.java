@@ -31,10 +31,11 @@ public class FavoriteController {
     }
 
     @GetMapping
-    public Page<Favorite> getMyFavorites(@AuthenticationPrincipal User currentUser,
-                                         @RequestParam(defaultValue = "0") int page,
-                                         @RequestParam(defaultValue = "10") int size) {
-        return favoriteService.findUserFavorite(currentUser, page, size);
+    public Page<FavoriteRespDTO> getMyFavorites(@AuthenticationPrincipal User currentUser,
+                                                @RequestParam(defaultValue = "0") int page,
+                                                @RequestParam(defaultValue = "10") int size) {
+        Page<Favorite> favorites = favoriteService.findUserFavorites(currentUser, page, size);
+        return favorites.map(favorite -> new FavoriteRespDTO(favorite.getId(), favorite.getSong().getId()));
     }
 
     @DeleteMapping("/{favoriteId}")

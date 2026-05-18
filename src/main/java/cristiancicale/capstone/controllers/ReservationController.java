@@ -34,22 +34,30 @@ public class ReservationController {
     }
 
     @GetMapping
-    public Page<Reservation> getReservations(@AuthenticationPrincipal User currentUser,
-                                             @RequestParam(defaultValue = "0") int page,
-                                             @RequestParam(defaultValue = "10") int size) {
-        return reservationService.findAll(currentUser, page, size);
+    public Page<ReservationRespDTO> getReservations(@AuthenticationPrincipal User currentUser,
+                                                    @RequestParam(defaultValue = "0") int page,
+                                                    @RequestParam(defaultValue = "10") int size) {
+        Page<Reservation> reservations = reservationService.findAll(currentUser, page, size);
+        return reservations.map(reservation -> new ReservationRespDTO(reservation.getId(), reservation.getTickets(),
+                reservation.getUser().getId(), reservation.getEvent().getId(), reservation.getCreatedAt()));
     }
 
     @GetMapping("/{id}")
-    public Reservation getById(@PathVariable UUID id, @AuthenticationPrincipal User currentUser) {
-        return reservationService.findById(id, currentUser);
+    public ReservationRespDTO getById(@PathVariable UUID id, @AuthenticationPrincipal User currentUser) {
+        Reservation found = reservationService.findById(id, currentUser);
+        return new ReservationRespDTO(found.getId(), found.getTickets(), found.getUser().getId(),
+                found.getEvent().getId(), found.getCreatedAt());
     }
 
     @GetMapping("/events/{eventId}")
     @PreAuthorize("hasRole('ADMIN')")
-    public List<Reservation> getByEvent(@PathVariable UUID eventId) {
+    public List<ReservationRespDTO> getByEvent(@PathVariable UUID eventId) {
 
-        return reservationService.findByEvent(eventId);
+        List<Reservation> reservations = reservationService.findByEvent(eventId);
+
+        return reservations.stream()
+                .map(reservation -> new ReservationRespDTO(reservation.getId(), reservation.getTickets(),
+                        reservation.getUser().getId(), reservation.getEvent().getId(), reservation.getCreatedAt())).toList();
     }
 
     @DeleteMapping("/{id}")

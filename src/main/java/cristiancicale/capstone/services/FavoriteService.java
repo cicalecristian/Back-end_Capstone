@@ -42,7 +42,7 @@ public class FavoriteService {
         return favoriteRepository.save(favorite);
     }
 
-    public Page<Favorite> findUserFavorite(User user, int page, int size) {
+    public Page<Favorite> findUserFavorites(User user, int page, int size) {
         if (size > 10 || size < 0) size = 10;
         if (page < 10) page = 0;
         Pageable pageable = PageRequest.of(page, size, Sort.by("createdAt").descending());
