@@ -37,17 +37,17 @@ public class ReservationService {
         Event event = eventService.findById(body.eventId());
 
         if (reservationRepository.existsByUserIdAndEventId(user.getId(), event.getId())) {
-            throw new BadRequestException("Hai già prenotato questo evento");
+            throw new BadRequestException("You have already booked this event");
         }
 
         if (body.tickets() > event.getSeat()) {
-            throw new BadRequestException("Posti insufficienti");
+            throw new BadRequestException("Not enough seats available");
         }
 
         int age = Period.between(user.getDateOfBirth(), LocalDate.now()).getYears();
 
         if (age < 16) {
-            throw new BadRequestException("Devi avere almeno 16 anni");
+            throw new BadRequestException("You must be at least 16 years old");
         }
 
         event.setSeat(event.getSeat() - body.tickets());
@@ -81,7 +81,7 @@ public class ReservationService {
         boolean isAdmin = currentUser.getRole().name().equals("ROLE_ADMIN");
 
         if (!isOwner && !isAdmin) {
-            throw new AccessDeniedException("Non puoi accedere a questa prenotazione");
+            throw new AccessDeniedException("You cannot access this reservation");
         }
 
         return found;
@@ -103,7 +103,7 @@ public class ReservationService {
         boolean isAdmin = currentUser.getRole().name().equals("ROLE_ADMIN");
 
         if (!isOwner && !isAdmin) {
-            throw new AccessDeniedException("Non puoi eliminare questa prenotazione");
+            throw new AccessDeniedException("You cannot delete this reservation");
         }
 
         reservationRepository.delete(found);

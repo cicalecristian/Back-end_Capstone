@@ -10,20 +10,18 @@ import java.time.LocalDate;
 
 public record ArtistDTO(
 
-        @NotBlank(message = "Nome artista obbligatorio")
-        @Size(min = 2, max = 50,
-                message = "Il nome artista deve essere tra 2 e 50 caratteri")
+        @NotBlank(message = "Artist name is required")
+        @Size(min = 2, max = 50, message = "Artist name must be between 2 and 50 characters")
         String artistName,
 
-        @NotBlank(message = "Nazionalità obbligatoria")
-        @Size(min = 2, max = 30,
-                message = "La nazionalità deve essere tra 2 e 30 caratteri")
+        @NotBlank(message = "Nationality is required")
+        @Size(min = 2, max = 30, message = "Nationality must be between 2 and 30 characters")
         String nationality,
 
-        @Past(message = "Data di nascita non valida")
+        @Past(message = "Invalid birth date")
         LocalDate dateOfBirth,
 
-        @NotNull(message = "Genere obbligatorio")
+        @NotNull(message = "Genre is required")
         Genre genre,
 
         String avatar

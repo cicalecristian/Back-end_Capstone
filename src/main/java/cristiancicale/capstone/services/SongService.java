@@ -107,7 +107,7 @@ public class SongService {
         boolean alreadyExists = songArtistRepository.existsBySongIdAndArtistIdAndRole(songId, artist.getId(), body.role());
 
         if (alreadyExists) {
-            throw new BadRequestException("Relazione già esistente");
+            throw new BadRequestException("Relationship already exists");
         }
 
         SongArtist songArtist = new SongArtist(body.role(), song, artist);

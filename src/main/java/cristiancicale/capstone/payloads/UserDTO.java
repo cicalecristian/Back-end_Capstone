@@ -6,32 +6,32 @@ import java.time.LocalDate;
 
 public record UserDTO(
 
-        @NotBlank(message = "Username obbligatorio")
-        @Size(min = 3, max = 30, message = "Username deve contenere tra i 3 e i 30 caratteri")
+        @NotBlank(message = "Username is required")
+        @Size(min = 3, max = 30, message = "Username must contain between 3 and 30 characters")
         String username,
 
-        @Email(message = "Email non valida")
-        @NotBlank(message = "Email obbligatoria")
+        @Email(message = "Invalid email")
+        @NotBlank(message = "Email is required")
         String email,
 
-        @NotBlank(message = "Password obbligatoria")
-        @Size(min = 8, message = "Minimo 8 caratteri")
+        @NotBlank(message = "Password is required")
+        @Size(min = 8, message = "Minimum 8 characters")
         @Pattern(
                 regexp = "^(?=.*[a-z])(?=.*[A-Z])(?=.*\\d).+$",
-                message = "La password deve contenere almeno una maiuscola, una minuscola e un numero"
+                message = "Password must contain at least one uppercase letter, one lowercase letter, and one number"
         )
         String password,
 
-        @NotBlank(message = "Nome obbligatorio")
-        @Size(min = 2, max = 30, message = "Il nome deve essere tra 2 e 30 caratteri")
+        @NotBlank(message = "Name is required")
+        @Size(min = 2, max = 30, message = "Name must be between 2 and 30 characters")
         String name,
 
-        @NotBlank(message = "Nome obbligatorio")
-        @Size(min = 2, max = 30, message = "Il cognome deve essere tra 2 e 30 caratteri")
+        @NotBlank(message = "Surname is required")
+        @Size(min = 2, max = 30, message = "Surname must be between 2 and 30 characters")
         String surname,
 
-        @Past(message = "Data di nascita non valida")
-        @NotNull(message = "Data di nascita obbligatoria")
+        @Past(message = "Invalid birth date")
+        @NotNull(message = "Birth date is required")
         LocalDate dateOfBirth,
 
         String avatar

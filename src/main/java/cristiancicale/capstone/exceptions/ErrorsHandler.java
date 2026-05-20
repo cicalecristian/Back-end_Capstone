@@ -48,6 +48,6 @@ public class ErrorsHandler {
     public ErrorsDTO handleGenericEx(Exception ex) {
         ex.printStackTrace();
 
-        return new ErrorsDTO("Errore lato server", LocalDateTime.now());
+        return new ErrorsDTO("Server error", LocalDateTime.now());
     }
 }

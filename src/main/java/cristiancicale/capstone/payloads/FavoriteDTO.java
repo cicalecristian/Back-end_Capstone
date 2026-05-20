@@ -6,7 +6,7 @@ import java.util.UUID;
 
 public record FavoriteDTO(
 
-        @NotNull(message = "Song id obbligatorio")
+        @NotNull(message = "Song id is required")
         UUID songId
 ) {
 }

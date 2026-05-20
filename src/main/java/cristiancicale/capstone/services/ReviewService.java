@@ -35,7 +35,7 @@ public class ReviewService {
         Song song = songService.findById(body.songId());
 
         if (reviewRepository.existsByUserIdAndSongId(user.getId(), song.getId())) {
-            throw new BadRequestException("Hai già recensito questa song");
+            throw new BadRequestException("You have already reviewed this song");
         }
 
         Review review = new Review(body.rating(), user, song);
@@ -51,7 +51,7 @@ public class ReviewService {
     }
 
     public Review findById(UUID id) {
-        return reviewRepository.findById(id).orElseThrow(() -> new NotFoundException("Recensione non trovata"));
+        return reviewRepository.findById(id).orElseThrow(() -> new NotFoundException("Review not found"));
     }
 
     public List<Review> findBySong(UUID songId) {
@@ -64,7 +64,7 @@ public class ReviewService {
     public Review findByIdAndUpdate(UUID songId, ReviewUpdateDTO body, User user) {
 
         Review found = reviewRepository.findByUserIdAndSongId(user.getId(), songId)
-                .orElseThrow(() -> new NotFoundException("Recensione non trovata"));
+                .orElseThrow(() -> new NotFoundException("Review not found"));
 
         found.setRating(body.rating());
 
@@ -80,7 +80,7 @@ public class ReviewService {
         boolean isAdmin = currentUser.getRole().name().equals("ROLE_ADMIN");
 
         if (!isOwner && !isAdmin) {
-            throw new AccessDeniedException("Non puoi eliminare questa recensione");
+            throw new AccessDeniedException("You cannot delete this review");
         }
         reviewRepository.delete(found);
     }

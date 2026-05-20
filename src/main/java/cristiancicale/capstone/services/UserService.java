@@ -41,14 +41,15 @@ public class UserService {
     public User save(UserDTO body) {
 
         if (userRepository.existsByEmail(body.email())) {
-            throw new BadRequestException("Email già utilizzata");
+            throw new BadRequestException("Email already in use");
         }
 
         if (userRepository.existsByUsername(body.username())) {
-            throw new BadRequestException("Username già utilizzato");
+            throw new BadRequestException("Username already in use");
         }
 
-        User user = new User(body.username().toLowerCase().trim(), body.email().toLowerCase().trim(), bcrypt.encode(body.password()), body.name(), body.surname(), body.dateOfBirth());
+        User user = new User(body.username().toLowerCase().trim(), body.email().toLowerCase().trim(), bcrypt.encode(body.password()),
+                body.name(), body.surname(), body.dateOfBirth());
 
         this.emailSender.sendRegistrationEmail(user);
 
@@ -67,7 +68,7 @@ public class UserService {
     }
 
     public User findByEmail(String email) {
-        return userRepository.findByEmail(email).orElseThrow(() -> new NotFoundException("Utente non trovato"));
+        return userRepository.findByEmail(email).orElseThrow(() -> new NotFoundException("User not found"));
     }
 
     public User findByIdAndUpdate(UUID id, UserDTO body) {
@@ -80,13 +81,13 @@ public class UserService {
         if (!found.getUsername().equals(body.username())) {
 
             if (this.userRepository.existsByUsername(body.username()))
-                throw new BadRequestException("L'username " + body.username() + "è gia in uso");
+                throw new BadRequestException("L'username " + body.username() + "is already taken");
         }
 
         if (!found.getEmail().equals(body.email())) {
 
             if (this.userRepository.existsByEmail(body.email()))
-                throw new BadRequestException("L'email " + body.email() + "è gia in uso");
+                throw new BadRequestException("L'email " + body.email() + "is already taken");
         }
 
         found.setUsername(newUsername);
@@ -106,7 +107,7 @@ public class UserService {
 
         User updateUtente = this.userRepository.save(found);
 
-        log.info("L'utente " + updateUtente.getId() + "è stato aggiornato correttamente");
+        log.info("The user " + updateUtente.getId() + "has been updated successfully");
 
         return updateUtente;
     }
@@ -119,11 +120,11 @@ public class UserService {
     public User avatarUpload(MultipartFile file, UUID utenteId) {
 
         if (file == null || file.isEmpty()) {
-            throw new BadRequestException("File non valido o vuoto");
+            throw new BadRequestException("Invalid or empty file");
         }
 
         if (file.getSize() > 2 * 1024 * 1024) {
-            throw new BadRequestException("File troppo grande (max 2MB)");
+            throw new BadRequestException("File too large (max 2MB)");
         }
 
         User found = findById(utenteId);
@@ -141,7 +142,7 @@ public class UserService {
             String url = (String) result.get("secure_url");
 
             if (url == null) {
-                throw new RuntimeException("Upload fallito: secure_url nullo");
+                throw new RuntimeException("Upload failed: secure_url is null");
             }
 
             found.setAvatar(url);
@@ -149,7 +150,7 @@ public class UserService {
             return userRepository.save(found);
 
         } catch (IOException e) {
-            throw new RuntimeException("Errore upload Cloudinary", e);
+            throw new RuntimeException("Cloudinary upload error", e);
         }
     }
 
@@ -159,7 +160,7 @@ public class UserService {
 
         if (found.getRole().equals(newRole)) {
             throw new BadRequestException(
-                    "L'utente possiede già il ruolo " + newRole
+                    "The user already has the role " + newRole
             );
         }
 

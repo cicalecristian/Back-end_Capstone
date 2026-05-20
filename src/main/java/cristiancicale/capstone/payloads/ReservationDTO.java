@@ -7,11 +7,11 @@ import jakarta.validation.constraints.NotNull;
 import java.util.UUID;
 
 public record ReservationDTO(
-        @Min(value = 1, message = "Bisogna prenotare almeno un posto")
-        @Max(value = 4, message = "Il massimo di posti prenotabili è 4")
+        @Min(value = 1, message = "At least one seat must be reserved")
+        @Max(value = 4, message = "The maximum number of reservable seats is 4")
         int tickets,
 
-        @NotNull(message = "Event id obbligatorio")
+        @NotNull(message = "Event id is required")
         UUID eventId
 ) {
 }

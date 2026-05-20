@@ -34,7 +34,7 @@ public class FavoriteService {
         Song song = songService.findById(body.songId());
 
         if (favoriteRepository.existsByUserIdAndSongId(user.getId(), song.getId())) {
-            throw new BadRequestException("Song già nei preferiti");
+            throw new BadRequestException("Song already in favorites");
         }
 
         Favorite favorite = new Favorite(user, song);
@@ -57,7 +57,7 @@ public class FavoriteService {
         Favorite found = findById(favoriteId);
         boolean isOwner = found.getUser().getId().equals(currentUser.getId());
         if (!isOwner) {
-            throw new UnauthorizedException("Non puoi eliminare questo favorite");
+            throw new UnauthorizedException("You cannot delete this favorite");
         }
         favoriteRepository.delete(found);
     }

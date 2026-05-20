@@ -28,10 +28,10 @@ public class AuthService {
             if (this.bcrypt.matches(body.password(), found.getPassword())) {
                 return this.tokenTools.generateToken(found);
             } else {
-                throw new UnauthorizedException("Credenziali errate");
+                throw new UnauthorizedException("Invalid credentials");
             }
         } catch (NotFoundException ex) {
-            throw new UnauthorizedException("Credenziali errate");
+            throw new UnauthorizedException("Invalid credentials");
         }
     }
 }

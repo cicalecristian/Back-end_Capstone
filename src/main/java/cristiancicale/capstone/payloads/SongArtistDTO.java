@@ -7,10 +7,10 @@ import java.util.UUID;
 
 public record SongArtistDTO(
 
-        @NotNull(message = "Artist id obbligatorio")
+        @NotNull(message = "Artist id is required")
         UUID artistId,
 
-        @NotNull(message = "Ruolo obbligatorio")
+        @NotNull(message = "Role is required")
         RoleArtist role
 ) {
 }
