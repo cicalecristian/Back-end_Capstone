@@ -40,6 +40,11 @@ public class TokenFilter extends OncePerRequestFilter {
 
         String accessToken = authHeader.substring(7);
 
+        if (accessToken.equals("null") || accessToken.isBlank()) {
+            filterChain.doFilter(request, response);
+            return;
+        }
+
         tokenTools.verifyToken(accessToken);
 
         UUID userId = this.tokenTools.extractIdFromToken(accessToken);
