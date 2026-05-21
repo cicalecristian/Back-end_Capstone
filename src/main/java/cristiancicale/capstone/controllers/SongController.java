@@ -38,7 +38,8 @@ public class SongController {
                 .map(songArtist -> new SongArtistRespDTO(
                         songArtist.getId(),
                         songArtist.getArtist().getId(),
-                        songArtist.getRole()))
+                        songArtist.getRole(),
+                        songArtist.getArtist().getArtistName()))
                 .collect(Collectors.toSet());
 
         return new SongRespDTO(newSong.getId(), newSong.getTitle(), newSong.getCover(), newSong.getDuration(), newSong.getGenre(),
@@ -59,7 +60,8 @@ public class SongController {
                     .map(songArtist -> new SongArtistRespDTO(
                             songArtist.getId(),
                             songArtist.getArtist().getId(),
-                            songArtist.getRole()))
+                            songArtist.getRole(),
+                            songArtist.getArtist().getArtistName()))
                     .collect(Collectors.toSet());
 
             return new SongRespDTO(song.getId(), song.getTitle(), song.getCover(), song.getDuration(), song.getGenre(),
@@ -73,8 +75,11 @@ public class SongController {
 
         Set<SongArtistRespDTO> artists =
                 found.getSongArtists().stream()
-                        .map(songArtist -> new SongArtistRespDTO(songArtist.getId(), songArtist.getArtist().getId(),
-                                songArtist.getRole()))
+                        .map(songArtist -> new SongArtistRespDTO(
+                                songArtist.getId(),
+                                songArtist.getArtist().getId(),
+                                songArtist.getRole(),
+                                songArtist.getArtist().getArtistName()))
                         .collect(Collectors.toSet());
 
         return new SongRespDTO(found.getId(), found.getTitle(), found.getCover(), found.getDuration(), found.getGenre(),
@@ -92,7 +97,8 @@ public class SongController {
                         .map(songArtist -> new SongArtistRespDTO(
                                 songArtist.getId(),
                                 songArtist.getArtist().getId(),
-                                songArtist.getRole()))
+                                songArtist.getRole(),
+                                songArtist.getArtist().getArtistName()))
                         .collect(Collectors.toSet());
 
         return new SongRespDTO(updateSong.getId(), updateSong.getTitle(), updateSong.getCover(), updateSong.getDuration(),
@@ -114,8 +120,11 @@ public class SongController {
         Song updatedSong = songService.addArtistToSong(songId, body);
 
         Set<SongArtistRespDTO> artists = updatedSong.getSongArtists().stream()
-                .map(songArtist -> new SongArtistRespDTO(songArtist.getId(), songArtist.getArtist().getId(),
-                        songArtist.getRole()))
+                .map(songArtist -> new SongArtistRespDTO(
+                        songArtist.getId(),
+                        songArtist.getArtist().getId(),
+                        songArtist.getRole(),
+                        songArtist.getArtist().getArtistName()))
                 .collect(Collectors.toSet());
 
         return new SongRespDTO(updatedSong.getId(), updatedSong.getTitle(), updatedSong.getCover(), updatedSong.getDuration(),
@@ -132,8 +141,11 @@ public class SongController {
                 .map(song -> {
                     Set<SongArtistRespDTO> artists =
                             song.getSongArtists().stream()
-                                    .map(songArtist -> new SongArtistRespDTO(songArtist.getId(), songArtist.getArtist().getId(),
-                                            songArtist.getRole()))
+                                    .map(songArtist -> new SongArtistRespDTO(
+                                            songArtist.getId(),
+                                            songArtist.getArtist().getId(),
+                                            songArtist.getRole(),
+                                            songArtist.getArtist().getArtistName()))
                                     .collect(Collectors.toSet());
 
                     return new SongRespDTO(song.getId(), song.getTitle(), song.getCover(), song.getDuration(), song.getGenre(),

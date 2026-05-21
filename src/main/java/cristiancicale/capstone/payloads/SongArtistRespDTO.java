@@ -9,6 +9,8 @@ public record SongArtistRespDTO(
 
         UUID artistId,
 
-        RoleArtist role
+        RoleArtist role,
+
+        String artistName
 ) {
 }
