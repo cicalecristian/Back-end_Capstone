@@ -17,6 +17,8 @@ public record EventRespDTO(
 
         int seat,
 
-        UUID artistId
+        UUID artistId,
+
+        String cover
 ) {
 }

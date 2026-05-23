@@ -48,8 +48,14 @@ public class UserService {
             throw new BadRequestException("Username already in use");
         }
 
+        String avatar = body.avatar();
+
+        if (avatar == null || avatar.isBlank()) {
+            avatar = "https://ui-avatars.com/api/?name=" + body.name() + "+" + body.surname();
+        }
+
         User user = new User(body.username().toLowerCase().trim(), body.email().toLowerCase().trim(), bcrypt.encode(body.password()),
-                body.name(), body.surname(), body.dateOfBirth());
+                body.name(), body.surname(), body.dateOfBirth(), avatar);
 
         this.emailSender.sendRegistrationEmail(user);
 

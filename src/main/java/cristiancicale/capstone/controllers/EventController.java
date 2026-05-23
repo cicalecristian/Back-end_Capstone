@@ -28,7 +28,7 @@ public class EventController {
     public EventRespDTO save(@RequestBody @Validated EventDTO body) {
         Event newEvent = this.eventService.save(body);
         return new EventRespDTO(newEvent.getId(), newEvent.getTitle(), newEvent.getCity(), newEvent.getCountry(),
-                newEvent.getDate(), newEvent.getSeat(), newEvent.getArtist().getId());
+                newEvent.getDate(), newEvent.getSeat(), newEvent.getArtist().getId(), newEvent.getCover());
     }
 
     @GetMapping
@@ -39,14 +39,14 @@ public class EventController {
         Page<Event> events = eventService.findAll(page, size, sortBy);
 
         return events.map(event -> new EventRespDTO(event.getId(), event.getTitle(), event.getCity(), event.getCountry(),
-                event.getDate(), event.getSeat(), event.getArtist().getId()));
+                event.getDate(), event.getSeat(), event.getArtist().getId(), event.getCover()));
     }
 
     @GetMapping("/{id}")
     public EventRespDTO getById(@PathVariable UUID id) {
         Event found = eventService.findById(id);
         return new EventRespDTO(found.getId(), found.getTitle(), found.getCity(), found.getCountry(), found.getDate(),
-                found.getSeat(), found.getArtist().getId());
+                found.getSeat(), found.getArtist().getId(), found.getCover());
     }
 
     @PutMapping("/{id}")
@@ -56,7 +56,8 @@ public class EventController {
         Event updatedEvent = eventService.findByIdAndUpdate(id, body);
 
         return new EventRespDTO(updatedEvent.getId(), updatedEvent.getTitle(), updatedEvent.getCity(),
-                updatedEvent.getCountry(), updatedEvent.getDate(), updatedEvent.getSeat(), updatedEvent.getArtist().getId());
+                updatedEvent.getCountry(), updatedEvent.getDate(), updatedEvent.getSeat(),
+                updatedEvent.getArtist().getId(), updatedEvent.getCover());
     }
 
     @DeleteMapping("/{id}")

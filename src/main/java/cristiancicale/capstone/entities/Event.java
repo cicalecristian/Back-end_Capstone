@@ -39,6 +39,9 @@ public class Event {
     @Column(nullable = false)
     private int seat;
 
+    @Column(nullable = false)
+    private String cover;
+
     @ManyToOne
     @JoinColumn(name = "artist_id", nullable = false)
     @JsonIgnore
@@ -48,12 +51,13 @@ public class Event {
     @JsonIgnore
     private Set<Reservation> reservations = new HashSet<>();
 
-    public Event(String title, String city, String country, LocalDate date, int seat, Artist artist) {
+    public Event(String title, String city, String country, LocalDate date, int seat, Artist artist, String cover) {
         this.title = title;
         this.city = city;
         this.country = country;
         this.date = date;
         this.seat = seat;
         this.artist = artist;
+        this.cover = cover;
     }
 }

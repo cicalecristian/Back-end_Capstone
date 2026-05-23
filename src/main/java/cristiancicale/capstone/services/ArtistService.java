@@ -26,13 +26,19 @@ public class ArtistService {
 
     public Artist save(ArtistDTO body) {
 
-        Artist artist = new Artist(body.artistName(), body.nationality(), body.dateOfBirth(), body.genre(), body.avatar());
+        String avatar = body.avatar();
+
+        if (avatar == null || avatar.isBlank()) {
+            avatar = "https://images.unsplash.com/photo-1484876065684-b683cf17d276?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bXVzaWMlMjBhcnRpc3R8ZW58MHx8MHx8fDA%3D";
+        }
+
+        Artist artist = new Artist(body.artistName(), body.nationality(), body.dateOfBirth(), body.genre(), avatar);
 
         return this.artistRepository.save(artist);
     }
 
     public Page<Artist> findAll(int page, int size, String sortBy) {
-        if (size > 10 || size < 0) size = 10;
+        if (size > 15 || size < 0) size = 15;
         if (page < 10) page = 0;
         Pageable pageable = PageRequest.of(page, size, Sort.by(sortBy));
         return this.artistRepository.findAll(pageable);

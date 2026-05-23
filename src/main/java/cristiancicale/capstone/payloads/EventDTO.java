@@ -29,6 +29,8 @@ public record EventDTO(
         Integer seat,
 
         @NotNull(message = "Artist id is required")
-        UUID artistId
+        UUID artistId,
+
+        String cover
 ) {
 }

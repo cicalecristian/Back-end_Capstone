@@ -29,8 +29,13 @@ public class EventService {
     public Event save(EventDTO body) {
 
         Artist artist = artistService.findById(body.artistId());
+        String cover = body.cover();
 
-        Event event = new Event(body.title(), body.city(), body.country(), body.date(), body.seat(), artist);
+        if (cover == null || cover.isBlank()) {
+            cover = "https://img.magnific.com/free-vector/party-audience_1048-7433.jpg?semt=ais_hybrid&w=740&q=80";
+        }
+
+        Event event = new Event(body.title(), body.city(), body.country(), body.date(), body.seat(), artist, cover);
 
         return eventRepository.save(event);
     }
@@ -58,6 +63,7 @@ public class EventService {
         found.setDate(body.date());
         found.setSeat(body.seat());
         found.setArtist(artist);
+        found.setCover(body.cover());
 
         return eventRepository.save(found);
     }

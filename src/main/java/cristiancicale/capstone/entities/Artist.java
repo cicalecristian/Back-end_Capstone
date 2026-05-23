@@ -38,7 +38,7 @@ public class Artist {
     @Column(nullable = false)
     private Genre genre;
 
-    @Column
+    @Column(nullable = false)
     private String avatar;
 
     @OneToMany(mappedBy = "artist")

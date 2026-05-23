@@ -49,8 +49,8 @@ public class SongController {
 
     @GetMapping
     public Page<SongRespDTO> getSongs(@RequestParam(defaultValue = "0") int page,
-                                      @RequestParam(defaultValue = "10") int size,
-                                      @RequestParam(defaultValue = "title") String sortBy) {
+                                      @RequestParam(defaultValue = "30") int size,
+                                      @RequestParam(defaultValue = "releaseDate") String sortBy) {
 
         Page<Song> songs = songService.findAll(page, size, sortBy);
 

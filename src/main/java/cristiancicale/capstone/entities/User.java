@@ -49,7 +49,7 @@ public class User implements UserDetails {
     @Column(nullable = false)
     private RoleUser role = RoleUser.ROLE_USER;
 
-    @Column
+    @Column(nullable = false)
     private String avatar;
 
     @OneToMany(mappedBy = "user")
@@ -64,14 +64,14 @@ public class User implements UserDetails {
     @JsonIgnore
     private Set<Review> reviews = new HashSet<>();
 
-    public User(String username, String email, String password, String name, String surname, LocalDate dateOfBirth) {
+    public User(String username, String email, String password, String name, String surname, LocalDate dateOfBirth, String avatar) {
         this.username = username;
         this.email = email;
         this.password = password;
         this.name = name;
         this.surname = surname;
         this.dateOfBirth = dateOfBirth;
-        this.avatar = "https://ui-avatars.com/api/?name=" + name + "+" + surname;
+        this.avatar = avatar;
     }
 
     @Override

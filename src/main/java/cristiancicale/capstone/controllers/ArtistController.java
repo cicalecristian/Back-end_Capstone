@@ -33,7 +33,7 @@ public class ArtistController {
 
     @GetMapping
     public Page<ArtistRespDTO> getArtists(@RequestParam(defaultValue = "0") int page,
-                                          @RequestParam(defaultValue = "10") int size,
+                                          @RequestParam(defaultValue = "15") int size,
                                           @RequestParam(defaultValue = "artistName") String sortBy) {
 
         Page<Artist> artists = artistService.findAll(page, size, sortBy);

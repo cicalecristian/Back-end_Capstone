@@ -37,7 +37,13 @@ public class SongService {
 
     public Song save(SongDTO body) {
 
-        Song song = new Song(body.title(), body.cover(), body.duration(), body.genre(), body.releaseDate());
+        String cover = body.cover();
+
+        if (cover == null || cover.isBlank()) {
+            cover = "https://img.magnific.com/free-vector/party-audience_1048-7433.jpg?semt=ais_hybrid&w=740&q=80";
+        }
+
+        Song song = new Song(body.title(), cover, body.duration(), body.genre(), body.releaseDate());
         Song savedSong = songRepository.save(song);
 
         for (SongArtistDTO artistDTO : body.artists()) {
@@ -52,9 +58,9 @@ public class SongService {
     }
 
     public Page<Song> findAll(int page, int size, String sortBy) {
-        if (size > 10 || size < 0) size = 10;
+        if (size > 30 || size < 0) size = 30;
         if (page < 10) page = 0;
-        Pageable pageable = PageRequest.of(page, size, Sort.by(sortBy));
+        Pageable pageable = PageRequest.of(page, size, Sort.by(sortBy).descending());
         return this.songRepository.findAll(pageable);
     }
 
