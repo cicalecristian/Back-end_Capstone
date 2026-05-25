@@ -19,6 +19,8 @@ public record EventRespDTO(
 
         UUID artistId,
 
-        String cover
+        String cover,
+
+        String artistName
 ) {
 }
