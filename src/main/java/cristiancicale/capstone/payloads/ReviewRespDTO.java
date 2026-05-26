@@ -5,6 +5,8 @@ import java.util.UUID;
 public record ReviewRespDTO(
         UUID id,
 
-        int rating
+        int rating,
+
+        UUID userId
 ) {
 }

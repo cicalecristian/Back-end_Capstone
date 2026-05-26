@@ -29,7 +29,7 @@ public class ReviewController {
     @ResponseStatus(HttpStatus.CREATED)
     public ReviewRespDTO save(@RequestBody @Validated ReviewDTO body, @AuthenticationPrincipal User currentUser) {
         Review newReview = this.reviewService.save(body, currentUser);
-        return new ReviewRespDTO(newReview.getId(), newReview.getRating());
+        return new ReviewRespDTO(newReview.getId(), newReview.getRating(), newReview.getUser().getId());
     }
 
     @GetMapping
@@ -37,7 +37,7 @@ public class ReviewController {
                                           @RequestParam(defaultValue = "10") int size,
                                           @RequestParam(defaultValue = "rating") String sortBy) {
         Page<Review> reviews = reviewService.findAll(page, size, sortBy);
-        return reviews.map(review -> new ReviewRespDTO(review.getId(), review.getRating()));
+        return reviews.map(review -> new ReviewRespDTO(review.getId(), review.getRating(), review.getUser().getId()));
     }
 
     @GetMapping("/song/{songId}")
@@ -45,14 +45,14 @@ public class ReviewController {
 
         List<Review> reviews = reviewService.findBySong(songId);
         return reviews.stream()
-                .map(review -> new ReviewRespDTO(review.getId(), review.getRating())).toList();
+                .map(review -> new ReviewRespDTO(review.getId(), review.getRating(), review.getUser().getId())).toList();
     }
 
     @PatchMapping("/{songId}")
     public ReviewRespDTO getByIdAndUpdate(@PathVariable UUID songId, @RequestBody @Validated ReviewUpdateDTO body, @AuthenticationPrincipal User currentUser) {
 
         Review updateReview = reviewService.findByIdAndUpdate(songId, body, currentUser);
-        return new ReviewRespDTO(updateReview.getId(), updateReview.getRating());
+        return new ReviewRespDTO(updateReview.getId(), updateReview.getRating(), updateReview.getUser().getId());
     }
 
     @GetMapping("/average/{songId}")
