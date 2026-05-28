@@ -10,11 +10,13 @@ import cristiancicale.capstone.payloads.ReviewDTO;
 import cristiancicale.capstone.payloads.ReviewUpdateDTO;
 import cristiancicale.capstone.repositories.ReviewRepository;
 import lombok.extern.slf4j.Slf4j;
+import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 import java.util.UUID;
@@ -30,6 +32,7 @@ public class ReviewService {
         this.songService = songService;
     }
 
+    @Transactional
     public Review save(ReviewDTO body, User user) {
 
         Song song = songService.findById(body.songId());
@@ -38,9 +41,14 @@ public class ReviewService {
             throw new BadRequestException("You have already reviewed this song");
         }
 
-        Review review = new Review(body.rating(), user, song);
-
-        return reviewRepository.save(review);
+        try {
+            Review review = new Review(body.rating(), user, song);
+            reviewRepository.save(review);
+            reviewRepository.flush();
+            return review;
+        } catch (DataIntegrityViolationException e) {
+            throw new BadRequestException("You have already reviewed this song");
+        }
     }
 
     public Page<Review> findAll(int page, int size, String sortBy) {

@@ -2,6 +2,7 @@ package cristiancicale.capstone.exceptions;
 
 import cristiancicale.capstone.payloads.ErrorsDTO;
 import cristiancicale.capstone.payloads.ErrorsListDTO;
+import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.http.HttpStatus;
 import org.springframework.security.access.AccessDeniedException;
 import org.springframework.web.bind.annotation.ExceptionHandler;
@@ -41,6 +42,15 @@ public class ErrorsHandler {
     @ResponseStatus(HttpStatus.FORBIDDEN)
     public ErrorsDTO handleAccessDeniedEx(AccessDeniedException ex) {
         return new ErrorsDTO(ex.getMessage(), LocalDateTime.now());
+    }
+
+    @ExceptionHandler(DataIntegrityViolationException.class)
+    @ResponseStatus(HttpStatus.BAD_REQUEST)
+    public ErrorsDTO handleDataIntegrityViolation(DataIntegrityViolationException ex) {
+        if (ex.getMessage().contains("user_id, song_id")) {
+            return new ErrorsDTO("You have already reviewed this song", LocalDateTime.now());
+        }
+        return new ErrorsDTO("Data integrity error", LocalDateTime.now());
     }
 
     @ExceptionHandler(Exception.class)
