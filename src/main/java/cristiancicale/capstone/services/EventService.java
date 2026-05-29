@@ -41,8 +41,10 @@ public class EventService {
     }
 
     public Page<Event> findAll(int page, int size, String sortBy) {
-        if (size > 10 || size < 0) size = 10;
-        if (page < 10) page = 0;
+        if (size <= 0) size = 10;
+        if (size > 1000) size = 1000;
+        if (page < 0) page = 0;
+
         Pageable pageable = PageRequest.of(page, size, Sort.by(sortBy));
         return this.eventRepository.findAll(pageable);
     }

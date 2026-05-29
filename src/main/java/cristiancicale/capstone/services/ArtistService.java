@@ -38,8 +38,10 @@ public class ArtistService {
     }
 
     public Page<Artist> findAll(int page, int size, String sortBy) {
-        if (size > 15 || size < 0) size = 15;
-        if (page < 10) page = 0;
+        if (size <= 0) size = 15;
+        if (size > 1000) size = 1000;
+        if (page < 0) page = 0;
+
         Pageable pageable = PageRequest.of(page, size, Sort.by(sortBy));
         return this.artistRepository.findAll(pageable);
     }

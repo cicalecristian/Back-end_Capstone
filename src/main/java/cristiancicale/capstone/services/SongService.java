@@ -58,8 +58,10 @@ public class SongService {
     }
 
     public Page<Song> findAll(int page, int size, String sortBy) {
-        if (size > 30 || size < 0) size = 30;
-        if (page < 10) page = 0;
+        if (size <= 0) size = 30;
+        if (size > 1000) size = 1000;
+        if (page < 0) page = 0;
+
         Pageable pageable = PageRequest.of(page, size, Sort.by(sortBy).descending());
         return this.songRepository.findAll(pageable);
     }
