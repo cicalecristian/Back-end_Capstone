@@ -8,6 +8,7 @@ import cristiancicale.capstone.enums.RoleUser;
 import cristiancicale.capstone.exceptions.BadRequestException;
 import cristiancicale.capstone.exceptions.NotFoundException;
 import cristiancicale.capstone.payloads.UserDTO;
+import cristiancicale.capstone.payloads.UserUpdateDTO;
 import cristiancicale.capstone.repositories.UserRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.data.domain.Page;
@@ -77,7 +78,7 @@ public class UserService {
         return userRepository.findByEmail(email).orElseThrow(() -> new NotFoundException("User not found"));
     }
 
-    public User findByIdAndUpdate(UUID id, UserDTO body) {
+    public User findByIdAndUpdate(UUID id, UserUpdateDTO body) {
 
         User found = this.findById(id);
 
@@ -105,10 +106,6 @@ public class UserService {
         if (body.password() != null && !body.password().isBlank()) {
             String nuovaPassword = this.bcrypt.encode(body.password());
             found.setPassword(nuovaPassword);
-        }
-
-        if (body.avatar() != null && !body.avatar().isBlank()) {
-            found.setAvatar(body.avatar());
         }
 
         User updateUtente = this.userRepository.save(found);

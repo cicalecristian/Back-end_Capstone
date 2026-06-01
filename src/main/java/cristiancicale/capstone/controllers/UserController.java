@@ -5,6 +5,7 @@ import cristiancicale.capstone.enums.RoleUser;
 import cristiancicale.capstone.exceptions.ValidationException;
 import cristiancicale.capstone.payloads.UserDTO;
 import cristiancicale.capstone.payloads.UserRespDTO;
+import cristiancicale.capstone.payloads.UserUpdateDTO;
 import cristiancicale.capstone.services.UserService;
 import org.springframework.data.domain.Page;
 import org.springframework.http.HttpStatus;
@@ -44,7 +45,7 @@ public class UserController {
     @GetMapping
     @PreAuthorize("hasRole('ADMIN')")
     public Page<UserRespDTO> getUsers(@RequestParam(defaultValue = "0") int page,
-                                      @RequestParam(defaultValue = "10") int size,
+                                      @RequestParam(defaultValue = "20") int size,
                                       @RequestParam(defaultValue = "email") String sortBy) {
         Page<User> users = userService.findAll(page, size, sortBy);
         return users.map(user -> new UserRespDTO(user.getId(), user.getUsername(), user.getEmail(), user.getName(),
@@ -59,7 +60,7 @@ public class UserController {
     }
 
     @PutMapping("/me")
-    public UserRespDTO updateOwnProfile(@AuthenticationPrincipal User currentAuthenticatedUser, @RequestBody @Validated UserDTO body) {
+    public UserRespDTO updateOwnProfile(@AuthenticationPrincipal User currentAuthenticatedUser, @RequestBody @Validated UserUpdateDTO body) {
 
         User updatedUser = userService.findByIdAndUpdate(currentAuthenticatedUser.getId(), body);
 
@@ -83,7 +84,7 @@ public class UserController {
 
     @PutMapping("/{userId}")
     @PreAuthorize("hasRole('ADMIN')")
-    public UserRespDTO getByIdAndUpdate(@PathVariable UUID userId, @RequestBody @Validated UserDTO body) {
+    public UserRespDTO getByIdAndUpdate(@PathVariable UUID userId, @RequestBody @Validated UserUpdateDTO body) {
 
         User updatedUser = userService.findByIdAndUpdate(userId, body);
 
